@@ -1,0 +1,35 @@
+# args=-index chr13.19960731.fsa.gz -seed 100 -minlenltr 100 -maxlenltr 1000 -mindistltr 1500 -maxdistltr 15000 -similar 80 -mintsd 5 -maxtsd 20 -motif tgca -motifmis 0 -vic 60 -overlaps best -xdrop 5 -mat 2 -mis -2 -ins -3 -del -3 -v
+# user defined options and values:
+#   verbosemode: On
+#   indexname: chr13.19960731.fsa.gz
+#   xdropbelowscore: 5
+#   similaritythreshold: 80.00
+#   minseedlength: 100
+#   matchscore: 2
+#   mismatchscore: -2
+#   insertionscore: -3
+#   deletionscore: -3
+#   minLTRlength: 100
+#   maxLTRlength: 1000
+#   minLTRdistance: 1500
+#   maxLTRdistance: 15000
+#   overlaps: best
+#   minTSDlength: 5
+#   maxTSDlength: 20
+#   palindromic motif: tgca
+#   motifmismatchesallowed: 0
+#   vicinity: 60 nt
+# predictions are reported in the following way
+# s(ret) e(ret) l(ret) s(lLTR) e(lLTR) l(lLTR) s(rLTR) e(rLTR) l(rLTR) sim(LTRs) seq-nr 
+# where:
+# s = starting position
+# e = ending position
+# l = length
+# ret = LTR-retrotransposon
+# lLTR = left LTR
+# rLTR = right LTR
+# sim = similarity
+# seq-nr = sequence number
+357004  362917  5914  357004  357335  332  362586  362917  332  100.00  0
+372696  378621  5926  372696  373033  338  378284  378621  338  100.00  0
+184170  190083  5914  184170  184501  332  189752  190083  332  99.70  0

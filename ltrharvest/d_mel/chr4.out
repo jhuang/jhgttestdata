@@ -1,0 +1,43 @@
+# args=-index 4_genomic_dmel_RELEASE3-1.FASTA.gz -seed 76 -minlenltr 116 -maxlenltr 800 -mindistltr 2280 -maxdistltr 8773 -similar 91 -mintsd 4 -maxtsd 20 -vic 60 -overlaps best -xdrop 7 -mat 2 -mis -2 -ins -3 -del -3 -v
+# user defined options and values:
+#   verbosemode: On
+#   indexname: 4_genomic_dmel_RELEASE3-1.FASTA.gz
+#   xdropbelowscore: 7
+#   similaritythreshold: 91.00
+#   minseedlength: 76
+#   matchscore: 2
+#   mismatchscore: -2
+#   insertionscore: -3
+#   deletionscore: -3
+#   minLTRlength: 116
+#   maxLTRlength: 800
+#   minLTRdistance: 2280
+#   maxLTRdistance: 8773
+#   overlaps: best
+#   minTSDlength: 4
+#   maxTSDlength: 20
+#   palindromic motif: 
+#   motifmismatchesallowed: 4
+#   vicinity: 60 nt
+# predictions are reported in the following way
+# s(ret) e(ret) l(ret) s(lLTR) e(lLTR) l(lLTR) s(rLTR) e(rLTR) l(rLTR) sim(LTRs) seq-nr 
+# where:
+# s = starting position
+# e = ending position
+# l = length
+# ret = LTR-retrotransposon
+# lLTR = left LTR
+# rLTR = right LTR
+# sim = similarity
+# seq-nr = sequence number
+302517  309258  6742  302517  302901  385  308882  309258  377  94.81  0
+1010440  1014172  3733  1010440  1010877  438  1013734  1014172  439  92.71  0
+34275  40713  6439  34275  34773  499  40215  40713  499  100.00  0
+691399  699924  8526  691399  691815  417  699505  699924  420  99.29  0
+929987  933068  3082  929987  930332  346  932722  933068  347  99.71  0
+322410  326899  4490  322410  322943  534  326367  326899  533  95.88  0
+473780  477108  3329  473780  474410  631  476465  477108  644  92.55  0
+48169  54445  6277  48169  48962  794  53651  54445  795  98.49  0
+26705  34271  7567  26705  27494  790  33477  34271  795  97.23  0
+4887  13246  8360  4887  5180  294  12954  13246  293  98.30  0
+339783  347901  8119  339783  340215  433  347469  347901  433  100.00  0
