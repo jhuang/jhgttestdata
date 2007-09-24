@@ -19,10 +19,6 @@
 #   palindromic motif: 
 #   motifmismatchesallowed: 4
 #   vicinity: 60 nt
-# specialranges of length 60: 1
-# specialranges of length 60: 1
-# specialranges of length 60: 1
-# specialranges of length 60: 1
 # predictions are reported in the following way
 # s(ret) e(ret) l(ret) s(lLTR) e(lLTR) l(lLTR) s(rLTR) e(rLTR) l(rLTR) sim(LTRs) seq-nr 
 # where:
