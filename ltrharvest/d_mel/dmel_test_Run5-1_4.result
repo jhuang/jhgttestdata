@@ -1,0 +1,55 @@
+# args=-xdrop 5 -seed 30 -mis -2 -mintsd 4 -minlenltr 100 -ins -3 -maxtsd 20 -maxlenltr 1000 -vic 60 -del -3 -mindistltr 1000 -maxdistltr 15000 -overlaps best -mat 2 -similar 85 -v -out /tmp/dmel_test_Run5-1_4.fsa -gff3 /tmp/dmel_test_Run5-1_4.gff3 -outinner /tmp/dmel_test_Run5-1_4-innerregion.fsa -index /mnt/projects/gi/ltr/gt_ltr/d_mel_tab/chr4_tab/4_genomic_dmel_RELEASE3-1.FASTA
+# user defined options and values:
+#   verbosemode: On
+#   indexname: /mnt/projects/gi/ltr/gt_ltr/d_mel_tab/chr4_tab/4_genomic_dmel_RELEASE3-1.FASTA
+#   outputfile: /tmp/dmel_test_Run5-1_4.fsa
+#   outputfile inner region: /tmp/dmel_test_Run5-1_4-innerregion.fsa
+#   outputfile gff3 format: /tmp/dmel_test_Run5-1_4.gff3
+#   xdropbelowscore: 5
+#   similaritythreshold: 85.00
+#   minseedlength: 30
+#   matchscore: 2
+#   mismatchscore: -2
+#   insertionscore: -3
+#   deletionscore: -3
+#   minLTRlength: 100
+#   maxLTRlength: 1000
+#   minLTRdistance: 1000
+#   maxLTRdistance: 15000
+#   overlaps: best
+#   minTSDlength: 4
+#   maxTSDlength: 20
+#   palindromic motif: 
+#   motifmismatchesallowed: 4
+#   vicinity: 60 nt
+# predictions are reported in the following way
+# s(ret) e(ret) l(ret) s(lLTR) e(lLTR) l(lLTR) s(rLTR) e(rLTR) l(rLTR) sim(LTRs) seq-nr 
+# where:
+# s = starting position
+# e = ending position
+# l = length
+# ret = LTR-retrotransposon
+# lLTR = left LTR
+# rLTR = right LTR
+# sim = similarity
+# seq-nr = sequence number
+323201  327477  4277  323201  323512  312  327165  327477  313  98.40  0
+302517  309258  6742  302517  302901  385  308882  309258  377  94.81  0
+975537  980761  5225  975537  975681  145  980618  980761  144  90.34  0
+1010481  1014157  3677  1010481  1010866  386  1013770  1014157  388  94.33  0
+1196485  1211820  15336  1196485  1196955  471  1211344  1211820  477  96.65  0
+34275  40713  6439  34275  34773  499  40215  40713  499  100.00  0
+691399  699924  8526  691399  691815  417  699505  699924  420  99.29  0
+929987  933068  3082  929987  930332  346  932722  933068  347  99.71  0
+231806  236301  4496  231806  231933  128  236170  236301  132  93.18  0
+685670  687281  1612  685670  685797  128  687156  687281  126  86.72  0
+334962  336870  1909  334962  335103  142  336735  336870  136  86.62  0
+473782  477086  3305  473782  474389  608  476465  477086  622  93.89  0
+1217994  1226731  8738  1217994  1218264  271  1226453  1226731  279  89.25  0
+44957  60589  15633  44957  45660  704  59875  60589  715  97.62  0
+801852  808832  6981  801852  801994  143  808701  808832  132  85.31  0
+4887  13246  8360  4887  5180  294  12954  13246  293  98.30  0
+531538  534218  2681  531538  531664  127  534096  534218  123  88.19  0
+440785  453475  12691  440785  440978  194  453274  453475  202  85.15  0
+339783  347901  8119  339783  340215  433  347469  347901  433  100.00  0
+1227625  1228762  1138  1227625  1227735  111  1228640  1228762  123  88.62  0
