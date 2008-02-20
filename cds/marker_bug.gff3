@@ -1,0 +1,7 @@
+##gff-version   3
+##sequence-region   region.fas|1 1 2000701
+region.fas|1	gt csa	gene	40451	1999041	.	-	.	ID=gene1
+region.fas|1	gt csa	mRNA	539727	1470393	.	-	.	ID=mRNA74;Parent=gene1
+region.fas|1	gt csa	exon	539727	539736	0.600000	-	.	Parent=mRNA74
+region.fas|1	gt csa	exon	539798	539809	0.666667	-	.	Parent=mRNA74
+region.fas|1	gt csa	exon	1470326	1470393	0.970588	-	.	Parent=mRNA74
