@@ -1,0 +1,626 @@
+##gff-version   3
+##sequence-region   seq0 1 20302755
+# 2R 2R release:3 length:20302755bp Assembled 2R chromosome arm sequence md5:02c41c8ae9277cc78ca51621d12aa00f
+seq0	LTRharvest	repeat_region	4822	10139	.	?	.	ID=repeat_region1
+seq0	LTRharvest	target_site_duplication	4822	4825	.	?	.	Parent=repeat_region1
+seq0	LTRharvest	LTR_retrotransposon	4826	10135	.	?	.	ID=LTR_retrotransposon1;Parent=repeat_region1
+seq0	LTRharvest	long_terminal_repeat	4826	5331	.	?	.	Parent=LTR_retrotransposon1
+seq0	LTRharvest	long_terminal_repeat	9633	10135	.	?	.	Parent=LTR_retrotransposon1
+seq0	LTRharvest	target_site_duplication	10136	10139	.	?	.	Parent=repeat_region1
+###
+seq0	LTRharvest	repeat_region	188082	195556	.	?	.	ID=repeat_region2
+seq0	LTRharvest	target_site_duplication	188082	188085	.	?	.	Parent=repeat_region2
+seq0	LTRharvest	LTR_retrotransposon	188086	195552	.	?	.	ID=LTR_retrotransposon2;Parent=repeat_region2
+seq0	LTRharvest	long_terminal_repeat	188086	188567	.	?	.	Parent=LTR_retrotransposon2
+seq0	LTRharvest	long_terminal_repeat	195071	195552	.	?	.	Parent=LTR_retrotransposon2
+seq0	LTRharvest	target_site_duplication	195553	195556	.	?	.	Parent=repeat_region2
+###
+seq0	LTRharvest	repeat_region	239154	245369	.	?	.	ID=repeat_region3
+seq0	LTRharvest	target_site_duplication	239154	239157	.	?	.	Parent=repeat_region3
+seq0	LTRharvest	LTR_retrotransposon	239158	245365	.	?	.	ID=LTR_retrotransposon3;Parent=repeat_region3
+seq0	LTRharvest	long_terminal_repeat	239158	239437	.	?	.	Parent=LTR_retrotransposon3
+seq0	LTRharvest	long_terminal_repeat	245092	245365	.	?	.	Parent=LTR_retrotransposon3
+seq0	LTRharvest	target_site_duplication	245366	245369	.	?	.	Parent=repeat_region3
+###
+seq0	LTRharvest	repeat_region	266139	273696	.	?	.	ID=repeat_region4
+seq0	LTRharvest	target_site_duplication	266139	266142	.	?	.	Parent=repeat_region4
+seq0	LTRharvest	LTR_retrotransposon	266143	273692	.	?	.	ID=LTR_retrotransposon4;Parent=repeat_region4
+seq0	LTRharvest	long_terminal_repeat	266143	266379	.	?	.	Parent=LTR_retrotransposon4
+seq0	LTRharvest	long_terminal_repeat	273460	273692	.	?	.	Parent=LTR_retrotransposon4
+seq0	LTRharvest	target_site_duplication	273693	273696	.	?	.	Parent=repeat_region4
+###
+seq0	LTRharvest	repeat_region	301094	308745	.	?	.	ID=repeat_region5
+seq0	LTRharvest	target_site_duplication	301094	301097	.	?	.	Parent=repeat_region5
+seq0	LTRharvest	LTR_retrotransposon	301098	308741	.	?	.	ID=LTR_retrotransposon5;Parent=repeat_region5
+seq0	LTRharvest	long_terminal_repeat	301098	301323	.	?	.	Parent=LTR_retrotransposon5
+seq0	LTRharvest	long_terminal_repeat	308528	308741	.	?	.	Parent=LTR_retrotransposon5
+seq0	LTRharvest	target_site_duplication	308742	308745	.	?	.	Parent=repeat_region5
+###
+seq0	LTRharvest	repeat_region	356617	361773	.	?	.	ID=repeat_region6
+seq0	LTRharvest	target_site_duplication	356617	356621	.	?	.	Parent=repeat_region6
+seq0	LTRharvest	LTR_retrotransposon	356622	361768	.	?	.	ID=LTR_retrotransposon6;Parent=repeat_region6
+seq0	LTRharvest	long_terminal_repeat	356622	356899	.	?	.	Parent=LTR_retrotransposon6
+seq0	LTRharvest	long_terminal_repeat	361491	361768	.	?	.	Parent=LTR_retrotransposon6
+seq0	LTRharvest	target_site_duplication	361769	361773	.	?	.	Parent=repeat_region6
+###
+seq0	LTRharvest	repeat_region	366648	371731	.	?	.	ID=repeat_region7
+seq0	LTRharvest	target_site_duplication	366648	366652	.	?	.	Parent=repeat_region7
+seq0	LTRharvest	LTR_retrotransposon	366653	371726	.	?	.	ID=LTR_retrotransposon7;Parent=repeat_region7
+seq0	LTRharvest	long_terminal_repeat	366653	366915	.	?	.	Parent=LTR_retrotransposon7
+seq0	LTRharvest	long_terminal_repeat	371462	371726	.	?	.	Parent=LTR_retrotransposon7
+seq0	LTRharvest	target_site_duplication	371727	371731	.	?	.	Parent=repeat_region7
+###
+seq0	LTRharvest	repeat_region	425100	429520	.	?	.	ID=repeat_region8
+seq0	LTRharvest	target_site_duplication	425100	425103	.	?	.	Parent=repeat_region8
+seq0	LTRharvest	LTR_retrotransposon	425104	429516	.	?	.	ID=LTR_retrotransposon8;Parent=repeat_region8
+seq0	LTRharvest	long_terminal_repeat	425104	425327	.	?	.	Parent=LTR_retrotransposon8
+seq0	LTRharvest	long_terminal_repeat	429305	429516	.	?	.	Parent=LTR_retrotransposon8
+seq0	LTRharvest	target_site_duplication	429517	429520	.	?	.	Parent=repeat_region8
+###
+seq0	LTRharvest	repeat_region	506353	511530	.	?	.	ID=repeat_region9
+seq0	LTRharvest	target_site_duplication	506353	506356	.	?	.	Parent=repeat_region9
+seq0	LTRharvest	LTR_retrotransposon	506357	511526	.	?	.	ID=LTR_retrotransposon9;Parent=repeat_region9
+seq0	LTRharvest	long_terminal_repeat	506357	506625	.	?	.	Parent=LTR_retrotransposon9
+seq0	LTRharvest	long_terminal_repeat	511252	511526	.	?	.	Parent=LTR_retrotransposon9
+seq0	LTRharvest	target_site_duplication	511527	511530	.	?	.	Parent=repeat_region9
+###
+seq0	LTRharvest	repeat_region	518923	526539	.	?	.	ID=repeat_region10
+seq0	LTRharvest	target_site_duplication	518923	518926	.	?	.	Parent=repeat_region10
+seq0	LTRharvest	LTR_retrotransposon	518927	526535	.	?	.	ID=LTR_retrotransposon10;Parent=repeat_region10
+seq0	LTRharvest	long_terminal_repeat	518927	519444	.	?	.	Parent=LTR_retrotransposon10
+seq0	LTRharvest	long_terminal_repeat	526018	526535	.	?	.	Parent=LTR_retrotransposon10
+seq0	LTRharvest	target_site_duplication	526536	526539	.	?	.	Parent=repeat_region10
+###
+seq0	LTRharvest	repeat_region	556916	559498	.	?	.	ID=repeat_region11
+seq0	LTRharvest	target_site_duplication	556916	556919	.	?	.	Parent=repeat_region11
+seq0	LTRharvest	LTR_retrotransposon	556920	559494	.	?	.	ID=LTR_retrotransposon11;Parent=repeat_region11
+seq0	LTRharvest	long_terminal_repeat	556920	557195	.	?	.	Parent=LTR_retrotransposon11
+seq0	LTRharvest	long_terminal_repeat	559219	559494	.	?	.	Parent=LTR_retrotransposon11
+seq0	LTRharvest	target_site_duplication	559495	559498	.	?	.	Parent=repeat_region11
+###
+seq0	LTRharvest	repeat_region	682112	686146	.	?	.	ID=repeat_region12
+seq0	LTRharvest	target_site_duplication	682112	682115	.	?	.	Parent=repeat_region12
+seq0	LTRharvest	LTR_retrotransposon	682116	686142	.	?	.	ID=LTR_retrotransposon12;Parent=repeat_region12
+seq0	LTRharvest	long_terminal_repeat	682116	682538	.	?	.	Parent=LTR_retrotransposon12
+seq0	LTRharvest	long_terminal_repeat	685722	686142	.	?	.	Parent=LTR_retrotransposon12
+seq0	LTRharvest	target_site_duplication	686143	686146	.	?	.	Parent=repeat_region12
+###
+seq0	LTRharvest	repeat_region	708395	711166	.	?	.	ID=repeat_region13
+seq0	LTRharvest	target_site_duplication	708395	708398	.	?	.	Parent=repeat_region13
+seq0	LTRharvest	LTR_retrotransposon	708399	711162	.	?	.	ID=LTR_retrotransposon13;Parent=repeat_region13
+seq0	LTRharvest	long_terminal_repeat	708399	708629	.	?	.	Parent=LTR_retrotransposon13
+seq0	LTRharvest	long_terminal_repeat	710940	711162	.	?	.	Parent=LTR_retrotransposon13
+seq0	LTRharvest	target_site_duplication	711163	711166	.	?	.	Parent=repeat_region13
+###
+seq0	LTRharvest	repeat_region	724475	731641	.	?	.	ID=repeat_region14
+seq0	LTRharvest	target_site_duplication	724475	724478	.	?	.	Parent=repeat_region14
+seq0	LTRharvest	LTR_retrotransposon	724479	731637	.	?	.	ID=LTR_retrotransposon14;Parent=repeat_region14
+seq0	LTRharvest	long_terminal_repeat	724479	725072	.	?	.	Parent=LTR_retrotransposon14
+seq0	LTRharvest	long_terminal_repeat	731058	731637	.	?	.	Parent=LTR_retrotransposon14
+seq0	LTRharvest	target_site_duplication	731638	731641	.	?	.	Parent=repeat_region14
+###
+seq0	LTRharvest	repeat_region	760988	766469	.	?	.	ID=repeat_region15
+seq0	LTRharvest	target_site_duplication	760988	760991	.	?	.	Parent=repeat_region15
+seq0	LTRharvest	LTR_retrotransposon	760992	766465	.	?	.	ID=LTR_retrotransposon15;Parent=repeat_region15
+seq0	LTRharvest	long_terminal_repeat	760992	761291	.	?	.	Parent=LTR_retrotransposon15
+seq0	LTRharvest	long_terminal_repeat	766166	766465	.	?	.	Parent=LTR_retrotransposon15
+seq0	LTRharvest	target_site_duplication	766466	766469	.	?	.	Parent=repeat_region15
+###
+seq0	LTRharvest	repeat_region	1008199	1013225	.	?	.	ID=repeat_region16
+seq0	LTRharvest	target_site_duplication	1008199	1008202	.	?	.	Parent=repeat_region16
+seq0	LTRharvest	LTR_retrotransposon	1008203	1013221	.	?	.	ID=LTR_retrotransposon16;Parent=repeat_region16
+seq0	LTRharvest	long_terminal_repeat	1008203	1008473	.	?	.	Parent=LTR_retrotransposon16
+seq0	LTRharvest	long_terminal_repeat	1012948	1013221	.	?	.	Parent=LTR_retrotransposon16
+seq0	LTRharvest	target_site_duplication	1013222	1013225	.	?	.	Parent=repeat_region16
+###
+seq0	LTRharvest	repeat_region	1041080	1048586	.	?	.	ID=repeat_region17
+seq0	LTRharvest	target_site_duplication	1041080	1041083	.	?	.	Parent=repeat_region17
+seq0	LTRharvest	LTR_retrotransposon	1041084	1048582	.	?	.	ID=LTR_retrotransposon17;Parent=repeat_region17
+seq0	LTRharvest	long_terminal_repeat	1041084	1041595	.	?	.	Parent=LTR_retrotransposon17
+seq0	LTRharvest	long_terminal_repeat	1048071	1048582	.	?	.	Parent=LTR_retrotransposon17
+seq0	LTRharvest	target_site_duplication	1048583	1048586	.	?	.	Parent=repeat_region17
+###
+seq0	LTRharvest	repeat_region	1436908	1445136	.	?	.	ID=repeat_region18
+seq0	LTRharvest	target_site_duplication	1436908	1436911	.	?	.	Parent=repeat_region18
+seq0	LTRharvest	LTR_retrotransposon	1436912	1445132	.	?	.	ID=LTR_retrotransposon18;Parent=repeat_region18
+seq0	LTRharvest	long_terminal_repeat	1436912	1437215	.	?	.	Parent=LTR_retrotransposon18
+seq0	LTRharvest	long_terminal_repeat	1444828	1445132	.	?	.	Parent=LTR_retrotransposon18
+seq0	LTRharvest	target_site_duplication	1445133	1445136	.	?	.	Parent=repeat_region18
+###
+seq0	LTRharvest	repeat_region	1468776	1476159	.	?	.	ID=repeat_region19
+seq0	LTRharvest	target_site_duplication	1468776	1468779	.	?	.	Parent=repeat_region19
+seq0	LTRharvest	LTR_retrotransposon	1468780	1476155	.	?	.	ID=LTR_retrotransposon19;Parent=repeat_region19
+seq0	LTRharvest	long_terminal_repeat	1468780	1469209	.	?	.	Parent=LTR_retrotransposon19
+seq0	LTRharvest	long_terminal_repeat	1475726	1476155	.	?	.	Parent=LTR_retrotransposon19
+seq0	LTRharvest	target_site_duplication	1476156	1476159	.	?	.	Parent=repeat_region19
+###
+seq0	LTRharvest	repeat_region	1500137	1508001	.	?	.	ID=repeat_region20
+seq0	LTRharvest	target_site_duplication	1500137	1500140	.	?	.	Parent=repeat_region20
+seq0	LTRharvest	LTR_retrotransposon	1500141	1507997	.	?	.	ID=LTR_retrotransposon20;Parent=repeat_region20
+seq0	LTRharvest	long_terminal_repeat	1500141	1500436	.	?	.	Parent=LTR_retrotransposon20
+seq0	LTRharvest	long_terminal_repeat	1507706	1507997	.	?	.	Parent=LTR_retrotransposon20
+seq0	LTRharvest	target_site_duplication	1507998	1508001	.	?	.	Parent=repeat_region20
+###
+seq0	LTRharvest	repeat_region	1516934	1522050	.	?	.	ID=repeat_region21
+seq0	LTRharvest	target_site_duplication	1516934	1516937	.	?	.	Parent=repeat_region21
+seq0	LTRharvest	LTR_retrotransposon	1516938	1522046	.	?	.	ID=LTR_retrotransposon21;Parent=repeat_region21
+seq0	LTRharvest	long_terminal_repeat	1516938	1517218	.	?	.	Parent=LTR_retrotransposon21
+seq0	LTRharvest	long_terminal_repeat	1521763	1522046	.	?	.	Parent=LTR_retrotransposon21
+seq0	LTRharvest	target_site_duplication	1522047	1522050	.	?	.	Parent=repeat_region21
+###
+seq0	LTRharvest	repeat_region	1531725	1537195	.	?	.	ID=repeat_region22
+seq0	LTRharvest	target_site_duplication	1531725	1531728	.	?	.	Parent=repeat_region22
+seq0	LTRharvest	LTR_retrotransposon	1531729	1537191	.	?	.	ID=LTR_retrotransposon22;Parent=repeat_region22
+seq0	LTRharvest	long_terminal_repeat	1531729	1532035	.	?	.	Parent=LTR_retrotransposon22
+seq0	LTRharvest	long_terminal_repeat	1536893	1537191	.	?	.	Parent=LTR_retrotransposon22
+seq0	LTRharvest	target_site_duplication	1537192	1537195	.	?	.	Parent=repeat_region22
+###
+seq0	LTRharvest	repeat_region	1640727	1645763	.	?	.	ID=repeat_region23
+seq0	LTRharvest	target_site_duplication	1640727	1640730	.	?	.	Parent=repeat_region23
+seq0	LTRharvest	LTR_retrotransposon	1640731	1645759	.	?	.	ID=LTR_retrotransposon23;Parent=repeat_region23
+seq0	LTRharvest	long_terminal_repeat	1640731	1641007	.	?	.	Parent=LTR_retrotransposon23
+seq0	LTRharvest	long_terminal_repeat	1645482	1645759	.	?	.	Parent=LTR_retrotransposon23
+seq0	LTRharvest	target_site_duplication	1645760	1645763	.	?	.	Parent=repeat_region23
+###
+seq0	LTRharvest	repeat_region	2013119	2020649	.	?	.	ID=repeat_region24
+seq0	LTRharvest	target_site_duplication	2013119	2013122	.	?	.	Parent=repeat_region24
+seq0	LTRharvest	LTR_retrotransposon	2013123	2020645	.	?	.	ID=LTR_retrotransposon24;Parent=repeat_region24
+seq0	LTRharvest	long_terminal_repeat	2013123	2013640	.	?	.	Parent=LTR_retrotransposon24
+seq0	LTRharvest	long_terminal_repeat	2020128	2020645	.	?	.	Parent=LTR_retrotransposon24
+seq0	LTRharvest	target_site_duplication	2020646	2020649	.	?	.	Parent=repeat_region24
+###
+seq0	LTRharvest	repeat_region	2270793	2278492	.	?	.	ID=repeat_region25
+seq0	LTRharvest	target_site_duplication	2270793	2270797	.	?	.	Parent=repeat_region25
+seq0	LTRharvest	LTR_retrotransposon	2270798	2278487	.	?	.	ID=LTR_retrotransposon25;Parent=repeat_region25
+seq0	LTRharvest	long_terminal_repeat	2270798	2271226	.	?	.	Parent=LTR_retrotransposon25
+seq0	LTRharvest	long_terminal_repeat	2278059	2278487	.	?	.	Parent=LTR_retrotransposon25
+seq0	LTRharvest	target_site_duplication	2278488	2278492	.	?	.	Parent=repeat_region25
+###
+seq0	LTRharvest	repeat_region	2323140	2330142	.	?	.	ID=repeat_region26
+seq0	LTRharvest	target_site_duplication	2323140	2323143	.	?	.	Parent=repeat_region26
+seq0	LTRharvest	LTR_retrotransposon	2323144	2330138	.	?	.	ID=LTR_retrotransposon26;Parent=repeat_region26
+seq0	LTRharvest	long_terminal_repeat	2323144	2323557	.	?	.	Parent=LTR_retrotransposon26
+seq0	LTRharvest	long_terminal_repeat	2329725	2330138	.	?	.	Parent=LTR_retrotransposon26
+seq0	LTRharvest	target_site_duplication	2330139	2330142	.	?	.	Parent=repeat_region26
+###
+seq0	LTRharvest	repeat_region	2876624	2883043	.	?	.	ID=repeat_region27
+seq0	LTRharvest	target_site_duplication	2876624	2876627	.	?	.	Parent=repeat_region27
+seq0	LTRharvest	LTR_retrotransposon	2876628	2883039	.	?	.	ID=LTR_retrotransposon27;Parent=repeat_region27
+seq0	LTRharvest	long_terminal_repeat	2876628	2876903	.	?	.	Parent=LTR_retrotransposon27
+seq0	LTRharvest	long_terminal_repeat	2882764	2883039	.	?	.	Parent=LTR_retrotransposon27
+seq0	LTRharvest	target_site_duplication	2883040	2883043	.	?	.	Parent=repeat_region27
+###
+seq0	LTRharvest	repeat_region	2923208	2928254	.	?	.	ID=repeat_region28
+seq0	LTRharvest	target_site_duplication	2923208	2923215	.	?	.	Parent=repeat_region28
+seq0	LTRharvest	LTR_retrotransposon	2923216	2928246	.	?	.	ID=LTR_retrotransposon28;Parent=repeat_region28
+seq0	LTRharvest	long_terminal_repeat	2923216	2923493	.	?	.	Parent=LTR_retrotransposon28
+seq0	LTRharvest	long_terminal_repeat	2927969	2928246	.	?	.	Parent=LTR_retrotransposon28
+seq0	LTRharvest	target_site_duplication	2928247	2928254	.	?	.	Parent=repeat_region28
+###
+seq0	LTRharvest	repeat_region	3167788	3174318	.	?	.	ID=repeat_region29
+seq0	LTRharvest	target_site_duplication	3167788	3167791	.	?	.	Parent=repeat_region29
+seq0	LTRharvest	LTR_retrotransposon	3167792	3174314	.	?	.	ID=LTR_retrotransposon29;Parent=repeat_region29
+seq0	LTRharvest	long_terminal_repeat	3167792	3168205	.	?	.	Parent=LTR_retrotransposon29
+seq0	LTRharvest	long_terminal_repeat	3173901	3174314	.	?	.	Parent=LTR_retrotransposon29
+seq0	LTRharvest	target_site_duplication	3174315	3174318	.	?	.	Parent=repeat_region29
+###
+seq0	LTRharvest	repeat_region	3770446	3774837	.	?	.	ID=repeat_region30
+seq0	LTRharvest	target_site_duplication	3770446	3770449	.	?	.	Parent=repeat_region30
+seq0	LTRharvest	LTR_retrotransposon	3770450	3774833	.	?	.	ID=LTR_retrotransposon30;Parent=repeat_region30
+seq0	LTRharvest	long_terminal_repeat	3770450	3771127	.	?	.	Parent=LTR_retrotransposon30
+seq0	LTRharvest	long_terminal_repeat	3774155	3774833	.	?	.	Parent=LTR_retrotransposon30
+seq0	LTRharvest	target_site_duplication	3774834	3774837	.	?	.	Parent=repeat_region30
+###
+seq0	LTRharvest	repeat_region	3838709	3844850	.	?	.	ID=repeat_region31
+seq0	LTRharvest	target_site_duplication	3838709	3838712	.	?	.	Parent=repeat_region31
+seq0	LTRharvest	LTR_retrotransposon	3838713	3844846	.	?	.	ID=LTR_retrotransposon31;Parent=repeat_region31
+seq0	LTRharvest	long_terminal_repeat	3838713	3838958	.	?	.	Parent=LTR_retrotransposon31
+seq0	LTRharvest	long_terminal_repeat	3844596	3844846	.	?	.	Parent=LTR_retrotransposon31
+seq0	LTRharvest	target_site_duplication	3844847	3844850	.	?	.	Parent=repeat_region31
+###
+seq0	LTRharvest	repeat_region	4212100	4218520	.	?	.	ID=repeat_region32
+seq0	LTRharvest	target_site_duplication	4212100	4212103	.	?	.	Parent=repeat_region32
+seq0	LTRharvest	LTR_retrotransposon	4212104	4218516	.	?	.	ID=LTR_retrotransposon32;Parent=repeat_region32
+seq0	LTRharvest	long_terminal_repeat	4212104	4212379	.	?	.	Parent=LTR_retrotransposon32
+seq0	LTRharvest	long_terminal_repeat	4218241	4218516	.	?	.	Parent=LTR_retrotransposon32
+seq0	LTRharvest	target_site_duplication	4218517	4218520	.	?	.	Parent=repeat_region32
+###
+seq0	LTRharvest	repeat_region	4413022	4422007	.	?	.	ID=repeat_region33
+seq0	LTRharvest	target_site_duplication	4413022	4413026	.	?	.	Parent=repeat_region33
+seq0	LTRharvest	LTR_retrotransposon	4413027	4422002	.	?	.	ID=LTR_retrotransposon33;Parent=repeat_region33
+seq0	LTRharvest	long_terminal_repeat	4413027	4413455	.	?	.	Parent=LTR_retrotransposon33
+seq0	LTRharvest	long_terminal_repeat	4421573	4422002	.	?	.	Parent=LTR_retrotransposon33
+seq0	LTRharvest	target_site_duplication	4422003	4422007	.	?	.	Parent=repeat_region33
+###
+seq0	LTRharvest	repeat_region	4787298	4794799	.	?	.	ID=repeat_region34
+seq0	LTRharvest	target_site_duplication	4787298	4787301	.	?	.	Parent=repeat_region34
+seq0	LTRharvest	LTR_retrotransposon	4787302	4794795	.	?	.	ID=LTR_retrotransposon34;Parent=repeat_region34
+seq0	LTRharvest	long_terminal_repeat	4787302	4787813	.	?	.	Parent=LTR_retrotransposon34
+seq0	LTRharvest	long_terminal_repeat	4794284	4794795	.	?	.	Parent=LTR_retrotransposon34
+seq0	LTRharvest	target_site_duplication	4794796	4794799	.	?	.	Parent=repeat_region34
+###
+seq0	LTRharvest	repeat_region	5237563	5246680	.	?	.	ID=repeat_region35
+seq0	LTRharvest	target_site_duplication	5237563	5237566	.	?	.	Parent=repeat_region35
+seq0	LTRharvest	LTR_retrotransposon	5237567	5246676	.	?	.	ID=LTR_retrotransposon35;Parent=repeat_region35
+seq0	LTRharvest	long_terminal_repeat	5237567	5237995	.	?	.	Parent=LTR_retrotransposon35
+seq0	LTRharvest	long_terminal_repeat	5246248	5246676	.	?	.	Parent=LTR_retrotransposon35
+seq0	LTRharvest	target_site_duplication	5246677	5246680	.	?	.	Parent=repeat_region35
+###
+seq0	LTRharvest	repeat_region	5646240	5654777	.	?	.	ID=repeat_region36
+seq0	LTRharvest	target_site_duplication	5646240	5646243	.	?	.	Parent=repeat_region36
+seq0	LTRharvest	LTR_retrotransposon	5646244	5654773	.	?	.	ID=LTR_retrotransposon36;Parent=repeat_region36
+seq0	LTRharvest	long_terminal_repeat	5646244	5646663	.	?	.	Parent=LTR_retrotransposon36
+seq0	LTRharvest	long_terminal_repeat	5654350	5654773	.	?	.	Parent=LTR_retrotransposon36
+seq0	LTRharvest	target_site_duplication	5654774	5654777	.	?	.	Parent=repeat_region36
+###
+seq0	LTRharvest	repeat_region	5690397	5697889	.	?	.	ID=repeat_region37
+seq0	LTRharvest	target_site_duplication	5690397	5690400	.	?	.	Parent=repeat_region37
+seq0	LTRharvest	LTR_retrotransposon	5690401	5697885	.	?	.	ID=LTR_retrotransposon37;Parent=repeat_region37
+seq0	LTRharvest	long_terminal_repeat	5690401	5690846	.	?	.	Parent=LTR_retrotransposon37
+seq0	LTRharvest	long_terminal_repeat	5697443	5697885	.	?	.	Parent=LTR_retrotransposon37
+seq0	LTRharvest	target_site_duplication	5697886	5697889	.	?	.	Parent=repeat_region37
+###
+seq0	LTRharvest	repeat_region	5723976	5731388	.	?	.	ID=repeat_region38
+seq0	LTRharvest	target_site_duplication	5723976	5723979	.	?	.	Parent=repeat_region38
+seq0	LTRharvest	LTR_retrotransposon	5723980	5731384	.	?	.	ID=LTR_retrotransposon38;Parent=repeat_region38
+seq0	LTRharvest	long_terminal_repeat	5723980	5724421	.	?	.	Parent=LTR_retrotransposon38
+seq0	LTRharvest	long_terminal_repeat	5730942	5731384	.	?	.	Parent=LTR_retrotransposon38
+seq0	LTRharvest	target_site_duplication	5731385	5731388	.	?	.	Parent=repeat_region38
+###
+seq0	LTRharvest	repeat_region	6012808	6020309	.	?	.	ID=repeat_region39
+seq0	LTRharvest	target_site_duplication	6012808	6012811	.	?	.	Parent=repeat_region39
+seq0	LTRharvest	LTR_retrotransposon	6012812	6020305	.	?	.	ID=LTR_retrotransposon39;Parent=repeat_region39
+seq0	LTRharvest	long_terminal_repeat	6012812	6013323	.	?	.	Parent=LTR_retrotransposon39
+seq0	LTRharvest	long_terminal_repeat	6019794	6020305	.	?	.	Parent=LTR_retrotransposon39
+seq0	LTRharvest	target_site_duplication	6020306	6020309	.	?	.	Parent=repeat_region39
+###
+seq0	LTRharvest	repeat_region	6074586	6083719	.	?	.	ID=repeat_region40
+seq0	LTRharvest	target_site_duplication	6074586	6074590	.	?	.	Parent=repeat_region40
+seq0	LTRharvest	LTR_retrotransposon	6074591	6083714	.	?	.	ID=LTR_retrotransposon40;Parent=repeat_region40
+seq0	LTRharvest	long_terminal_repeat	6074591	6075026	.	?	.	Parent=LTR_retrotransposon40
+seq0	LTRharvest	long_terminal_repeat	6083279	6083714	.	?	.	Parent=LTR_retrotransposon40
+seq0	LTRharvest	target_site_duplication	6083715	6083719	.	?	.	Parent=repeat_region40
+###
+seq0	LTRharvest	repeat_region	6362399	6366670	.	?	.	ID=repeat_region41
+seq0	LTRharvest	target_site_duplication	6362399	6362402	.	?	.	Parent=repeat_region41
+seq0	LTRharvest	LTR_retrotransposon	6362403	6366666	.	?	.	ID=LTR_retrotransposon41;Parent=repeat_region41
+seq0	LTRharvest	long_terminal_repeat	6362403	6362678	.	?	.	Parent=LTR_retrotransposon41
+seq0	LTRharvest	long_terminal_repeat	6366389	6366666	.	?	.	Parent=LTR_retrotransposon41
+seq0	LTRharvest	target_site_duplication	6366667	6366670	.	?	.	Parent=repeat_region41
+###
+seq0	LTRharvest	repeat_region	6409532	6414591	.	?	.	ID=repeat_region42
+seq0	LTRharvest	target_site_duplication	6409532	6409535	.	?	.	Parent=repeat_region42
+seq0	LTRharvest	LTR_retrotransposon	6409536	6414587	.	?	.	ID=LTR_retrotransposon42;Parent=repeat_region42
+seq0	LTRharvest	long_terminal_repeat	6409536	6409825	.	?	.	Parent=LTR_retrotransposon42
+seq0	LTRharvest	long_terminal_repeat	6414300	6414587	.	?	.	Parent=LTR_retrotransposon42
+seq0	LTRharvest	target_site_duplication	6414588	6414591	.	?	.	Parent=repeat_region42
+###
+seq0	LTRharvest	repeat_region	6480392	6483385	.	?	.	ID=repeat_region43
+seq0	LTRharvest	target_site_duplication	6480392	6480395	.	?	.	Parent=repeat_region43
+seq0	LTRharvest	LTR_retrotransposon	6480396	6483381	.	?	.	ID=LTR_retrotransposon43;Parent=repeat_region43
+seq0	LTRharvest	long_terminal_repeat	6480396	6480800	.	?	.	Parent=LTR_retrotransposon43
+seq0	LTRharvest	long_terminal_repeat	6482973	6483381	.	?	.	Parent=LTR_retrotransposon43
+seq0	LTRharvest	target_site_duplication	6483382	6483385	.	?	.	Parent=repeat_region43
+###
+seq0	LTRharvest	repeat_region	7681249	7689033	.	?	.	ID=repeat_region44
+seq0	LTRharvest	target_site_duplication	7681249	7681252	.	?	.	Parent=repeat_region44
+seq0	LTRharvest	LTR_retrotransposon	7681253	7689029	.	?	.	ID=LTR_retrotransposon44;Parent=repeat_region44
+seq0	LTRharvest	long_terminal_repeat	7681253	7681661	.	?	.	Parent=LTR_retrotransposon44
+seq0	LTRharvest	long_terminal_repeat	7688604	7689029	.	?	.	Parent=LTR_retrotransposon44
+seq0	LTRharvest	target_site_duplication	7689030	7689033	.	?	.	Parent=repeat_region44
+###
+seq0	LTRharvest	repeat_region	7772279	7780595	.	?	.	ID=repeat_region45
+seq0	LTRharvest	target_site_duplication	7772279	7772282	.	?	.	Parent=repeat_region45
+seq0	LTRharvest	LTR_retrotransposon	7772283	7780591	.	?	.	ID=LTR_retrotransposon45;Parent=repeat_region45
+seq0	LTRharvest	long_terminal_repeat	7772283	7772711	.	?	.	Parent=LTR_retrotransposon45
+seq0	LTRharvest	long_terminal_repeat	7780159	7780591	.	?	.	Parent=LTR_retrotransposon45
+seq0	LTRharvest	target_site_duplication	7780592	7780595	.	?	.	Parent=repeat_region45
+###
+seq0	LTRharvest	repeat_region	7854059	7862372	.	?	.	ID=repeat_region46
+seq0	LTRharvest	target_site_duplication	7854059	7854062	.	?	.	Parent=repeat_region46
+seq0	LTRharvest	LTR_retrotransposon	7854063	7862368	.	?	.	ID=LTR_retrotransposon46;Parent=repeat_region46
+seq0	LTRharvest	long_terminal_repeat	7854063	7854491	.	?	.	Parent=LTR_retrotransposon46
+seq0	LTRharvest	long_terminal_repeat	7861930	7862368	.	?	.	Parent=LTR_retrotransposon46
+seq0	LTRharvest	target_site_duplication	7862369	7862372	.	?	.	Parent=repeat_region46
+###
+seq0	LTRharvest	repeat_region	7920646	7927037	.	?	.	ID=repeat_region47
+seq0	LTRharvest	target_site_duplication	7920646	7920649	.	?	.	Parent=repeat_region47
+seq0	LTRharvest	LTR_retrotransposon	7920650	7927033	.	?	.	ID=LTR_retrotransposon47;Parent=repeat_region47
+seq0	LTRharvest	long_terminal_repeat	7920650	7920791	.	?	.	Parent=LTR_retrotransposon47
+seq0	LTRharvest	long_terminal_repeat	7926903	7927033	.	?	.	Parent=LTR_retrotransposon47
+seq0	LTRharvest	target_site_duplication	7927034	7927037	.	?	.	Parent=repeat_region47
+###
+seq0	LTRharvest	repeat_region	7927040	7932272	.	?	.	ID=repeat_region48
+seq0	LTRharvest	target_site_duplication	7927040	7927043	.	?	.	Parent=repeat_region48
+seq0	LTRharvest	LTR_retrotransposon	7927044	7932268	.	?	.	ID=LTR_retrotransposon48;Parent=repeat_region48
+seq0	LTRharvest	long_terminal_repeat	7927044	7927535	.	?	.	Parent=LTR_retrotransposon48
+seq0	LTRharvest	long_terminal_repeat	7931781	7932268	.	?	.	Parent=LTR_retrotransposon48
+seq0	LTRharvest	target_site_duplication	7932269	7932272	.	?	.	Parent=repeat_region48
+###
+seq0	LTRharvest	repeat_region	8474512	8480034	.	?	.	ID=repeat_region49
+seq0	LTRharvest	target_site_duplication	8474512	8474515	.	?	.	Parent=repeat_region49
+seq0	LTRharvest	LTR_retrotransposon	8474516	8480030	.	?	.	ID=LTR_retrotransposon49;Parent=repeat_region49
+seq0	LTRharvest	long_terminal_repeat	8474516	8475305	.	?	.	Parent=LTR_retrotransposon49
+seq0	LTRharvest	long_terminal_repeat	8479233	8480030	.	?	.	Parent=LTR_retrotransposon49
+seq0	LTRharvest	target_site_duplication	8480031	8480034	.	?	.	Parent=repeat_region49
+###
+seq0	LTRharvest	repeat_region	8792899	8800506	.	?	.	ID=repeat_region50
+seq0	LTRharvest	target_site_duplication	8792899	8792902	.	?	.	Parent=repeat_region50
+seq0	LTRharvest	LTR_retrotransposon	8792903	8800502	.	?	.	ID=LTR_retrotransposon50;Parent=repeat_region50
+seq0	LTRharvest	long_terminal_repeat	8792903	8793419	.	?	.	Parent=LTR_retrotransposon50
+seq0	LTRharvest	long_terminal_repeat	8799986	8800502	.	?	.	Parent=LTR_retrotransposon50
+seq0	LTRharvest	target_site_duplication	8800503	8800506	.	?	.	Parent=repeat_region50
+###
+seq0	LTRharvest	repeat_region	9166500	9173557	.	?	.	ID=repeat_region51
+seq0	LTRharvest	target_site_duplication	9166500	9166503	.	?	.	Parent=repeat_region51
+seq0	LTRharvest	LTR_retrotransposon	9166504	9173553	.	?	.	ID=LTR_retrotransposon51;Parent=repeat_region51
+seq0	LTRharvest	long_terminal_repeat	9166504	9166769	.	?	.	Parent=LTR_retrotransposon51
+seq0	LTRharvest	long_terminal_repeat	9173288	9173553	.	?	.	Parent=LTR_retrotransposon51
+seq0	LTRharvest	target_site_duplication	9173554	9173557	.	?	.	Parent=repeat_region51
+###
+seq0	LTRharvest	repeat_region	9255247	9258987	.	?	.	ID=repeat_region52
+seq0	LTRharvest	target_site_duplication	9255247	9255250	.	?	.	Parent=repeat_region52
+seq0	LTRharvest	LTR_retrotransposon	9255251	9258983	.	?	.	ID=LTR_retrotransposon52;Parent=repeat_region52
+seq0	LTRharvest	long_terminal_repeat	9255251	9256022	.	?	.	Parent=LTR_retrotransposon52
+seq0	LTRharvest	long_terminal_repeat	9258209	9258983	.	?	.	Parent=LTR_retrotransposon52
+seq0	LTRharvest	target_site_duplication	9258984	9258987	.	?	.	Parent=repeat_region52
+###
+seq0	LTRharvest	repeat_region	9531066	9540176	.	?	.	ID=repeat_region53
+seq0	LTRharvest	target_site_duplication	9531066	9531069	.	?	.	Parent=repeat_region53
+seq0	LTRharvest	LTR_retrotransposon	9531070	9540172	.	?	.	ID=LTR_retrotransposon53;Parent=repeat_region53
+seq0	LTRharvest	long_terminal_repeat	9531070	9531511	.	?	.	Parent=LTR_retrotransposon53
+seq0	LTRharvest	long_terminal_repeat	9539737	9540172	.	?	.	Parent=LTR_retrotransposon53
+seq0	LTRharvest	target_site_duplication	9540173	9540176	.	?	.	Parent=repeat_region53
+###
+seq0	LTRharvest	repeat_region	9952987	9961545	.	?	.	ID=repeat_region54
+seq0	LTRharvest	target_site_duplication	9952987	9952990	.	?	.	Parent=repeat_region54
+seq0	LTRharvest	LTR_retrotransposon	9952991	9961541	.	?	.	ID=LTR_retrotransposon54;Parent=repeat_region54
+seq0	LTRharvest	long_terminal_repeat	9952991	9953315	.	?	.	Parent=LTR_retrotransposon54
+seq0	LTRharvest	long_terminal_repeat	9961217	9961541	.	?	.	Parent=LTR_retrotransposon54
+seq0	LTRharvest	target_site_duplication	9961542	9961545	.	?	.	Parent=repeat_region54
+###
+seq0	LTRharvest	repeat_region	10079230	10086611	.	?	.	ID=repeat_region55
+seq0	LTRharvest	target_site_duplication	10079230	10079233	.	?	.	Parent=repeat_region55
+seq0	LTRharvest	LTR_retrotransposon	10079234	10086607	.	?	.	ID=LTR_retrotransposon55;Parent=repeat_region55
+seq0	LTRharvest	long_terminal_repeat	10079234	10079680	.	?	.	Parent=LTR_retrotransposon55
+seq0	LTRharvest	long_terminal_repeat	10086150	10086607	.	?	.	Parent=LTR_retrotransposon55
+seq0	LTRharvest	target_site_duplication	10086608	10086611	.	?	.	Parent=repeat_region55
+###
+seq0	LTRharvest	repeat_region	10148755	10155754	.	?	.	ID=repeat_region56
+seq0	LTRharvest	target_site_duplication	10148755	10148758	.	?	.	Parent=repeat_region56
+seq0	LTRharvest	LTR_retrotransposon	10148759	10155750	.	?	.	ID=LTR_retrotransposon56;Parent=repeat_region56
+seq0	LTRharvest	long_terminal_repeat	10148759	10149172	.	?	.	Parent=LTR_retrotransposon56
+seq0	LTRharvest	long_terminal_repeat	10155337	10155750	.	?	.	Parent=LTR_retrotransposon56
+seq0	LTRharvest	target_site_duplication	10155751	10155754	.	?	.	Parent=repeat_region56
+###
+seq0	LTRharvest	repeat_region	10183094	10191525	.	?	.	ID=repeat_region57
+seq0	LTRharvest	target_site_duplication	10183094	10183097	.	?	.	Parent=repeat_region57
+seq0	LTRharvest	LTR_retrotransposon	10183098	10191521	.	?	.	ID=LTR_retrotransposon57;Parent=repeat_region57
+seq0	LTRharvest	long_terminal_repeat	10183098	10183519	.	?	.	Parent=LTR_retrotransposon57
+seq0	LTRharvest	long_terminal_repeat	10191104	10191521	.	?	.	Parent=LTR_retrotransposon57
+seq0	LTRharvest	target_site_duplication	10191522	10191525	.	?	.	Parent=repeat_region57
+###
+seq0	LTRharvest	repeat_region	10404445	10413012	.	?	.	ID=repeat_region58
+seq0	LTRharvest	target_site_duplication	10404445	10404448	.	?	.	Parent=repeat_region58
+seq0	LTRharvest	LTR_retrotransposon	10404449	10413008	.	?	.	ID=LTR_retrotransposon58;Parent=repeat_region58
+seq0	LTRharvest	long_terminal_repeat	10404449	10404894	.	?	.	Parent=LTR_retrotransposon58
+seq0	LTRharvest	long_terminal_repeat	10412568	10413008	.	?	.	Parent=LTR_retrotransposon58
+seq0	LTRharvest	target_site_duplication	10413009	10413012	.	?	.	Parent=repeat_region58
+###
+seq0	LTRharvest	repeat_region	11033705	11038513	.	?	.	ID=repeat_region59
+seq0	LTRharvest	target_site_duplication	11033705	11033708	.	?	.	Parent=repeat_region59
+seq0	LTRharvest	LTR_retrotransposon	11033709	11038509	.	?	.	ID=LTR_retrotransposon59;Parent=repeat_region59
+seq0	LTRharvest	long_terminal_repeat	11033709	11034223	.	?	.	Parent=LTR_retrotransposon59
+seq0	LTRharvest	long_terminal_repeat	11037993	11038509	.	?	.	Parent=LTR_retrotransposon59
+seq0	LTRharvest	target_site_duplication	11038510	11038513	.	?	.	Parent=repeat_region59
+###
+seq0	LTRharvest	repeat_region	11125504	11128087	.	?	.	ID=repeat_region60
+seq0	LTRharvest	target_site_duplication	11125504	11125507	.	?	.	Parent=repeat_region60
+seq0	LTRharvest	LTR_retrotransposon	11125508	11128083	.	?	.	ID=LTR_retrotransposon60;Parent=repeat_region60
+seq0	LTRharvest	long_terminal_repeat	11125508	11125783	.	?	.	Parent=LTR_retrotransposon60
+seq0	LTRharvest	long_terminal_repeat	11127808	11128083	.	?	.	Parent=LTR_retrotransposon60
+seq0	LTRharvest	target_site_duplication	11128084	11128087	.	?	.	Parent=repeat_region60
+###
+seq0	LTRharvest	repeat_region	11603413	11608573	.	?	.	ID=repeat_region61
+seq0	LTRharvest	target_site_duplication	11603413	11603417	.	?	.	Parent=repeat_region61
+seq0	LTRharvest	LTR_retrotransposon	11603418	11608568	.	?	.	ID=LTR_retrotransposon61;Parent=repeat_region61
+seq0	LTRharvest	long_terminal_repeat	11603418	11603693	.	?	.	Parent=LTR_retrotransposon61
+seq0	LTRharvest	long_terminal_repeat	11608293	11608568	.	?	.	Parent=LTR_retrotransposon61
+seq0	LTRharvest	target_site_duplication	11608569	11608573	.	?	.	Parent=repeat_region61
+###
+seq0	LTRharvest	repeat_region	12240130	12246271	.	?	.	ID=repeat_region62
+seq0	LTRharvest	target_site_duplication	12240130	12240134	.	?	.	Parent=repeat_region62
+seq0	LTRharvest	LTR_retrotransposon	12240135	12246266	.	?	.	ID=LTR_retrotransposon62;Parent=repeat_region62
+seq0	LTRharvest	long_terminal_repeat	12240135	12240379	.	?	.	Parent=LTR_retrotransposon62
+seq0	LTRharvest	long_terminal_repeat	12246022	12246266	.	?	.	Parent=LTR_retrotransposon62
+seq0	LTRharvest	target_site_duplication	12246267	12246271	.	?	.	Parent=repeat_region62
+###
+seq0	LTRharvest	repeat_region	12300284	12305438	.	?	.	ID=repeat_region63
+seq0	LTRharvest	target_site_duplication	12300284	12300287	.	?	.	Parent=repeat_region63
+seq0	LTRharvest	LTR_retrotransposon	12300288	12305434	.	?	.	ID=LTR_retrotransposon63;Parent=repeat_region63
+seq0	LTRharvest	long_terminal_repeat	12300288	12300564	.	?	.	Parent=LTR_retrotransposon63
+seq0	LTRharvest	long_terminal_repeat	12305156	12305434	.	?	.	Parent=LTR_retrotransposon63
+seq0	LTRharvest	target_site_duplication	12305435	12305438	.	?	.	Parent=repeat_region63
+###
+seq0	LTRharvest	repeat_region	13425874	13434974	.	?	.	ID=repeat_region64
+seq0	LTRharvest	target_site_duplication	13425874	13425877	.	?	.	Parent=repeat_region64
+seq0	LTRharvest	LTR_retrotransposon	13425878	13434970	.	?	.	ID=LTR_retrotransposon64;Parent=repeat_region64
+seq0	LTRharvest	long_terminal_repeat	13425878	13426309	.	?	.	Parent=LTR_retrotransposon64
+seq0	LTRharvest	long_terminal_repeat	13434541	13434970	.	?	.	Parent=LTR_retrotransposon64
+seq0	LTRharvest	target_site_duplication	13434971	13434974	.	?	.	Parent=repeat_region64
+###
+seq0	LTRharvest	repeat_region	13551592	13559012	.	?	.	ID=repeat_region65
+seq0	LTRharvest	target_site_duplication	13551592	13551595	.	?	.	Parent=repeat_region65
+seq0	LTRharvest	LTR_retrotransposon	13551596	13559008	.	?	.	ID=LTR_retrotransposon65;Parent=repeat_region65
+seq0	LTRharvest	long_terminal_repeat	13551596	13551999	.	?	.	Parent=LTR_retrotransposon65
+seq0	LTRharvest	long_terminal_repeat	13558606	13559008	.	?	.	Parent=LTR_retrotransposon65
+seq0	LTRharvest	target_site_duplication	13559009	13559012	.	?	.	Parent=repeat_region65
+###
+seq0	LTRharvest	repeat_region	13639568	13645707	.	?	.	ID=repeat_region66
+seq0	LTRharvest	target_site_duplication	13639568	13639572	.	?	.	Parent=repeat_region66
+seq0	LTRharvest	LTR_retrotransposon	13639573	13645702	.	?	.	ID=LTR_retrotransposon66;Parent=repeat_region66
+seq0	LTRharvest	long_terminal_repeat	13639573	13639933	.	?	.	Parent=LTR_retrotransposon66
+seq0	LTRharvest	long_terminal_repeat	13645342	13645702	.	?	.	Parent=LTR_retrotransposon66
+seq0	LTRharvest	target_site_duplication	13645703	13645707	.	?	.	Parent=repeat_region66
+###
+seq0	LTRharvest	repeat_region	13654641	13663760	.	?	.	ID=repeat_region67
+seq0	LTRharvest	target_site_duplication	13654641	13654644	.	?	.	Parent=repeat_region67
+seq0	LTRharvest	LTR_retrotransposon	13654645	13663756	.	?	.	ID=LTR_retrotransposon67;Parent=repeat_region67
+seq0	LTRharvest	long_terminal_repeat	13654645	13655084	.	?	.	Parent=LTR_retrotransposon67
+seq0	LTRharvest	long_terminal_repeat	13663308	13663756	.	?	.	Parent=LTR_retrotransposon67
+seq0	LTRharvest	target_site_duplication	13663757	13663760	.	?	.	Parent=repeat_region67
+###
+seq0	LTRharvest	repeat_region	14779627	14787046	.	?	.	ID=repeat_region68
+seq0	LTRharvest	target_site_duplication	14779627	14779630	.	?	.	Parent=repeat_region68
+seq0	LTRharvest	LTR_retrotransposon	14779631	14787042	.	?	.	ID=LTR_retrotransposon68;Parent=repeat_region68
+seq0	LTRharvest	long_terminal_repeat	14779631	14780031	.	?	.	Parent=LTR_retrotransposon68
+seq0	LTRharvest	long_terminal_repeat	14786641	14787042	.	?	.	Parent=LTR_retrotransposon68
+seq0	LTRharvest	target_site_duplication	14787043	14787046	.	?	.	Parent=repeat_region68
+###
+seq0	LTRharvest	repeat_region	14793610	14797012	.	?	.	ID=repeat_region69
+seq0	LTRharvest	target_site_duplication	14793610	14793613	.	?	.	Parent=repeat_region69
+seq0	LTRharvest	LTR_retrotransposon	14793614	14797008	.	?	.	ID=LTR_retrotransposon69;Parent=repeat_region69
+seq0	LTRharvest	long_terminal_repeat	14793614	14794003	.	?	.	Parent=LTR_retrotransposon69
+seq0	LTRharvest	long_terminal_repeat	14796622	14797008	.	?	.	Parent=LTR_retrotransposon69
+seq0	LTRharvest	target_site_duplication	14797009	14797012	.	?	.	Parent=repeat_region69
+###
+seq0	LTRharvest	repeat_region	14798079	14802542	.	?	.	ID=repeat_region70
+seq0	LTRharvest	target_site_duplication	14798079	14798082	.	?	.	Parent=repeat_region70
+seq0	LTRharvest	LTR_retrotransposon	14798083	14802538	.	?	.	ID=LTR_retrotransposon70;Parent=repeat_region70
+seq0	LTRharvest	long_terminal_repeat	14798083	14798485	.	?	.	Parent=LTR_retrotransposon70
+seq0	LTRharvest	long_terminal_repeat	14802134	14802538	.	?	.	Parent=LTR_retrotransposon70
+seq0	LTRharvest	target_site_duplication	14802539	14802542	.	?	.	Parent=repeat_region70
+###
+seq0	LTRharvest	repeat_region	14803907	14808767	.	?	.	ID=repeat_region71
+seq0	LTRharvest	target_site_duplication	14803907	14803910	.	?	.	Parent=repeat_region71
+seq0	LTRharvest	LTR_retrotransposon	14803911	14808763	.	?	.	ID=LTR_retrotransposon71;Parent=repeat_region71
+seq0	LTRharvest	long_terminal_repeat	14803911	14804708	.	?	.	Parent=LTR_retrotransposon71
+seq0	LTRharvest	long_terminal_repeat	14807967	14808763	.	?	.	Parent=LTR_retrotransposon71
+seq0	LTRharvest	target_site_duplication	14808764	14808767	.	?	.	Parent=repeat_region71
+###
+seq0	LTRharvest	repeat_region	14811004	14816905	.	?	.	ID=repeat_region72
+seq0	LTRharvest	target_site_duplication	14811004	14811013	.	?	.	Parent=repeat_region72
+seq0	LTRharvest	LTR_retrotransposon	14811014	14816895	.	?	.	ID=LTR_retrotransposon72;Parent=repeat_region72
+seq0	LTRharvest	long_terminal_repeat	14811014	14811397	.	?	.	Parent=LTR_retrotransposon72
+seq0	LTRharvest	long_terminal_repeat	14816512	14816895	.	?	.	Parent=LTR_retrotransposon72
+seq0	LTRharvest	target_site_duplication	14816896	14816905	.	?	.	Parent=repeat_region72
+###
+seq0	LTRharvest	repeat_region	14822477	14826933	.	?	.	ID=repeat_region73
+seq0	LTRharvest	target_site_duplication	14822477	14822493	.	?	.	Parent=repeat_region73
+seq0	LTRharvest	LTR_retrotransposon	14822494	14826916	.	?	.	ID=LTR_retrotransposon73;Parent=repeat_region73
+seq0	LTRharvest	long_terminal_repeat	14822494	14823214	.	?	.	Parent=LTR_retrotransposon73
+seq0	LTRharvest	long_terminal_repeat	14826195	14826916	.	?	.	Parent=LTR_retrotransposon73
+seq0	LTRharvest	target_site_duplication	14826917	14826933	.	?	.	Parent=repeat_region73
+###
+seq0	LTRharvest	repeat_region	14978609	14985971	.	?	.	ID=repeat_region74
+seq0	LTRharvest	target_site_duplication	14978609	14978612	.	?	.	Parent=repeat_region74
+seq0	LTRharvest	LTR_retrotransposon	14978613	14985967	.	?	.	ID=LTR_retrotransposon74;Parent=repeat_region74
+seq0	LTRharvest	long_terminal_repeat	14978613	14979054	.	?	.	Parent=LTR_retrotransposon74
+seq0	LTRharvest	long_terminal_repeat	14985526	14985967	.	?	.	Parent=LTR_retrotransposon74
+seq0	LTRharvest	target_site_duplication	14985968	14985971	.	?	.	Parent=repeat_region74
+###
+seq0	LTRharvest	repeat_region	15021189	15026352	.	?	.	ID=repeat_region75
+seq0	LTRharvest	target_site_duplication	15021189	15021192	.	?	.	Parent=repeat_region75
+seq0	LTRharvest	LTR_retrotransposon	15021193	15026348	.	?	.	ID=LTR_retrotransposon75;Parent=repeat_region75
+seq0	LTRharvest	long_terminal_repeat	15021193	15021485	.	?	.	Parent=LTR_retrotransposon75
+seq0	LTRharvest	long_terminal_repeat	15026062	15026348	.	?	.	Parent=LTR_retrotransposon75
+seq0	LTRharvest	target_site_duplication	15026349	15026352	.	?	.	Parent=repeat_region75
+###
+seq0	LTRharvest	repeat_region	15432274	15441387	.	?	.	ID=repeat_region76
+seq0	LTRharvest	target_site_duplication	15432274	15432277	.	?	.	Parent=repeat_region76
+seq0	LTRharvest	LTR_retrotransposon	15432278	15441383	.	?	.	ID=LTR_retrotransposon76;Parent=repeat_region76
+seq0	LTRharvest	long_terminal_repeat	15432278	15432706	.	?	.	Parent=LTR_retrotransposon76
+seq0	LTRharvest	long_terminal_repeat	15440953	15441383	.	?	.	Parent=LTR_retrotransposon76
+seq0	LTRharvest	target_site_duplication	15441384	15441387	.	?	.	Parent=repeat_region76
+###
+seq0	LTRharvest	repeat_region	16781879	16790990	.	?	.	ID=repeat_region77
+seq0	LTRharvest	target_site_duplication	16781879	16781883	.	?	.	Parent=repeat_region77
+seq0	LTRharvest	LTR_retrotransposon	16781884	16790985	.	?	.	ID=LTR_retrotransposon77;Parent=repeat_region77
+seq0	LTRharvest	long_terminal_repeat	16781884	16782311	.	?	.	Parent=LTR_retrotransposon77
+seq0	LTRharvest	long_terminal_repeat	16790558	16790985	.	?	.	Parent=LTR_retrotransposon77
+seq0	LTRharvest	target_site_duplication	16790986	16790990	.	?	.	Parent=repeat_region77
+###
+seq0	LTRharvest	repeat_region	16853126	16861316	.	?	.	ID=repeat_region78
+seq0	LTRharvest	target_site_duplication	16853126	16853129	.	?	.	Parent=repeat_region78
+seq0	LTRharvest	LTR_retrotransposon	16853130	16861312	.	?	.	ID=LTR_retrotransposon78;Parent=repeat_region78
+seq0	LTRharvest	long_terminal_repeat	16853130	16853558	.	?	.	Parent=LTR_retrotransposon78
+seq0	LTRharvest	long_terminal_repeat	16860875	16861312	.	?	.	Parent=LTR_retrotransposon78
+seq0	LTRharvest	target_site_duplication	16861313	16861316	.	?	.	Parent=repeat_region78
+###
+seq0	LTRharvest	repeat_region	17624008	17630138	.	?	.	ID=repeat_region79
+seq0	LTRharvest	target_site_duplication	17624008	17624011	.	?	.	Parent=repeat_region79
+seq0	LTRharvest	LTR_retrotransposon	17624012	17630134	.	?	.	ID=LTR_retrotransposon79;Parent=repeat_region79
+seq0	LTRharvest	long_terminal_repeat	17624012	17624243	.	?	.	Parent=LTR_retrotransposon79
+seq0	LTRharvest	long_terminal_repeat	17629905	17630134	.	?	.	Parent=LTR_retrotransposon79
+seq0	LTRharvest	target_site_duplication	17630135	17630138	.	?	.	Parent=repeat_region79
+###
+seq0	LTRharvest	repeat_region	18002394	18007440	.	?	.	ID=repeat_region80
+seq0	LTRharvest	target_site_duplication	18002394	18002401	.	?	.	Parent=repeat_region80
+seq0	LTRharvest	LTR_retrotransposon	18002402	18007432	.	?	.	ID=LTR_retrotransposon80;Parent=repeat_region80
+seq0	LTRharvest	long_terminal_repeat	18002402	18002679	.	?	.	Parent=LTR_retrotransposon80
+seq0	LTRharvest	long_terminal_repeat	18007155	18007432	.	?	.	Parent=LTR_retrotransposon80
+seq0	LTRharvest	target_site_duplication	18007433	18007440	.	?	.	Parent=repeat_region80
+###
+seq0	LTRharvest	repeat_region	18446229	18451255	.	?	.	ID=repeat_region81
+seq0	LTRharvest	target_site_duplication	18446229	18446232	.	?	.	Parent=repeat_region81
+seq0	LTRharvest	LTR_retrotransposon	18446233	18451251	.	?	.	ID=LTR_retrotransposon81;Parent=repeat_region81
+seq0	LTRharvest	long_terminal_repeat	18446233	18446504	.	?	.	Parent=LTR_retrotransposon81
+seq0	LTRharvest	long_terminal_repeat	18450979	18451251	.	?	.	Parent=LTR_retrotransposon81
+seq0	LTRharvest	target_site_duplication	18451252	18451255	.	?	.	Parent=repeat_region81
+###
+seq0	LTRharvest	repeat_region	18573179	18580720	.	?	.	ID=repeat_region82
+seq0	LTRharvest	target_site_duplication	18573179	18573182	.	?	.	Parent=repeat_region82
+seq0	LTRharvest	LTR_retrotransposon	18573183	18580716	.	?	.	ID=LTR_retrotransposon82;Parent=repeat_region82
+seq0	LTRharvest	long_terminal_repeat	18573183	18573677	.	?	.	Parent=LTR_retrotransposon82
+seq0	LTRharvest	long_terminal_repeat	18580212	18580716	.	?	.	Parent=LTR_retrotransposon82
+seq0	LTRharvest	target_site_duplication	18580717	18580720	.	?	.	Parent=repeat_region82
+###
+seq0	LTRharvest	repeat_region	18957918	18965492	.	?	.	ID=repeat_region83
+seq0	LTRharvest	target_site_duplication	18957918	18957921	.	?	.	Parent=repeat_region83
+seq0	LTRharvest	LTR_retrotransposon	18957922	18965488	.	?	.	ID=LTR_retrotransposon83;Parent=repeat_region83
+seq0	LTRharvest	long_terminal_repeat	18957922	18958435	.	?	.	Parent=LTR_retrotransposon83
+seq0	LTRharvest	long_terminal_repeat	18964975	18965488	.	?	.	Parent=LTR_retrotransposon83
+seq0	LTRharvest	target_site_duplication	18965489	18965492	.	?	.	Parent=repeat_region83
+###
+seq0	LTRharvest	repeat_region	19190653	19198225	.	?	.	ID=repeat_region84
+seq0	LTRharvest	target_site_duplication	19190653	19190656	.	?	.	Parent=repeat_region84
+seq0	LTRharvest	LTR_retrotransposon	19190657	19198221	.	?	.	ID=LTR_retrotransposon84;Parent=repeat_region84
+seq0	LTRharvest	long_terminal_repeat	19190657	19191184	.	?	.	Parent=LTR_retrotransposon84
+seq0	LTRharvest	long_terminal_repeat	19197691	19198221	.	?	.	Parent=LTR_retrotransposon84
+seq0	LTRharvest	target_site_duplication	19198222	19198225	.	?	.	Parent=repeat_region84
+###
+seq0	LTRharvest	repeat_region	19220855	19228290	.	?	.	ID=repeat_region85
+seq0	LTRharvest	target_site_duplication	19220855	19220858	.	?	.	Parent=repeat_region85
+seq0	LTRharvest	LTR_retrotransposon	19220859	19228286	.	?	.	ID=LTR_retrotransposon85;Parent=repeat_region85
+seq0	LTRharvest	long_terminal_repeat	19220859	19221351	.	?	.	Parent=LTR_retrotransposon85
+seq0	LTRharvest	long_terminal_repeat	19227805	19228286	.	?	.	Parent=LTR_retrotransposon85
+seq0	LTRharvest	target_site_duplication	19228287	19228290	.	?	.	Parent=repeat_region85
+###
+seq0	LTRharvest	repeat_region	19397048	19405360	.	?	.	ID=repeat_region86
+seq0	LTRharvest	target_site_duplication	19397048	19397051	.	?	.	Parent=repeat_region86
+seq0	LTRharvest	LTR_retrotransposon	19397052	19405356	.	?	.	ID=LTR_retrotransposon86;Parent=repeat_region86
+seq0	LTRharvest	long_terminal_repeat	19397052	19397483	.	?	.	Parent=LTR_retrotransposon86
+seq0	LTRharvest	long_terminal_repeat	19404927	19405356	.	?	.	Parent=LTR_retrotransposon86
+seq0	LTRharvest	target_site_duplication	19405357	19405360	.	?	.	Parent=repeat_region86
+###
+seq0	LTRharvest	repeat_region	19691158	19698712	.	?	.	ID=repeat_region87
+seq0	LTRharvest	target_site_duplication	19691158	19691161	.	?	.	Parent=repeat_region87
+seq0	LTRharvest	LTR_retrotransposon	19691162	19698708	.	?	.	ID=LTR_retrotransposon87;Parent=repeat_region87
+seq0	LTRharvest	long_terminal_repeat	19691162	19691695	.	?	.	Parent=LTR_retrotransposon87
+seq0	LTRharvest	long_terminal_repeat	19698190	19698708	.	?	.	Parent=LTR_retrotransposon87
+seq0	LTRharvest	target_site_duplication	19698709	19698712	.	?	.	Parent=repeat_region87
+###
+seq0	LTRharvest	repeat_region	19771503	19778963	.	?	.	ID=repeat_region88
+seq0	LTRharvest	target_site_duplication	19771503	19771506	.	?	.	Parent=repeat_region88
+seq0	LTRharvest	LTR_retrotransposon	19771507	19778959	.	?	.	ID=LTR_retrotransposon88;Parent=repeat_region88
+seq0	LTRharvest	long_terminal_repeat	19771507	19771948	.	?	.	Parent=LTR_retrotransposon88
+seq0	LTRharvest	long_terminal_repeat	19778513	19778959	.	?	.	Parent=LTR_retrotransposon88
+seq0	LTRharvest	target_site_duplication	19778960	19778963	.	?	.	Parent=repeat_region88
+###
+seq0	LTRharvest	repeat_region	20186254	20194366	.	?	.	ID=repeat_region89
+seq0	LTRharvest	target_site_duplication	20186254	20186257	.	?	.	Parent=repeat_region89
+seq0	LTRharvest	LTR_retrotransposon	20186258	20194362	.	?	.	ID=LTR_retrotransposon89;Parent=repeat_region89
+seq0	LTRharvest	long_terminal_repeat	20186258	20186622	.	?	.	Parent=LTR_retrotransposon89
+seq0	LTRharvest	long_terminal_repeat	20193998	20194362	.	?	.	Parent=LTR_retrotransposon89
+seq0	LTRharvest	target_site_duplication	20194363	20194366	.	?	.	Parent=repeat_region89
+###
