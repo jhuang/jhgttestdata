@@ -1,24 +1,24 @@
 ##gff-version   3
-##sequence-region   chr1 1 4294967295
-##sequence-region   chr10 1 4294967295
-##sequence-region   chr11 1 4294967295
-##sequence-region   chr12 1 4294967295
-##sequence-region   chr13 1 4294967295
-##sequence-region   chr14 1 4294967295
-##sequence-region   chr15 1 4294967295
-##sequence-region   chr16 1 4294967295
-##sequence-region   chr18 1 4294967295
-##sequence-region   chr19 1 4294967295
-##sequence-region   chr2 1 4294967295
-##sequence-region   chr20 1 4294967295
-##sequence-region   chr21 1 4294967295
-##sequence-region   chr22 1 4294967295
-##sequence-region   chr5 1 4294967295
-##sequence-region   chr6 1 4294967295
-##sequence-region   chr7 1 4294967295
-##sequence-region   chr8 1 4294967295
-##sequence-region   chr9 1 4294967295
-##sequence-region   chrX 1 4294967295
+##sequence-region   chr1 1 2000000000
+##sequence-region   chr10 1 2000000000
+##sequence-region   chr11 1 2000000000
+##sequence-region   chr12 1 2000000000
+##sequence-region   chr13 1 2000000000
+##sequence-region   chr14 1 2000000000
+##sequence-region   chr15 1 2000000000
+##sequence-region   chr16 1 2000000000
+##sequence-region   chr18 1 2000000000
+##sequence-region   chr19 1 2000000000
+##sequence-region   chr2 1 2000000000
+##sequence-region   chr20 1 2000000000
+##sequence-region   chr21 1 2000000000
+##sequence-region   chr22 1 2000000000
+##sequence-region   chr5 1 2000000000
+##sequence-region   chr6 1 2000000000
+##sequence-region   chr7 1 2000000000
+##sequence-region   chr8 1 2000000000
+##sequence-region   chr9 1 2000000000
+##sequence-region   chrX 1 2000000000
 chr1	gth	gene	147971134	147980870	.	-	.	ID=gene1
 chr1	gth	mRNA	147971134	147975692	.	-	.	ID=mRNA1;Parent=gene1
 chr1	gth	exon	147971134	147971499	0.933060	-	.	Parent=mRNA1
