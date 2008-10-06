@@ -6,7 +6,7 @@ seq0	LTRharvest	target_site_duplication	53330	53333	.	?	.	Parent=repeat_region1
 seq0	LTRharvest	LTR_retrotransposon	53334	60920	.	-	.	ID=LTR_retrotransposon1;Parent=repeat_region1
 seq0	LTRharvest	long_terminal_repeat	53334	53855	.	?	.	Parent=LTR_retrotransposon1
 seq0	LTRdigest	RR_tract	53855	53867	.	-	.	Parent=LTR_retrotransposon1
-seq0	LTRdigest	primer_binding_site	60384	60395	12.000	-	.	Parent=LTR_retrotransposon1;edist=0;pbsoffset=3;trna=Arg-TCG;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	60384	60395	12	-	.	Parent=LTR_retrotransposon1;trna=Arg-TCG;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	60393	60920	.	?	.	Parent=LTR_retrotransposon1
 seq0	LTRharvest	target_site_duplication	60921	60924	.	?	.	Parent=repeat_region1
 ###
@@ -36,7 +36,7 @@ seq0	LTRharvest	repeat_region	308907	316425	.	?	.	ID=repeat_region5
 seq0	LTRharvest	target_site_duplication	308907	308910	.	?	.	Parent=repeat_region5
 seq0	LTRharvest	LTR_retrotransposon	308911	316421	.	+	.	ID=LTR_retrotransposon5;Parent=repeat_region5
 seq0	LTRharvest	long_terminal_repeat	308911	309398	.	?	.	Parent=LTR_retrotransposon5
-seq0	LTRdigest	primer_binding_site	309399	309410	12.000	+	.	Parent=LTR_retrotransposon5;edist=0;pbsoffset=1;trna=Arg-TCG;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	309399	309410	12	+	.	Parent=LTR_retrotransposon5;trna=Arg-TCG;trnaoffset=0;pbsoffset=1;edist=0
 seq0	LTRdigest	RR_tract	315922	315934	.	+	.	Parent=LTR_retrotransposon5
 seq0	LTRharvest	long_terminal_repeat	315927	316421	.	?	.	Parent=LTR_retrotransposon5
 seq0	LTRharvest	target_site_duplication	316422	316425	.	?	.	Parent=repeat_region5
@@ -45,7 +45,7 @@ seq0	LTRharvest	repeat_region	569755	575336	.	?	.	ID=repeat_region6
 seq0	LTRharvest	target_site_duplication	569755	569758	.	?	.	Parent=repeat_region6
 seq0	LTRharvest	LTR_retrotransposon	569759	575332	.	+	.	ID=LTR_retrotransposon6;Parent=repeat_region6
 seq0	LTRharvest	long_terminal_repeat	569759	570159	.	?	.	Parent=LTR_retrotransposon6
-seq0	LTRdigest	primer_binding_site	570161	570175	15.000	+	.	Parent=LTR_retrotransposon6;edist=0;pbsoffset=2;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	570161	570175	15	+	.	Parent=LTR_retrotransposon6;trna=Ser-AGA;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	574920	574932	.	+	.	Parent=LTR_retrotransposon6
 seq0	LTRharvest	long_terminal_repeat	574932	575332	.	?	.	Parent=LTR_retrotransposon6
 seq0	LTRharvest	target_site_duplication	575333	575336	.	?	.	Parent=repeat_region6
@@ -61,7 +61,7 @@ seq0	LTRharvest	repeat_region	790840	798423	.	?	.	ID=repeat_region8
 seq0	LTRharvest	target_site_duplication	790840	790843	.	?	.	Parent=repeat_region8
 seq0	LTRharvest	LTR_retrotransposon	790844	798419	.	+	.	ID=LTR_retrotransposon8;Parent=repeat_region8
 seq0	LTRharvest	long_terminal_repeat	790844	791362	.	?	.	Parent=LTR_retrotransposon8
-seq0	LTRdigest	primer_binding_site	791363	791374	12.000	+	.	Parent=LTR_retrotransposon8;edist=0;pbsoffset=1;trna=Arg-TCG;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	791363	791374	12	+	.	Parent=LTR_retrotransposon8;trna=Arg-TCG;trnaoffset=0;pbsoffset=1;edist=0
 seq0	LTRdigest	RR_tract	797889	797901	.	+	.	Parent=LTR_retrotransposon8
 seq0	LTRharvest	long_terminal_repeat	797899	798419	.	?	.	Parent=LTR_retrotransposon8
 seq0	LTRharvest	target_site_duplication	798420	798423	.	?	.	Parent=repeat_region8
@@ -86,7 +86,7 @@ seq0	LTRharvest	target_site_duplication	1384797	1384800	.	?	.	Parent=repeat_regi
 seq0	LTRharvest	LTR_retrotransposon	1384801	1392211	.	-	.	ID=LTR_retrotransposon11;Parent=repeat_region11
 seq0	LTRharvest	long_terminal_repeat	1384801	1385297	.	?	.	Parent=LTR_retrotransposon11
 seq0	LTRdigest	RR_tract	1385296	1385305	.	-	.	Parent=LTR_retrotransposon11
-seq0	LTRdigest	primer_binding_site	1391703	1391713	11.000	-	.	Parent=LTR_retrotransposon11;edist=0;pbsoffset=3;trna=Lys-CTT;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	1391703	1391713	11	-	.	Parent=LTR_retrotransposon11;trna=Lys-CTT;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	1391717	1392211	.	?	.	Parent=LTR_retrotransposon11
 seq0	LTRharvest	target_site_duplication	1392212	1392215	.	?	.	Parent=repeat_region11
 ###
@@ -102,7 +102,7 @@ seq0	LTRharvest	target_site_duplication	1687360	1687363	.	?	.	Parent=repeat_regi
 seq0	LTRharvest	LTR_retrotransposon	1687364	1694877	.	-	.	ID=LTR_retrotransposon13;Parent=repeat_region13
 seq0	LTRharvest	long_terminal_repeat	1687364	1687880	.	?	.	Parent=LTR_retrotransposon13
 seq0	LTRdigest	RR_tract	1687878	1687890	.	-	.	Parent=LTR_retrotransposon13
-seq0	LTRdigest	primer_binding_site	1694343	1694357	15.000	-	.	Parent=LTR_retrotransposon13;edist=0;pbsoffset=3;trna=Lys-TTT;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	1694343	1694357	15	-	.	Parent=LTR_retrotransposon13;trna=Lys-TTT;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	1694361	1694877	.	?	.	Parent=LTR_retrotransposon13
 seq0	LTRharvest	target_site_duplication	1694878	1694881	.	?	.	Parent=repeat_region13
 ###
@@ -149,7 +149,7 @@ seq0	LTRharvest	target_site_duplication	2601732	2601735	.	?	.	Parent=repeat_regi
 seq0	LTRharvest	LTR_retrotransposon	2601736	2609105	.	-	.	ID=LTR_retrotransposon19;Parent=repeat_region19
 seq0	LTRharvest	long_terminal_repeat	2601736	2602204	.	?	.	Parent=LTR_retrotransposon19
 seq0	LTRdigest	RR_tract	2602226	2602234	.	-	.	Parent=LTR_retrotransposon19
-seq0	LTRdigest	primer_binding_site	2608622	2608632	11.000	-	.	Parent=LTR_retrotransposon19;edist=0;pbsoffset=4;trna=Arg-TCG;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	2608622	2608632	11	-	.	Parent=LTR_retrotransposon19;trna=Arg-TCG;trnaoffset=0;pbsoffset=4;edist=0
 seq0	LTRharvest	long_terminal_repeat	2608637	2609105	.	?	.	Parent=LTR_retrotransposon19
 seq0	LTRharvest	target_site_duplication	2609106	2609109	.	?	.	Parent=repeat_region19
 ###
@@ -164,7 +164,7 @@ seq0	LTRharvest	repeat_region	2936957	2944570	.	?	.	ID=repeat_region21
 seq0	LTRharvest	target_site_duplication	2936957	2936960	.	?	.	Parent=repeat_region21
 seq0	LTRharvest	LTR_retrotransposon	2936961	2944566	.	+	.	ID=LTR_retrotransposon21;Parent=repeat_region21
 seq0	LTRharvest	long_terminal_repeat	2936961	2937477	.	?	.	Parent=LTR_retrotransposon21
-seq0	LTRdigest	primer_binding_site	2937479	2937493	15.000	+	.	Parent=LTR_retrotransposon21;edist=0;pbsoffset=2;trna=Lys-TTT;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	2937479	2937493	15	+	.	Parent=LTR_retrotransposon21;trna=Lys-TTT;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	2944038	2944050	.	+	.	Parent=LTR_retrotransposon21
 seq0	LTRharvest	long_terminal_repeat	2944050	2944566	.	?	.	Parent=LTR_retrotransposon21
 seq0	LTRharvest	target_site_duplication	2944567	2944570	.	?	.	Parent=repeat_region21
@@ -217,7 +217,7 @@ seq0	LTRharvest	target_site_duplication	3727530	3727533	.	?	.	Parent=repeat_regi
 seq0	LTRharvest	LTR_retrotransposon	3727534	3735109	.	-	.	ID=LTR_retrotransposon28;Parent=repeat_region28
 seq0	LTRharvest	long_terminal_repeat	3727534	3728054	.	?	.	Parent=LTR_retrotransposon28
 seq0	LTRdigest	RR_tract	3728047	3728059	.	-	.	Parent=LTR_retrotransposon28
-seq0	LTRdigest	primer_binding_site	3734580	3734591	12.000	-	.	Parent=LTR_retrotransposon28;edist=0;pbsoffset=2;trna=Arg-TCG;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	3734580	3734591	12	-	.	Parent=LTR_retrotransposon28;trna=Arg-TCG;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRharvest	long_terminal_repeat	3734594	3735109	.	?	.	Parent=LTR_retrotransposon28
 seq0	LTRharvest	target_site_duplication	3735110	3735113	.	?	.	Parent=repeat_region28
 ###
@@ -225,7 +225,7 @@ seq0	LTRharvest	repeat_region	3898559	3905544	.	?	.	ID=repeat_region29
 seq0	LTRharvest	target_site_duplication	3898559	3898562	.	?	.	Parent=repeat_region29
 seq0	LTRharvest	LTR_retrotransposon	3898563	3905540	.	+	.	ID=LTR_retrotransposon29;Parent=repeat_region29
 seq0	LTRharvest	long_terminal_repeat	3898563	3898976	.	?	.	Parent=LTR_retrotransposon29
-seq0	LTRdigest	primer_binding_site	3898978	3898992	15.000	+	.	Parent=LTR_retrotransposon29;edist=0;pbsoffset=2;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	3898978	3898992	15	+	.	Parent=LTR_retrotransposon29;trna=Ser-AGA;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	3905115	3905127	.	+	.	Parent=LTR_retrotransposon29
 seq0	LTRharvest	long_terminal_repeat	3905127	3905540	.	?	.	Parent=LTR_retrotransposon29
 seq0	LTRharvest	target_site_duplication	3905541	3905544	.	?	.	Parent=repeat_region29
@@ -249,7 +249,7 @@ seq0	LTRharvest	target_site_duplication	4568632	4568635	.	?	.	Parent=repeat_regi
 seq0	LTRharvest	LTR_retrotransposon	4568636	4575949	.	-	.	ID=LTR_retrotransposon32;Parent=repeat_region32
 seq0	LTRharvest	long_terminal_repeat	4568636	4569066	.	?	.	Parent=LTR_retrotransposon32
 seq0	LTRdigest	RR_tract	4569066	4569076	.	-	.	Parent=LTR_retrotransposon32
-seq0	LTRdigest	primer_binding_site	4575500	4575514	15.000	-	.	Parent=LTR_retrotransposon32;edist=0;pbsoffset=4;trna=Arg-TCG;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	4575500	4575514	15	-	.	Parent=LTR_retrotransposon32;trna=Arg-TCG;trnaoffset=0;pbsoffset=4;edist=0
 seq0	LTRharvest	long_terminal_repeat	4575519	4575949	.	?	.	Parent=LTR_retrotransposon32
 seq0	LTRharvest	target_site_duplication	4575950	4575953	.	?	.	Parent=repeat_region32
 ###
@@ -287,7 +287,7 @@ seq0	LTRharvest	target_site_duplication	5130427	5130430	.	?	.	Parent=repeat_regi
 seq0	LTRharvest	LTR_retrotransposon	5130431	5133477	.	-	.	ID=LTR_retrotransposon37;Parent=repeat_region37
 seq0	LTRharvest	long_terminal_repeat	5130431	5130844	.	?	.	Parent=LTR_retrotransposon37
 seq0	LTRdigest	RR_tract	5130842	5130854	.	-	.	Parent=LTR_retrotransposon37
-seq0	LTRdigest	primer_binding_site	5133046	5133060	15.000	-	.	Parent=LTR_retrotransposon37;edist=0;pbsoffset=3;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	5133046	5133060	15	-	.	Parent=LTR_retrotransposon37;trna=Ser-AGA;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	5133064	5133477	.	?	.	Parent=LTR_retrotransposon37
 seq0	LTRharvest	target_site_duplication	5133478	5133481	.	?	.	Parent=repeat_region37
 ###
@@ -318,7 +318,7 @@ seq0	LTRharvest	target_site_duplication	5912010	5912013	.	?	.	Parent=repeat_regi
 seq0	LTRharvest	LTR_retrotransposon	5912014	5919389	.	-	.	ID=LTR_retrotransposon41;Parent=repeat_region41
 seq0	LTRharvest	long_terminal_repeat	5912014	5912672	.	?	.	Parent=LTR_retrotransposon41
 seq0	LTRdigest	RR_tract	5912670	5912683	.	-	.	Parent=LTR_retrotransposon41
-seq0	LTRdigest	primer_binding_site	5918713	5918727	15.000	-	.	Parent=LTR_retrotransposon41;edist=0;pbsoffset=3;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	5918713	5918727	15	-	.	Parent=LTR_retrotransposon41;trna=Ser-AGA;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	5918731	5919389	.	?	.	Parent=LTR_retrotransposon41
 seq0	LTRharvest	target_site_duplication	5919390	5919393	.	?	.	Parent=repeat_region41
 ###
@@ -342,7 +342,7 @@ seq0	LTRharvest	target_site_duplication	6185730	6185733	.	?	.	Parent=repeat_regi
 seq0	LTRharvest	LTR_retrotransposon	6185734	6191434	.	-	.	ID=LTR_retrotransposon44;Parent=repeat_region44
 seq0	LTRharvest	long_terminal_repeat	6185734	6186147	.	?	.	Parent=LTR_retrotransposon44
 seq0	LTRdigest	RR_tract	6186145	6186157	.	-	.	Parent=LTR_retrotransposon44
-seq0	LTRdigest	primer_binding_site	6191003	6191017	15.000	-	.	Parent=LTR_retrotransposon44;edist=0;pbsoffset=3;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	6191003	6191017	15	-	.	Parent=LTR_retrotransposon44;trna=Ser-AGA;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	6191021	6191434	.	?	.	Parent=LTR_retrotransposon44
 seq0	LTRharvest	target_site_duplication	6191435	6191438	.	?	.	Parent=repeat_region44
 ###
@@ -351,7 +351,7 @@ seq0	LTRharvest	target_site_duplication	6303244	6303247	.	?	.	Parent=repeat_regi
 seq0	LTRharvest	LTR_retrotransposon	6303248	6311674	.	-	.	ID=LTR_retrotransposon45;Parent=repeat_region45
 seq0	LTRharvest	long_terminal_repeat	6303248	6303666	.	?	.	Parent=LTR_retrotransposon45
 seq0	LTRdigest	RR_tract	6303663	6303675	.	-	.	Parent=LTR_retrotransposon45
-seq0	LTRdigest	primer_binding_site	6311239	6311253	15.000	-	.	Parent=LTR_retrotransposon45;edist=0;pbsoffset=3;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	6311239	6311253	15	-	.	Parent=LTR_retrotransposon45;trna=Ser-AGA;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	6311251	6311674	.	?	.	Parent=LTR_retrotransposon45
 seq0	LTRharvest	target_site_duplication	6311675	6311678	.	?	.	Parent=repeat_region45
 ###
@@ -375,7 +375,7 @@ seq0	LTRharvest	repeat_region	6764028	6771368	.	?	.	ID=repeat_region48
 seq0	LTRharvest	target_site_duplication	6764028	6764031	.	?	.	Parent=repeat_region48
 seq0	LTRharvest	LTR_retrotransposon	6764032	6771364	.	+	.	ID=LTR_retrotransposon48;Parent=repeat_region48
 seq0	LTRharvest	long_terminal_repeat	6764032	6764536	.	?	.	Parent=LTR_retrotransposon48
-seq0	LTRdigest	primer_binding_site	6764539	6764549	11.000	+	.	Parent=LTR_retrotransposon48;edist=0;pbsoffset=3;trna=Arg-TCG;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	6764539	6764549	11	+	.	Parent=LTR_retrotransposon48;trna=Arg-TCG;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRdigest	RR_tract	6770845	6770857	.	+	.	Parent=LTR_retrotransposon48
 seq0	LTRharvest	long_terminal_repeat	6770859	6771364	.	?	.	Parent=LTR_retrotransposon48
 seq0	LTRharvest	target_site_duplication	6771365	6771368	.	?	.	Parent=repeat_region48
@@ -435,7 +435,7 @@ seq0	LTRharvest	target_site_duplication	9537558	9537561	.	?	.	Parent=repeat_regi
 seq0	LTRharvest	LTR_retrotransposon	9537562	9544556	.	-	.	ID=LTR_retrotransposon56;Parent=repeat_region56
 seq0	LTRharvest	long_terminal_repeat	9537562	9537975	.	?	.	Parent=LTR_retrotransposon56
 seq0	LTRdigest	RR_tract	9537973	9537985	.	-	.	Parent=LTR_retrotransposon56
-seq0	LTRdigest	primer_binding_site	9544125	9544139	15.000	-	.	Parent=LTR_retrotransposon56;edist=0;pbsoffset=3;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	9544125	9544139	15	-	.	Parent=LTR_retrotransposon56;trna=Ser-AGA;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	9544143	9544556	.	?	.	Parent=LTR_retrotransposon56
 seq0	LTRharvest	target_site_duplication	9544557	9544560	.	?	.	Parent=repeat_region56
 ###
@@ -443,7 +443,7 @@ seq0	LTRharvest	repeat_region	9835122	9841004	.	?	.	ID=repeat_region57
 seq0	LTRharvest	target_site_duplication	9835122	9835125	.	?	.	Parent=repeat_region57
 seq0	LTRharvest	LTR_retrotransposon	9835126	9841000	.	+	.	ID=LTR_retrotransposon57;Parent=repeat_region57
 seq0	LTRharvest	long_terminal_repeat	9835126	9835539	.	?	.	Parent=LTR_retrotransposon57
-seq0	LTRdigest	primer_binding_site	9835541	9835555	15.000	+	.	Parent=LTR_retrotransposon57;edist=0;pbsoffset=2;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	9835541	9835555	15	+	.	Parent=LTR_retrotransposon57;trna=Ser-AGA;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	9840575	9840587	.	+	.	Parent=LTR_retrotransposon57
 seq0	LTRharvest	long_terminal_repeat	9840587	9841000	.	?	.	Parent=LTR_retrotransposon57
 seq0	LTRharvest	target_site_duplication	9841001	9841004	.	?	.	Parent=repeat_region57
@@ -452,7 +452,7 @@ seq0	LTRharvest	repeat_region	9878175	9885608	.	?	.	ID=repeat_region58
 seq0	LTRharvest	target_site_duplication	9878175	9878178	.	?	.	Parent=repeat_region58
 seq0	LTRharvest	LTR_retrotransposon	9878179	9885604	.	+	.	ID=LTR_retrotransposon58;Parent=repeat_region58
 seq0	LTRharvest	long_terminal_repeat	9878179	9878659	.	?	.	Parent=LTR_retrotransposon58
-seq0	LTRdigest	primer_binding_site	9878661	9878672	12.000	+	.	Parent=LTR_retrotransposon58;edist=0;pbsoffset=2;trna=Arg-TCG;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	9878661	9878672	12	+	.	Parent=LTR_retrotransposon58;trna=Arg-TCG;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	9885124	9885136	.	+	.	Parent=LTR_retrotransposon58
 seq0	LTRharvest	long_terminal_repeat	9885134	9885604	.	?	.	Parent=LTR_retrotransposon58
 seq0	LTRharvest	target_site_duplication	9885605	9885608	.	?	.	Parent=repeat_region58
@@ -476,7 +476,7 @@ seq0	LTRharvest	repeat_region	10265382	10272385	.	?	.	ID=repeat_region61
 seq0	LTRharvest	target_site_duplication	10265382	10265385	.	?	.	Parent=repeat_region61
 seq0	LTRharvest	LTR_retrotransposon	10265386	10272381	.	+	.	ID=LTR_retrotransposon61;Parent=repeat_region61
 seq0	LTRharvest	long_terminal_repeat	10265386	10265799	.	?	.	Parent=LTR_retrotransposon61
-seq0	LTRdigest	primer_binding_site	10265801	10265815	15.000	+	.	Parent=LTR_retrotransposon61;edist=0;pbsoffset=2;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	10265801	10265815	15	+	.	Parent=LTR_retrotransposon61;trna=Ser-AGA;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	10271956	10271968	.	+	.	Parent=LTR_retrotransposon61
 seq0	LTRharvest	long_terminal_repeat	10271968	10272381	.	?	.	Parent=LTR_retrotransposon61
 seq0	LTRharvest	target_site_duplication	10272382	10272385	.	?	.	Parent=repeat_region61
@@ -492,7 +492,7 @@ seq0	LTRharvest	repeat_region	10837988	10845040	.	?	.	ID=repeat_region63
 seq0	LTRharvest	target_site_duplication	10837988	10837991	.	?	.	Parent=repeat_region63
 seq0	LTRharvest	LTR_retrotransposon	10837992	10845036	.	+	.	ID=LTR_retrotransposon63;Parent=repeat_region63
 seq0	LTRharvest	long_terminal_repeat	10837992	10838257	.	?	.	Parent=LTR_retrotransposon63
-seq0	LTRdigest	primer_binding_site	10838259	10838273	15.000	+	.	Parent=LTR_retrotransposon63;edist=0;pbsoffset=2;trna=Lys-TTT;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	10838259	10838273	15	+	.	Parent=LTR_retrotransposon63;trna=Lys-TTT;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	10844759	10844771	.	+	.	Parent=LTR_retrotransposon63
 seq0	LTRharvest	long_terminal_repeat	10844771	10845036	.	?	.	Parent=LTR_retrotransposon63
 seq0	LTRharvest	target_site_duplication	10845037	10845040	.	?	.	Parent=repeat_region63
@@ -547,7 +547,7 @@ seq0	LTRharvest	target_site_duplication	11367944	11367947	.	?	.	Parent=repeat_re
 seq0	LTRharvest	LTR_retrotransposon	11367948	11374960	.	-	.	ID=LTR_retrotransposon70;Parent=repeat_region70
 seq0	LTRharvest	long_terminal_repeat	11367948	11368361	.	?	.	Parent=LTR_retrotransposon70
 seq0	LTRdigest	RR_tract	11368359	11368371	.	-	.	Parent=LTR_retrotransposon70
-seq0	LTRdigest	primer_binding_site	11374529	11374543	15.000	-	.	Parent=LTR_retrotransposon70;edist=0;pbsoffset=3;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	11374529	11374543	15	-	.	Parent=LTR_retrotransposon70;trna=Ser-AGA;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	11374547	11374960	.	?	.	Parent=LTR_retrotransposon70
 seq0	LTRharvest	target_site_duplication	11374961	11374964	.	?	.	Parent=repeat_region70
 ###
@@ -570,7 +570,7 @@ seq0	LTRharvest	target_site_duplication	12661289	12661292	.	?	.	Parent=repeat_re
 seq0	LTRharvest	LTR_retrotransposon	12661293	12668349	.	-	.	ID=LTR_retrotransposon73;Parent=repeat_region73
 seq0	LTRharvest	long_terminal_repeat	12661293	12661558	.	?	.	Parent=LTR_retrotransposon73
 seq0	LTRdigest	RR_tract	12661556	12661568	.	-	.	Parent=LTR_retrotransposon73
-seq0	LTRdigest	primer_binding_site	12668066	12668080	15.000	-	.	Parent=LTR_retrotransposon73;edist=0;pbsoffset=3;trna=Lys-TTT;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	12668066	12668080	15	-	.	Parent=LTR_retrotransposon73;trna=Lys-TTT;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	12668084	12668349	.	?	.	Parent=LTR_retrotransposon73
 seq0	LTRharvest	target_site_duplication	12668350	12668353	.	?	.	Parent=repeat_region73
 ###
@@ -585,7 +585,7 @@ seq0	LTRharvest	repeat_region	13194355	13199882	.	?	.	ID=repeat_region75
 seq0	LTRharvest	target_site_duplication	13194355	13194358	.	?	.	Parent=repeat_region75
 seq0	LTRharvest	LTR_retrotransposon	13194359	13199878	.	+	.	ID=LTR_retrotransposon75;Parent=repeat_region75
 seq0	LTRharvest	long_terminal_repeat	13194359	13194627	.	?	.	Parent=LTR_retrotransposon75
-seq0	LTRdigest	primer_binding_site	13194628	13194641	13.780	+	.	Parent=LTR_retrotransposon75;edist=0;pbsoffset=1;trna=Leu-CAA;trnaoffset=2
+seq0	LTRdigest	primer_binding_site	13194628	13194641	13.8	+	.	Parent=LTR_retrotransposon75;trna=Leu-CAA;trnaoffset=2;pbsoffset=1;edist=0
 seq0	LTRharvest	long_terminal_repeat	13199610	13199878	.	?	.	Parent=LTR_retrotransposon75
 seq0	LTRharvest	target_site_duplication	13199879	13199882	.	?	.	Parent=repeat_region75
 ###
@@ -600,7 +600,7 @@ seq0	LTRharvest	repeat_region	13731775	13737769	.	?	.	ID=repeat_region77
 seq0	LTRharvest	target_site_duplication	13731775	13731778	.	?	.	Parent=repeat_region77
 seq0	LTRharvest	LTR_retrotransposon	13731779	13737765	.	+	.	ID=LTR_retrotransposon77;Parent=repeat_region77
 seq0	LTRharvest	long_terminal_repeat	13731779	13732027	.	?	.	Parent=LTR_retrotransposon77
-seq0	LTRdigest	primer_binding_site	13732025	13732039	15.000	+	.	Parent=LTR_retrotransposon77;edist=0;pbsoffset=2;trna=Ile-AAT;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	13732025	13732039	15	+	.	Parent=LTR_retrotransposon77;trna=Ile-AAT;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRharvest	long_terminal_repeat	13737518	13737765	.	?	.	Parent=LTR_retrotransposon77
 seq0	LTRharvest	target_site_duplication	13737766	13737769	.	?	.	Parent=repeat_region77
 ###
@@ -630,7 +630,7 @@ seq0	LTRharvest	target_site_duplication	13888303	13888306	.	?	.	Parent=repeat_re
 seq0	LTRharvest	LTR_retrotransposon	13888307	13893906	.	-	.	ID=LTR_retrotransposon81;Parent=repeat_region81
 seq0	LTRharvest	long_terminal_repeat	13888307	13888720	.	?	.	Parent=LTR_retrotransposon81
 seq0	LTRdigest	RR_tract	13888718	13888730	.	-	.	Parent=LTR_retrotransposon81
-seq0	LTRdigest	primer_binding_site	13893475	13893489	15.000	-	.	Parent=LTR_retrotransposon81;edist=0;pbsoffset=3;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	13893475	13893489	15	-	.	Parent=LTR_retrotransposon81;trna=Ser-AGA;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	13893493	13893906	.	?	.	Parent=LTR_retrotransposon81
 seq0	LTRharvest	target_site_duplication	13893907	13893910	.	?	.	Parent=repeat_region81
 ###
@@ -647,7 +647,7 @@ seq0	LTRharvest	target_site_duplication	14282707	14282712	.	?	.	Parent=repeat_re
 seq0	LTRharvest	LTR_retrotransposon	14282713	14290314	.	-	.	ID=LTR_retrotransposon83;Parent=repeat_region83
 seq0	LTRharvest	long_terminal_repeat	14282713	14283229	.	?	.	Parent=LTR_retrotransposon83
 seq0	LTRdigest	RR_tract	14283227	14283239	.	-	.	Parent=LTR_retrotransposon83
-seq0	LTRdigest	primer_binding_site	14289780	14289794	15.000	-	.	Parent=LTR_retrotransposon83;edist=0;pbsoffset=3;trna=Lys-TTT;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	14289780	14289794	15	-	.	Parent=LTR_retrotransposon83;trna=Lys-TTT;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	14289798	14290314	.	?	.	Parent=LTR_retrotransposon83
 seq0	LTRharvest	target_site_duplication	14290315	14290320	.	?	.	Parent=repeat_region83
 ###
@@ -669,7 +669,7 @@ seq0	LTRharvest	repeat_region	14765157	14772634	.	?	.	ID=repeat_region86
 seq0	LTRharvest	target_site_duplication	14765157	14765160	.	?	.	Parent=repeat_region86
 seq0	LTRharvest	LTR_retrotransposon	14765161	14772630	.	+	.	ID=LTR_retrotransposon86;Parent=repeat_region86
 seq0	LTRharvest	long_terminal_repeat	14765161	14765527	.	?	.	Parent=LTR_retrotransposon86
-seq0	LTRdigest	primer_binding_site	14765529	14765543	15.000	+	.	Parent=LTR_retrotransposon86;edist=0;pbsoffset=2;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	14765529	14765543	15	+	.	Parent=LTR_retrotransposon86;trna=Ser-AGA;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	14772252	14772264	.	+	.	Parent=LTR_retrotransposon86
 seq0	LTRharvest	long_terminal_repeat	14772264	14772630	.	?	.	Parent=LTR_retrotransposon86
 seq0	LTRharvest	target_site_duplication	14772631	14772634	.	?	.	Parent=repeat_region86
@@ -723,7 +723,7 @@ seq0	LTRharvest	repeat_region	16223717	16229244	.	?	.	ID=repeat_region93
 seq0	LTRharvest	target_site_duplication	16223717	16223720	.	?	.	Parent=repeat_region93
 seq0	LTRharvest	LTR_retrotransposon	16223721	16229240	.	-	.	ID=LTR_retrotransposon93;Parent=repeat_region93
 seq0	LTRharvest	long_terminal_repeat	16223721	16223988	.	?	.	Parent=LTR_retrotransposon93
-seq0	LTRdigest	primer_binding_site	16228956	16228969	13.780	-	.	Parent=LTR_retrotransposon93;edist=0;pbsoffset=4;trna=Leu-CAA;trnaoffset=2
+seq0	LTRdigest	primer_binding_site	16228956	16228969	13.8	-	.	Parent=LTR_retrotransposon93;trna=Leu-CAA;trnaoffset=2;pbsoffset=4;edist=0
 seq0	LTRharvest	long_terminal_repeat	16228974	16229240	.	?	.	Parent=LTR_retrotransposon93
 seq0	LTRharvest	target_site_duplication	16229241	16229244	.	?	.	Parent=repeat_region93
 ###
@@ -761,7 +761,7 @@ seq0	LTRharvest	target_site_duplication	17624607	17624610	.	?	.	Parent=repeat_re
 seq0	LTRharvest	LTR_retrotransposon	17624611	17627339	.	-	.	ID=LTR_retrotransposon98;Parent=repeat_region98
 seq0	LTRharvest	long_terminal_repeat	17624611	17625024	.	?	.	Parent=LTR_retrotransposon98
 seq0	LTRdigest	RR_tract	17625022	17625034	.	-	.	Parent=LTR_retrotransposon98
-seq0	LTRdigest	primer_binding_site	17626907	17626922	16.000	-	.	Parent=LTR_retrotransposon98;edist=0;pbsoffset=3;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	17626907	17626922	16	-	.	Parent=LTR_retrotransposon98;trna=Ser-AGA;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	17626926	17627339	.	?	.	Parent=LTR_retrotransposon98
 seq0	LTRharvest	target_site_duplication	17627340	17627343	.	?	.	Parent=repeat_region98
 ###
@@ -776,7 +776,7 @@ seq0	LTRharvest	repeat_region	18485347	18488962	.	?	.	ID=repeat_region100
 seq0	LTRharvest	target_site_duplication	18485347	18485350	.	?	.	Parent=repeat_region100
 seq0	LTRharvest	LTR_retrotransposon	18485351	18488958	.	+	.	ID=LTR_retrotransposon100;Parent=repeat_region100
 seq0	LTRharvest	long_terminal_repeat	18485351	18485765	.	?	.	Parent=LTR_retrotransposon100
-seq0	LTRdigest	primer_binding_site	18485767	18485781	15.000	+	.	Parent=LTR_retrotransposon100;edist=0;pbsoffset=2;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	18485767	18485781	15	+	.	Parent=LTR_retrotransposon100;trna=Ser-AGA;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	18488532	18488544	.	+	.	Parent=LTR_retrotransposon100
 seq0	LTRharvest	long_terminal_repeat	18488544	18488958	.	?	.	Parent=LTR_retrotransposon100
 seq0	LTRharvest	target_site_duplication	18488959	18488962	.	?	.	Parent=repeat_region100
@@ -799,7 +799,7 @@ seq0	LTRharvest	repeat_region	18867563	18874432	.	?	.	ID=repeat_region103
 seq0	LTRharvest	target_site_duplication	18867563	18867566	.	?	.	Parent=repeat_region103
 seq0	LTRharvest	LTR_retrotransposon	18867567	18874428	.	+	.	ID=LTR_retrotransposon103;Parent=repeat_region103
 seq0	LTRharvest	long_terminal_repeat	18867567	18868047	.	?	.	Parent=LTR_retrotransposon103
-seq0	LTRdigest	primer_binding_site	18868050	18868061	12.000	+	.	Parent=LTR_retrotransposon103;edist=0;pbsoffset=3;trna=Arg-TCG;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	18868050	18868061	12	+	.	Parent=LTR_retrotransposon103;trna=Arg-TCG;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRdigest	RR_tract	18873934	18873946	.	+	.	Parent=LTR_retrotransposon103
 seq0	LTRharvest	long_terminal_repeat	18873948	18874428	.	?	.	Parent=LTR_retrotransposon103
 seq0	LTRharvest	target_site_duplication	18874429	18874432	.	?	.	Parent=repeat_region103
@@ -808,7 +808,7 @@ seq0	LTRharvest	repeat_region	19168281	19175750	.	?	.	ID=repeat_region104
 seq0	LTRharvest	target_site_duplication	19168281	19168284	.	?	.	Parent=repeat_region104
 seq0	LTRharvest	LTR_retrotransposon	19168285	19175746	.	-	.	ID=LTR_retrotransposon104;Parent=repeat_region104
 seq0	LTRharvest	long_terminal_repeat	19168285	19168861	.	?	.	Parent=LTR_retrotransposon104
-seq0	LTRdigest	primer_binding_site	19175152	19175166	15.000	-	.	Parent=LTR_retrotransposon104;edist=0;pbsoffset=3;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	19175152	19175166	15	-	.	Parent=LTR_retrotransposon104;trna=Ser-AGA;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	19175170	19175746	.	?	.	Parent=LTR_retrotransposon104
 seq0	LTRharvest	target_site_duplication	19175747	19175750	.	?	.	Parent=repeat_region104
 ###
@@ -832,7 +832,7 @@ seq0	LTRharvest	repeat_region	19729426	19732996	.	?	.	ID=repeat_region107
 seq0	LTRharvest	target_site_duplication	19729426	19729429	.	?	.	Parent=repeat_region107
 seq0	LTRharvest	LTR_retrotransposon	19729430	19732992	.	+	.	ID=LTR_retrotransposon107;Parent=repeat_region107
 seq0	LTRharvest	long_terminal_repeat	19729430	19729843	.	?	.	Parent=LTR_retrotransposon107
-seq0	LTRdigest	primer_binding_site	19729845	19729859	15.000	+	.	Parent=LTR_retrotransposon107;edist=0;pbsoffset=2;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	19729845	19729859	15	+	.	Parent=LTR_retrotransposon107;trna=Ser-AGA;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	19732568	19732580	.	+	.	Parent=LTR_retrotransposon107
 seq0	LTRharvest	long_terminal_repeat	19732580	19732992	.	?	.	Parent=LTR_retrotransposon107
 seq0	LTRharvest	target_site_duplication	19732993	19732996	.	?	.	Parent=repeat_region107
@@ -906,7 +906,7 @@ seq0	LTRharvest	target_site_duplication	21313058	21313061	.	?	.	Parent=repeat_re
 seq0	LTRharvest	LTR_retrotransposon	21313062	21320687	.	-	.	ID=LTR_retrotransposon117;Parent=repeat_region117
 seq0	LTRharvest	long_terminal_repeat	21313062	21313633	.	?	.	Parent=LTR_retrotransposon117
 seq0	LTRdigest	RR_tract	21313633	21313645	.	-	.	Parent=LTR_retrotransposon117
-seq0	LTRdigest	primer_binding_site	21320100	21320111	12.000	-	.	Parent=LTR_retrotransposon117;edist=0;pbsoffset=4;trna=Arg-TCG;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	21320100	21320111	12	-	.	Parent=LTR_retrotransposon117;trna=Arg-TCG;trnaoffset=0;pbsoffset=4;edist=0
 seq0	LTRharvest	long_terminal_repeat	21320116	21320687	.	?	.	Parent=LTR_retrotransposon117
 seq0	LTRharvest	target_site_duplication	21320688	21320691	.	?	.	Parent=repeat_region117
 ###
@@ -928,7 +928,7 @@ seq0	LTRharvest	repeat_region	21553883	21560101	.	?	.	ID=repeat_region120
 seq0	LTRharvest	target_site_duplication	21553883	21553886	.	?	.	Parent=repeat_region120
 seq0	LTRharvest	LTR_retrotransposon	21553887	21560097	.	+	.	ID=LTR_retrotransposon120;Parent=repeat_region120
 seq0	LTRharvest	long_terminal_repeat	21553887	21554300	.	?	.	Parent=LTR_retrotransposon120
-seq0	LTRdigest	primer_binding_site	21554302	21554316	15.000	+	.	Parent=LTR_retrotransposon120;edist=0;pbsoffset=2;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	21554302	21554316	15	+	.	Parent=LTR_retrotransposon120;trna=Ser-AGA;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	21559672	21559684	.	+	.	Parent=LTR_retrotransposon120
 seq0	LTRharvest	long_terminal_repeat	21559684	21560097	.	?	.	Parent=LTR_retrotransposon120
 seq0	LTRharvest	target_site_duplication	21560098	21560101	.	?	.	Parent=repeat_region120
@@ -937,7 +937,7 @@ seq0	LTRharvest	repeat_region	21614878	21622286	.	?	.	ID=repeat_region121
 seq0	LTRharvest	target_site_duplication	21614878	21614881	.	?	.	Parent=repeat_region121
 seq0	LTRharvest	LTR_retrotransposon	21614882	21622282	.	+	.	ID=LTR_retrotransposon121;Parent=repeat_region121
 seq0	LTRharvest	long_terminal_repeat	21614882	21615213	.	?	.	Parent=LTR_retrotransposon121
-seq0	LTRdigest	primer_binding_site	21615215	21615229	15.000	+	.	Parent=LTR_retrotransposon121;edist=0;pbsoffset=2;trna=Lys-TTT;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	21615215	21615229	15	+	.	Parent=LTR_retrotransposon121;trna=Lys-TTT;trnaoffset=0;pbsoffset=2;edist=0
 seq0	LTRdigest	RR_tract	21621939	21621951	.	+	.	Parent=LTR_retrotransposon121
 seq0	LTRharvest	long_terminal_repeat	21621951	21622282	.	?	.	Parent=LTR_retrotransposon121
 seq0	LTRharvest	target_site_duplication	21622283	21622286	.	?	.	Parent=repeat_region121
@@ -947,7 +947,7 @@ seq0	LTRharvest	target_site_duplication	21704902	21704905	.	?	.	Parent=repeat_re
 seq0	LTRharvest	LTR_retrotransposon	21704906	21708139	.	-	.	ID=LTR_retrotransposon122;Parent=repeat_region122
 seq0	LTRharvest	long_terminal_repeat	21704906	21705319	.	?	.	Parent=LTR_retrotransposon122
 seq0	LTRdigest	RR_tract	21705317	21705329	.	-	.	Parent=LTR_retrotransposon122
-seq0	LTRdigest	primer_binding_site	21707708	21707722	15.000	-	.	Parent=LTR_retrotransposon122;edist=0;pbsoffset=3;trna=Ser-AGA;trnaoffset=0
+seq0	LTRdigest	primer_binding_site	21707708	21707722	15	-	.	Parent=LTR_retrotransposon122;trna=Ser-AGA;trnaoffset=0;pbsoffset=3;edist=0
 seq0	LTRharvest	long_terminal_repeat	21707726	21708139	.	?	.	Parent=LTR_retrotransposon122
 seq0	LTRharvest	target_site_duplication	21708140	21708143	.	?	.	Parent=repeat_region122
 ###
