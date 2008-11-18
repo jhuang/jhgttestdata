@@ -1,397 +1,436 @@
 ##gff-version   3
+##sequence-region   chrUn.3067 13593 13685
+##sequence-region   chr15 20062846 29456252
+##sequence-region   chr12 33238486 33239006
+##sequence-region   chr13 46558649 46558750
+##sequence-region   chr18 6762195 48640142
+##sequence-region   chr19 5066561 31198271
+##sequence-region   chr30 26923386 27138167
+##sequence-region   chr16 11429033 55177001
+##sequence-region   chrUn.328 226975 227041
+##sequence-region   chrUn.559 297094 297161
+##sequence-region   chrUn.7588 18936 19712
+##sequence-region   chrUn.577 19021 19106
+##sequence-region   chr11 73020218 78139227
+##sequence-region   chrUn.3367 77314 77406
+##sequence-region   chrUn.30 151339 151423
+##sequence-region   chrUn.193 161155 164379
+##sequence-region   chrUn.662 132763 132843
+##sequence-region   chr7 7925450 42137759
+##sequence-region   chr8 18465466 56118952
+##sequence-region   chrUn.5540 2902 2986
+##sequence-region   chr9 1469359 1469424
+##sequence-region   chrUn.468 257703 257773
+##sequence-region   chrUn.2076 47098 47182
+##sequence-region   chr4 51095466 51095528
+##sequence-region   chr5 16485573 60310390
+##sequence-region   chr25 16210410 33177792
+##sequence-region   chr24 5969317 5969421
+##sequence-region   chr22 36837011 40015973
+##sequence-region   chrUn.8225 25176 26080
+##sequence-region   chr29 9418983 45757813
+##sequence-region   chr26 7126789 7126868
+##sequence-region   chr21 44631641 45763633
+##sequence-region   chrUn.274 228884 228967
+##sequence-region   chr20 591265 591325
+##sequence-region   chrUn.1609 175510 175600
+##sequence-region   chrUn.80514 592 663
+##sequence-region   chr1 11909027 70883477
+##sequence-region   chr2 16971904 59674831
+##sequence-region   chrUn.443 431590 435999
 chr1	.	BED_feature	11909027	11909106	0	+	.	ID=BED_feature1;Name=MIR2337
-chr1	.	BED_thick_feature	11909026	11909106	0	+	.	Parent=BED_feature1;Name=MIR2337
+chr1	.	BED_thick_feature	11909027	11909106	0	+	.	Parent=BED_feature1;Name=MIR2337
 chr1	.	BED_block	11909027	11909106	0	+	.	Parent=BED_feature1;Name=MIR2337
 ###
 chr1	.	BED_feature	70883238	70883334	0	+	.	ID=BED_feature2;Name=MIR2373
-chr1	.	BED_thick_feature	70883237	70883334	0	+	.	Parent=BED_feature2;Name=MIR2373
+chr1	.	BED_thick_feature	70883238	70883334	0	+	.	Parent=BED_feature2;Name=MIR2373
 chr1	.	BED_block	70883238	70883334	0	+	.	Parent=BED_feature2;Name=MIR2373
 ###
 chr1	.	BED_feature	70883386	70883477	0	+	.	ID=BED_feature3;Name=MIR2324
-chr1	.	BED_thick_feature	70883385	70883477	0	+	.	Parent=BED_feature3;Name=MIR2324
+chr1	.	BED_thick_feature	70883386	70883477	0	+	.	Parent=BED_feature3;Name=MIR2324
 chr1	.	BED_block	70883386	70883477	0	+	.	Parent=BED_feature3;Name=MIR2324
 ###
 chr11	.	BED_feature	73020218	73020326	0	+	.	ID=BED_feature4;Name=MIR2344
-chr11	.	BED_thick_feature	73020217	73020326	0	+	.	Parent=BED_feature4;Name=MIR2344
+chr11	.	BED_thick_feature	73020218	73020326	0	+	.	Parent=BED_feature4;Name=MIR2344
 chr11	.	BED_block	73020218	73020326	0	+	.	Parent=BED_feature4;Name=MIR2344
 ###
 chr11	.	BED_feature	73021433	73021520	0	+	.	ID=BED_feature5;Name=MIR2374
-chr11	.	BED_thick_feature	73021432	73021520	0	+	.	Parent=BED_feature5;Name=MIR2374
+chr11	.	BED_thick_feature	73021433	73021520	0	+	.	Parent=BED_feature5;Name=MIR2374
 chr11	.	BED_block	73021433	73021520	0	+	.	Parent=BED_feature5;Name=MIR2374
 ###
 chr11	.	BED_feature	78139129	78139227	0	-	.	ID=BED_feature6;Name=MIR2397
-chr11	.	BED_thick_feature	78139128	78139227	0	-	.	Parent=BED_feature6;Name=MIR2397
+chr11	.	BED_thick_feature	78139129	78139227	0	-	.	Parent=BED_feature6;Name=MIR2397
 chr11	.	BED_block	78139129	78139227	0	-	.	Parent=BED_feature6;Name=MIR2397
 ###
 chr12	.	BED_feature	33238486	33238555	0	-	.	ID=BED_feature7;Name=MIR2326
-chr12	.	BED_thick_feature	33238485	33238555	0	-	.	Parent=BED_feature7;Name=MIR2326
+chr12	.	BED_thick_feature	33238486	33238555	0	-	.	Parent=BED_feature7;Name=MIR2326
 chr12	.	BED_block	33238486	33238555	0	-	.	Parent=BED_feature7;Name=MIR2326
 ###
 chr12	.	BED_feature	33238794	33238863	0	-	.	ID=BED_feature8;Name=MIR2325
-chr12	.	BED_thick_feature	33238793	33238863	0	-	.	Parent=BED_feature8;Name=MIR2325
+chr12	.	BED_thick_feature	33238794	33238863	0	-	.	Parent=BED_feature8;Name=MIR2325
 chr12	.	BED_block	33238794	33238863	0	-	.	Parent=BED_feature8;Name=MIR2325
 ###
 chr12	.	BED_feature	33238924	33239006	0	-	.	ID=BED_feature9;Name=MIR2392
-chr12	.	BED_thick_feature	33238923	33239006	0	-	.	Parent=BED_feature9;Name=MIR2392
+chr12	.	BED_thick_feature	33238924	33239006	0	-	.	Parent=BED_feature9;Name=MIR2392
 chr12	.	BED_block	33238924	33239006	0	-	.	Parent=BED_feature9;Name=MIR2392
 ###
 chr13	.	BED_feature	46558649	46558750	0	-	.	ID=BED_feature10;Name=MIR2336
-chr13	.	BED_thick_feature	46558648	46558750	0	-	.	Parent=BED_feature10;Name=MIR2336
+chr13	.	BED_thick_feature	46558649	46558750	0	-	.	Parent=BED_feature10;Name=MIR2336
 chr13	.	BED_block	46558649	46558750	0	-	.	Parent=BED_feature10;Name=MIR2336
 ###
 chr15	.	BED_feature	20062846	20062932	0	+	.	ID=BED_feature11;Name=MIR2340
-chr15	.	BED_thick_feature	20062845	20062932	0	+	.	Parent=BED_feature11;Name=MIR2340
+chr15	.	BED_thick_feature	20062846	20062932	0	+	.	Parent=BED_feature11;Name=MIR2340
 chr15	.	BED_block	20062846	20062932	0	+	.	Parent=BED_feature11;Name=MIR2340
 ###
 chr15	.	BED_feature	29456186	29456252	0	+	.	ID=BED_feature12;Name=MIR2370
-chr15	.	BED_thick_feature	29456185	29456252	0	+	.	Parent=BED_feature12;Name=MIR2370
+chr15	.	BED_thick_feature	29456186	29456252	0	+	.	Parent=BED_feature12;Name=MIR2370
 chr15	.	BED_block	29456186	29456252	0	+	.	Parent=BED_feature12;Name=MIR2370
 ###
 chr16	.	BED_feature	11429033	11429110	0	+	.	ID=BED_feature13;Name=MIR2377
-chr16	.	BED_thick_feature	11429032	11429110	0	+	.	Parent=BED_feature13;Name=MIR2377
+chr16	.	BED_thick_feature	11429033	11429110	0	+	.	Parent=BED_feature13;Name=MIR2377
 chr16	.	BED_block	11429033	11429110	0	+	.	Parent=BED_feature13;Name=MIR2377
 ###
 chr16	.	BED_feature	28318550	28318658	0	-	.	ID=BED_feature14;Name=MIR2401
-chr16	.	BED_thick_feature	28318549	28318658	0	-	.	Parent=BED_feature14;Name=MIR2401
+chr16	.	BED_thick_feature	28318550	28318658	0	-	.	Parent=BED_feature14;Name=MIR2401
 chr16	.	BED_block	28318550	28318658	0	-	.	Parent=BED_feature14;Name=MIR2401
 ###
 chr16	.	BED_feature	28324300	28324402	0	-	.	ID=BED_feature15;Name=MIR2345
-chr16	.	BED_thick_feature	28324299	28324402	0	-	.	Parent=BED_feature15;Name=MIR2345
+chr16	.	BED_thick_feature	28324300	28324402	0	-	.	Parent=BED_feature15;Name=MIR2345
 chr16	.	BED_block	28324300	28324402	0	-	.	Parent=BED_feature15;Name=MIR2345
 ###
 chr16	.	BED_feature	36340190	36340268	0	+	.	ID=BED_feature16;Name=MIR2418
-chr16	.	BED_thick_feature	36340189	36340268	0	+	.	Parent=BED_feature16;Name=MIR2418
+chr16	.	BED_thick_feature	36340190	36340268	0	+	.	Parent=BED_feature16;Name=MIR2418
 chr16	.	BED_block	36340190	36340268	0	+	.	Parent=BED_feature16;Name=MIR2418
 ###
 chr16	.	BED_feature	36340543	36340628	0	+	.	ID=BED_feature17;Name=MIR2423
-chr16	.	BED_thick_feature	36340542	36340628	0	+	.	Parent=BED_feature17;Name=MIR2423
+chr16	.	BED_thick_feature	36340543	36340628	0	+	.	Parent=BED_feature17;Name=MIR2423
 chr16	.	BED_block	36340543	36340628	0	+	.	Parent=BED_feature17;Name=MIR2423
 ###
 chr16	.	BED_feature	36342749	36342834	0	+	.	ID=BED_feature18;Name=MIR2387
-chr16	.	BED_thick_feature	36342748	36342834	0	+	.	Parent=BED_feature18;Name=MIR2387
+chr16	.	BED_thick_feature	36342749	36342834	0	+	.	Parent=BED_feature18;Name=MIR2387
 chr16	.	BED_block	36342749	36342834	0	+	.	Parent=BED_feature18;Name=MIR2387
 ###
 chr16	.	BED_feature	38038701	38038785	0	-	.	ID=BED_feature19;Name=MIR2398
-chr16	.	BED_thick_feature	38038700	38038785	0	-	.	Parent=BED_feature19;Name=MIR2398
+chr16	.	BED_thick_feature	38038701	38038785	0	-	.	Parent=BED_feature19;Name=MIR2398
 chr16	.	BED_block	38038701	38038785	0	-	.	Parent=BED_feature19;Name=MIR2398
 ###
 chr16	.	BED_feature	38039369	38039426	0	-	.	ID=BED_feature20;Name=MIR2416
-chr16	.	BED_thick_feature	38039368	38039426	0	-	.	Parent=BED_feature20;Name=MIR2416
+chr16	.	BED_thick_feature	38039369	38039426	0	-	.	Parent=BED_feature20;Name=MIR2416
 chr16	.	BED_block	38039369	38039426	0	-	.	Parent=BED_feature20;Name=MIR2416
 ###
 chr16	.	BED_feature	50480699	50480766	0	+	.	ID=BED_feature21;Name=MIR2346
-chr16	.	BED_thick_feature	50480698	50480766	0	+	.	Parent=BED_feature21;Name=MIR2346
+chr16	.	BED_thick_feature	50480699	50480766	0	+	.	Parent=BED_feature21;Name=MIR2346
 chr16	.	BED_block	50480699	50480766	0	+	.	Parent=BED_feature21;Name=MIR2346
 ###
 chr16	.	BED_feature	55094052	55094131	0	-	.	ID=BED_feature22;Name=MIR2404
-chr16	.	BED_thick_feature	55094051	55094131	0	-	.	Parent=BED_feature22;Name=MIR2404
+chr16	.	BED_thick_feature	55094052	55094131	0	-	.	Parent=BED_feature22;Name=MIR2404
 chr16	.	BED_block	55094052	55094131	0	-	.	Parent=BED_feature22;Name=MIR2404
 ###
 chr16	.	BED_feature	55176355	55176441	0	-	.	ID=BED_feature23;Name=MIR2405
-chr16	.	BED_thick_feature	55176354	55176441	0	-	.	Parent=BED_feature23;Name=MIR2405
+chr16	.	BED_thick_feature	55176355	55176441	0	-	.	Parent=BED_feature23;Name=MIR2405
 chr16	.	BED_block	55176355	55176441	0	-	.	Parent=BED_feature23;Name=MIR2405
 ###
 chr16	.	BED_feature	55176922	55177001	0	-	.	ID=BED_feature24;Name=MIR2404
-chr16	.	BED_thick_feature	55176921	55177001	0	-	.	Parent=BED_feature24;Name=MIR2404
+chr16	.	BED_thick_feature	55176922	55177001	0	-	.	Parent=BED_feature24;Name=MIR2404
 chr16	.	BED_block	55176922	55177001	0	-	.	Parent=BED_feature24;Name=MIR2404
 ###
 chr18	.	BED_feature	6762195	6762278	0	-	.	ID=BED_feature25;Name=MIR2388
-chr18	.	BED_thick_feature	6762194	6762278	0	-	.	Parent=BED_feature25;Name=MIR2388
+chr18	.	BED_thick_feature	6762195	6762278	0	-	.	Parent=BED_feature25;Name=MIR2388
 chr18	.	BED_block	6762195	6762278	0	-	.	Parent=BED_feature25;Name=MIR2388
 ###
 chr18	.	BED_feature	30537162	30537254	0	+	.	ID=BED_feature26;Name=MIR2371
-chr18	.	BED_thick_feature	30537161	30537254	0	+	.	Parent=BED_feature26;Name=MIR2371
+chr18	.	BED_thick_feature	30537162	30537254	0	+	.	Parent=BED_feature26;Name=MIR2371
 chr18	.	BED_block	30537162	30537254	0	+	.	Parent=BED_feature26;Name=MIR2371
 ###
 chr18	.	BED_feature	48640044	48640142	0	-	.	ID=BED_feature27;Name=MIR2419
-chr18	.	BED_thick_feature	48640043	48640142	0	-	.	Parent=BED_feature27;Name=MIR2419
+chr18	.	BED_thick_feature	48640044	48640142	0	-	.	Parent=BED_feature27;Name=MIR2419
 chr18	.	BED_block	48640044	48640142	0	-	.	Parent=BED_feature27;Name=MIR2419
 ###
 chr19	.	BED_feature	5066561	5066631	0	+	.	ID=BED_feature28;Name=MIR2327
-chr19	.	BED_thick_feature	5066560	5066631	0	+	.	Parent=BED_feature28;Name=MIR2327
+chr19	.	BED_thick_feature	5066561	5066631	0	+	.	Parent=BED_feature28;Name=MIR2327
 chr19	.	BED_block	5066561	5066631	0	+	.	Parent=BED_feature28;Name=MIR2327
 ###
 chr19	.	BED_feature	10041406	10041485	0	+	.	ID=BED_feature29;Name=MIR2375
-chr19	.	BED_thick_feature	10041405	10041485	0	+	.	Parent=BED_feature29;Name=MIR2375
+chr19	.	BED_thick_feature	10041406	10041485	0	+	.	Parent=BED_feature29;Name=MIR2375
 chr19	.	BED_block	10041406	10041485	0	+	.	Parent=BED_feature29;Name=MIR2375
 ###
 chr19	.	BED_feature	17348901	17348984	0	-	.	ID=BED_feature30;Name=MIR2402
-chr19	.	BED_thick_feature	17348900	17348984	0	-	.	Parent=BED_feature30;Name=MIR2402
+chr19	.	BED_thick_feature	17348901	17348984	0	-	.	Parent=BED_feature30;Name=MIR2402
 chr19	.	BED_block	17348901	17348984	0	-	.	Parent=BED_feature30;Name=MIR2402
 ###
 chr19	.	BED_feature	17607540	17607639	0	-	.	ID=BED_feature31;Name=MIR2389
-chr19	.	BED_thick_feature	17607539	17607639	0	-	.	Parent=BED_feature31;Name=MIR2389
+chr19	.	BED_thick_feature	17607540	17607639	0	-	.	Parent=BED_feature31;Name=MIR2389
 chr19	.	BED_block	17607540	17607639	0	-	.	Parent=BED_feature31;Name=MIR2389
 ###
 chr19	.	BED_feature	31198164	31198271	0	-	.	ID=BED_feature32;Name=MIR2368
-chr19	.	BED_thick_feature	31198163	31198271	0	-	.	Parent=BED_feature32;Name=MIR2368
+chr19	.	BED_thick_feature	31198164	31198271	0	-	.	Parent=BED_feature32;Name=MIR2368
 chr19	.	BED_block	31198164	31198271	0	-	.	Parent=BED_feature32;Name=MIR2368
 ###
 chr2	.	BED_feature	16971904	16972001	0	-	.	ID=BED_feature33;Name=MIR2413
-chr2	.	BED_thick_feature	16971903	16972001	0	-	.	Parent=BED_feature33;Name=MIR2413
+chr2	.	BED_thick_feature	16971904	16972001	0	-	.	Parent=BED_feature33;Name=MIR2413
 chr2	.	BED_block	16971904	16972001	0	-	.	Parent=BED_feature33;Name=MIR2413
 ###
 chr2	.	BED_feature	38037103	38037183	0	-	.	ID=BED_feature34;Name=MIR2342
-chr2	.	BED_thick_feature	38037102	38037183	0	-	.	Parent=BED_feature34;Name=MIR2342
+chr2	.	BED_thick_feature	38037103	38037183	0	-	.	Parent=BED_feature34;Name=MIR2342
 chr2	.	BED_block	38037103	38037183	0	-	.	Parent=BED_feature34;Name=MIR2342
 ###
 chr2	.	BED_feature	59674748	59674831	0	-	.	ID=BED_feature35;Name=MIR2331
-chr2	.	BED_thick_feature	59674747	59674831	0	-	.	Parent=BED_feature35;Name=MIR2331
+chr2	.	BED_thick_feature	59674748	59674831	0	-	.	Parent=BED_feature35;Name=MIR2331
 chr2	.	BED_block	59674748	59674831	0	-	.	Parent=BED_feature35;Name=MIR2331
 ###
 chr20	.	BED_feature	591265	591325	0	+	.	ID=BED_feature36;Name=MIR2378
-chr20	.	BED_thick_feature	591264	591325	0	+	.	Parent=BED_feature36;Name=MIR2378
+chr20	.	BED_thick_feature	591265	591325	0	+	.	Parent=BED_feature36;Name=MIR2378
 chr20	.	BED_block	591265	591325	0	+	.	Parent=BED_feature36;Name=MIR2378
 ###
 chr21	.	BED_feature	44631641	44631733	0	-	.	ID=BED_feature37;Name=MIR2420
-chr21	.	BED_thick_feature	44631640	44631733	0	-	.	Parent=BED_feature37;Name=MIR2420
+chr21	.	BED_thick_feature	44631641	44631733	0	-	.	Parent=BED_feature37;Name=MIR2420
 chr21	.	BED_block	44631641	44631733	0	-	.	Parent=BED_feature37;Name=MIR2420
 ###
 chr21	.	BED_feature	44969184	44969273	0	+	.	ID=BED_feature38;Name=MIR2380
-chr21	.	BED_thick_feature	44969183	44969273	0	+	.	Parent=BED_feature38;Name=MIR2380
+chr21	.	BED_thick_feature	44969184	44969273	0	+	.	Parent=BED_feature38;Name=MIR2380
 chr21	.	BED_block	44969184	44969273	0	+	.	Parent=BED_feature38;Name=MIR2380
 ###
 chr21	.	BED_feature	45590347	45590440	0	+	.	ID=BED_feature39;Name=MIR2369
-chr21	.	BED_thick_feature	45590346	45590440	0	+	.	Parent=BED_feature39;Name=MIR2369
+chr21	.	BED_thick_feature	45590347	45590440	0	+	.	Parent=BED_feature39;Name=MIR2369
 chr21	.	BED_block	45590347	45590440	0	+	.	Parent=BED_feature39;Name=MIR2369
 ###
 chr21	.	BED_feature	45724960	45725019	0	+	.	ID=BED_feature40;Name=MIR2382
-chr21	.	BED_thick_feature	45724959	45725019	0	+	.	Parent=BED_feature40;Name=MIR2382
+chr21	.	BED_thick_feature	45724960	45725019	0	+	.	Parent=BED_feature40;Name=MIR2382
 chr21	.	BED_block	45724960	45725019	0	+	.	Parent=BED_feature40;Name=MIR2382
 ###
 chr21	.	BED_feature	45743571	45743653	0	+	.	ID=BED_feature41;Name=MIR2421
-chr21	.	BED_thick_feature	45743570	45743653	0	+	.	Parent=BED_feature41;Name=MIR2421
+chr21	.	BED_thick_feature	45743571	45743653	0	+	.	Parent=BED_feature41;Name=MIR2421
 chr21	.	BED_block	45743571	45743653	0	+	.	Parent=BED_feature41;Name=MIR2421
 ###
 chr21	.	BED_feature	45749889	45749967	0	+	.	ID=BED_feature42;Name=MIR2383
-chr21	.	BED_thick_feature	45749888	45749967	0	+	.	Parent=BED_feature42;Name=MIR2383
+chr21	.	BED_thick_feature	45749889	45749967	0	+	.	Parent=BED_feature42;Name=MIR2383
 chr21	.	BED_block	45749889	45749967	0	+	.	Parent=BED_feature42;Name=MIR2383
 ###
 chr21	.	BED_feature	45763566	45763633	0	+	.	ID=BED_feature43;Name=MIR2381
-chr21	.	BED_thick_feature	45763565	45763633	0	+	.	Parent=BED_feature43;Name=MIR2381
+chr21	.	BED_thick_feature	45763566	45763633	0	+	.	Parent=BED_feature43;Name=MIR2381
 chr21	.	BED_block	45763566	45763633	0	+	.	Parent=BED_feature43;Name=MIR2381
 ###
 chr22	.	BED_feature	36837011	36837092	0	-	.	ID=BED_feature44;Name=MIR2412
-chr22	.	BED_thick_feature	36837010	36837092	0	-	.	Parent=BED_feature44;Name=MIR2412
+chr22	.	BED_thick_feature	36837011	36837092	0	-	.	Parent=BED_feature44;Name=MIR2412
 chr22	.	BED_block	36837011	36837092	0	-	.	Parent=BED_feature44;Name=MIR2412
 ###
 chr22	.	BED_feature	40015406	40015491	0	-	.	ID=BED_feature45;Name=MIR2408
-chr22	.	BED_thick_feature	40015405	40015491	0	-	.	Parent=BED_feature45;Name=MIR2408
+chr22	.	BED_thick_feature	40015406	40015491	0	-	.	Parent=BED_feature45;Name=MIR2408
 chr22	.	BED_block	40015406	40015491	0	-	.	Parent=BED_feature45;Name=MIR2408
 ###
 chr22	.	BED_feature	40015884	40015973	0	-	.	ID=BED_feature46;Name=MIR2395
-chr22	.	BED_thick_feature	40015883	40015973	0	-	.	Parent=BED_feature46;Name=MIR2395
+chr22	.	BED_thick_feature	40015884	40015973	0	-	.	Parent=BED_feature46;Name=MIR2395
 chr22	.	BED_block	40015884	40015973	0	-	.	Parent=BED_feature46;Name=MIR2395
 ###
 chr24	.	BED_feature	5969317	5969421	0	+	.	ID=BED_feature47;Name=MIR2384
-chr24	.	BED_thick_feature	5969316	5969421	0	+	.	Parent=BED_feature47;Name=MIR2384
+chr24	.	BED_thick_feature	5969317	5969421	0	+	.	Parent=BED_feature47;Name=MIR2384
 chr24	.	BED_block	5969317	5969421	0	+	.	Parent=BED_feature47;Name=MIR2384
 ###
 chr25	.	BED_feature	16210410	16210471	0	+	.	ID=BED_feature48;Name=MIR2335
-chr25	.	BED_thick_feature	16210409	16210471	0	+	.	Parent=BED_feature48;Name=MIR2335
+chr25	.	BED_thick_feature	16210410	16210471	0	+	.	Parent=BED_feature48;Name=MIR2335
 chr25	.	BED_block	16210410	16210471	0	+	.	Parent=BED_feature48;Name=MIR2335
 ###
 chr25	.	BED_feature	33177510	33177592	0	-	.	ID=BED_feature49;Name=MIR2428
-chr25	.	BED_thick_feature	33177509	33177592	0	-	.	Parent=BED_feature49;Name=MIR2428
+chr25	.	BED_thick_feature	33177510	33177592	0	-	.	Parent=BED_feature49;Name=MIR2428
 chr25	.	BED_block	33177510	33177592	0	-	.	Parent=BED_feature49;Name=MIR2428
 ###
 chr25	.	BED_feature	33177717	33177792	0	-	.	ID=BED_feature50;Name=MIR2411
-chr25	.	BED_thick_feature	33177716	33177792	0	-	.	Parent=BED_feature50;Name=MIR2411
+chr25	.	BED_thick_feature	33177717	33177792	0	-	.	Parent=BED_feature50;Name=MIR2411
 chr25	.	BED_block	33177717	33177792	0	-	.	Parent=BED_feature50;Name=MIR2411
 ###
 chr26	.	BED_feature	7126789	7126868	0	+	.	ID=BED_feature51;Name=MIR2367
-chr26	.	BED_thick_feature	7126788	7126868	0	+	.	Parent=BED_feature51;Name=MIR2367
+chr26	.	BED_thick_feature	7126789	7126868	0	+	.	Parent=BED_feature51;Name=MIR2367
 chr26	.	BED_block	7126789	7126868	0	+	.	Parent=BED_feature51;Name=MIR2367
 ###
 chr29	.	BED_feature	9418983	9419064	0	-	.	ID=BED_feature52;Name=MIR2390
-chr29	.	BED_thick_feature	9418982	9419064	0	-	.	Parent=BED_feature52;Name=MIR2390
+chr29	.	BED_thick_feature	9418983	9419064	0	-	.	Parent=BED_feature52;Name=MIR2390
 chr29	.	BED_block	9418983	9419064	0	-	.	Parent=BED_feature52;Name=MIR2390
 ###
 chr29	.	BED_feature	32332931	32333000	0	-	.	ID=BED_feature53;Name=MIR2406
-chr29	.	BED_thick_feature	32332930	32333000	0	-	.	Parent=BED_feature53;Name=MIR2406
+chr29	.	BED_thick_feature	32332931	32333000	0	-	.	Parent=BED_feature53;Name=MIR2406
 chr29	.	BED_block	32332931	32333000	0	-	.	Parent=BED_feature53;Name=MIR2406
 ###
 chr29	.	BED_feature	34062592	34062696	0	-	.	ID=BED_feature54;Name=MIR2396
-chr29	.	BED_thick_feature	34062591	34062696	0	-	.	Parent=BED_feature54;Name=MIR2396
+chr29	.	BED_thick_feature	34062592	34062696	0	-	.	Parent=BED_feature54;Name=MIR2396
 chr29	.	BED_block	34062592	34062696	0	-	.	Parent=BED_feature54;Name=MIR2396
 ###
 chr29	.	BED_feature	45757717	45757813	0	-	.	ID=BED_feature55;Name=MIR2400
-chr29	.	BED_thick_feature	45757716	45757813	0	-	.	Parent=BED_feature55;Name=MIR2400
+chr29	.	BED_thick_feature	45757717	45757813	0	-	.	Parent=BED_feature55;Name=MIR2400
 chr29	.	BED_block	45757717	45757813	0	-	.	Parent=BED_feature55;Name=MIR2400
 ###
 chr30	.	BED_feature	26923386	26923503	0	-	.	ID=BED_feature56;Name=MIR2386
-chr30	.	BED_thick_feature	26923385	26923503	0	-	.	Parent=BED_feature56;Name=MIR2386
+chr30	.	BED_thick_feature	26923386	26923503	0	-	.	Parent=BED_feature56;Name=MIR2386
 chr30	.	BED_block	26923386	26923503	0	-	.	Parent=BED_feature56;Name=MIR2386
 ###
 chr30	.	BED_feature	26924290	26924371	0	-	.	ID=BED_feature57;Name=MIR2319
-chr30	.	BED_thick_feature	26924289	26924371	0	-	.	Parent=BED_feature57;Name=MIR2319
+chr30	.	BED_thick_feature	26924290	26924371	0	-	.	Parent=BED_feature57;Name=MIR2319
 chr30	.	BED_block	26924290	26924371	0	-	.	Parent=BED_feature57;Name=MIR2319
 ###
 chr30	.	BED_feature	27137365	27137473	0	-	.	ID=BED_feature58;Name=MIR2329
-chr30	.	BED_thick_feature	27137364	27137473	0	-	.	Parent=BED_feature58;Name=MIR2329
+chr30	.	BED_thick_feature	27137365	27137473	0	-	.	Parent=BED_feature58;Name=MIR2329
 chr30	.	BED_block	27137365	27137473	0	-	.	Parent=BED_feature58;Name=MIR2329
 ###
 chr30	.	BED_feature	27138059	27138167	0	-	.	ID=BED_feature59;Name=MIR2330
-chr30	.	BED_thick_feature	27138058	27138167	0	-	.	Parent=BED_feature59;Name=MIR2330
+chr30	.	BED_thick_feature	27138059	27138167	0	-	.	Parent=BED_feature59;Name=MIR2330
 chr30	.	BED_block	27138059	27138167	0	-	.	Parent=BED_feature59;Name=MIR2330
 ###
 chr4	.	BED_feature	51095466	51095528	0	-	.	ID=BED_feature60;Name=MIR2318
-chr4	.	BED_thick_feature	51095465	51095528	0	-	.	Parent=BED_feature60;Name=MIR2318
+chr4	.	BED_thick_feature	51095466	51095528	0	-	.	Parent=BED_feature60;Name=MIR2318
 chr4	.	BED_block	51095466	51095528	0	-	.	Parent=BED_feature60;Name=MIR2318
 ###
 chr5	.	BED_feature	16485573	16485661	0	-	.	ID=BED_feature61;Name=MIR2391
-chr5	.	BED_thick_feature	16485572	16485661	0	-	.	Parent=BED_feature61;Name=MIR2391
+chr5	.	BED_thick_feature	16485573	16485661	0	-	.	Parent=BED_feature61;Name=MIR2391
 chr5	.	BED_block	16485573	16485661	0	-	.	Parent=BED_feature61;Name=MIR2391
 ###
 chr5	.	BED_feature	32330088	32330170	0	+	.	ID=BED_feature62;Name=MIR2426
-chr5	.	BED_thick_feature	32330087	32330170	0	+	.	Parent=BED_feature62;Name=MIR2426
+chr5	.	BED_thick_feature	32330088	32330170	0	+	.	Parent=BED_feature62;Name=MIR2426
 chr5	.	BED_block	32330088	32330170	0	+	.	Parent=BED_feature62;Name=MIR2426
 ###
 chr5	.	BED_feature	34389085	34389167	0	-	.	ID=BED_feature63;Name=MIR2315
-chr5	.	BED_thick_feature	34389084	34389167	0	-	.	Parent=BED_feature63;Name=MIR2315
+chr5	.	BED_thick_feature	34389085	34389167	0	-	.	Parent=BED_feature63;Name=MIR2315
 chr5	.	BED_block	34389085	34389167	0	-	.	Parent=BED_feature63;Name=MIR2315
 ###
 chr5	.	BED_feature	60310327	60310390	0	-	.	ID=BED_feature64;Name=MIR2399
-chr5	.	BED_thick_feature	60310326	60310390	0	-	.	Parent=BED_feature64;Name=MIR2399
+chr5	.	BED_thick_feature	60310327	60310390	0	-	.	Parent=BED_feature64;Name=MIR2399
 chr5	.	BED_block	60310327	60310390	0	-	.	Parent=BED_feature64;Name=MIR2399
 ###
 chr7	.	BED_feature	7925450	7925545	0	-	.	ID=BED_feature65;Name=MIR2393
-chr7	.	BED_thick_feature	7925449	7925545	0	-	.	Parent=BED_feature65;Name=MIR2393
+chr7	.	BED_thick_feature	7925450	7925545	0	-	.	Parent=BED_feature65;Name=MIR2393
 chr7	.	BED_block	7925450	7925545	0	-	.	Parent=BED_feature65;Name=MIR2393
 ###
 chr7	.	BED_feature	8206622	8206692	0	-	.	ID=BED_feature66;Name=MIR2414
-chr7	.	BED_thick_feature	8206621	8206692	0	-	.	Parent=BED_feature66;Name=MIR2414
+chr7	.	BED_thick_feature	8206622	8206692	0	-	.	Parent=BED_feature66;Name=MIR2414
 chr7	.	BED_block	8206622	8206692	0	-	.	Parent=BED_feature66;Name=MIR2414
 ###
 chr7	.	BED_feature	8206771	8206847	0	-	.	ID=BED_feature67;Name=MIR2332
-chr7	.	BED_thick_feature	8206770	8206847	0	-	.	Parent=BED_feature67;Name=MIR2332
+chr7	.	BED_thick_feature	8206771	8206847	0	-	.	Parent=BED_feature67;Name=MIR2332
 chr7	.	BED_block	8206771	8206847	0	-	.	Parent=BED_feature67;Name=MIR2332
 ###
 chr7	.	BED_feature	8206950	8207021	0	-	.	ID=BED_feature68;Name=MIR2403
-chr7	.	BED_thick_feature	8206949	8207021	0	-	.	Parent=BED_feature68;Name=MIR2403
+chr7	.	BED_thick_feature	8206950	8207021	0	-	.	Parent=BED_feature68;Name=MIR2403
 chr7	.	BED_block	8206950	8207021	0	-	.	Parent=BED_feature68;Name=MIR2403
 ###
 chr7	.	BED_feature	15374434	15374514	0	+	.	ID=BED_feature69;Name=MIR2417
-chr7	.	BED_thick_feature	15374433	15374514	0	+	.	Parent=BED_feature69;Name=MIR2417
+chr7	.	BED_thick_feature	15374434	15374514	0	+	.	Parent=BED_feature69;Name=MIR2417
 chr7	.	BED_block	15374434	15374514	0	+	.	Parent=BED_feature69;Name=MIR2417
 ###
 chr7	.	BED_feature	42137673	42137759	0	-	.	ID=BED_feature70;Name=MIR2343
-chr7	.	BED_thick_feature	42137672	42137759	0	-	.	Parent=BED_feature70;Name=MIR2343
+chr7	.	BED_thick_feature	42137673	42137759	0	-	.	Parent=BED_feature70;Name=MIR2343
 chr7	.	BED_block	42137673	42137759	0	-	.	Parent=BED_feature70;Name=MIR2343
 ###
 chr8	.	BED_feature	18465466	18465543	0	-	.	ID=BED_feature71;Name=MIR2320
-chr8	.	BED_thick_feature	18465465	18465543	0	-	.	Parent=BED_feature71;Name=MIR2320
+chr8	.	BED_thick_feature	18465466	18465543	0	-	.	Parent=BED_feature71;Name=MIR2320
 chr8	.	BED_block	18465466	18465543	0	-	.	Parent=BED_feature71;Name=MIR2320
 ###
 chr8	.	BED_feature	44319422	44319517	0	-	.	ID=BED_feature72;Name=MIR2347
-chr8	.	BED_thick_feature	44319421	44319517	0	-	.	Parent=BED_feature72;Name=MIR2347
+chr8	.	BED_thick_feature	44319422	44319517	0	-	.	Parent=BED_feature72;Name=MIR2347
 chr8	.	BED_block	44319422	44319517	0	-	.	Parent=BED_feature72;Name=MIR2347
 ###
 chr8	.	BED_feature	44319667	44319725	0	-	.	ID=BED_feature73;Name=MIR2427
-chr8	.	BED_thick_feature	44319666	44319725	0	-	.	Parent=BED_feature73;Name=MIR2427
+chr8	.	BED_thick_feature	44319667	44319725	0	-	.	Parent=BED_feature73;Name=MIR2427
 chr8	.	BED_block	44319667	44319725	0	-	.	Parent=BED_feature73;Name=MIR2427
 ###
 chr8	.	BED_feature	56118865	56118952	0	-	.	ID=BED_feature74;Name=MIR2410
-chr8	.	BED_thick_feature	56118864	56118952	0	-	.	Parent=BED_feature74;Name=MIR2410
+chr8	.	BED_thick_feature	56118865	56118952	0	-	.	Parent=BED_feature74;Name=MIR2410
 chr8	.	BED_block	56118865	56118952	0	-	.	Parent=BED_feature74;Name=MIR2410
 ###
 chr9	.	BED_feature	1469359	1469424	0	+	.	ID=BED_feature75;Name=MIR2415
-chr9	.	BED_thick_feature	1469358	1469424	0	+	.	Parent=BED_feature75;Name=MIR2415
+chr9	.	BED_thick_feature	1469359	1469424	0	+	.	Parent=BED_feature75;Name=MIR2415
 chr9	.	BED_block	1469359	1469424	0	+	.	Parent=BED_feature75;Name=MIR2415
 ###
 chrUn.1609	.	BED_feature	175510	175600	0	-	.	ID=BED_feature76;Name=MIR2409
-chrUn.1609	.	BED_thick_feature	175509	175600	0	-	.	Parent=BED_feature76;Name=MIR2409
+chrUn.1609	.	BED_thick_feature	175510	175600	0	-	.	Parent=BED_feature76;Name=MIR2409
 chrUn.1609	.	BED_block	175510	175600	0	-	.	Parent=BED_feature76;Name=MIR2409
 ###
 chrUn.193	.	BED_feature	161155	161245	0	+	.	ID=BED_feature77;Name=MIR2379
-chrUn.193	.	BED_thick_feature	161154	161245	0	+	.	Parent=BED_feature77;Name=MIR2379
+chrUn.193	.	BED_thick_feature	161155	161245	0	+	.	Parent=BED_feature77;Name=MIR2379
 chrUn.193	.	BED_block	161155	161245	0	+	.	Parent=BED_feature77;Name=MIR2379
 ###
 chrUn.193	.	BED_feature	164276	164379	0	+	.	ID=BED_feature78;Name=MIR2425
-chrUn.193	.	BED_thick_feature	164275	164379	0	+	.	Parent=BED_feature78;Name=MIR2425
+chrUn.193	.	BED_thick_feature	164276	164379	0	+	.	Parent=BED_feature78;Name=MIR2425
 chrUn.193	.	BED_block	164276	164379	0	+	.	Parent=BED_feature78;Name=MIR2425
 ###
 chrUn.2076	.	BED_feature	47098	47182	0	-	.	ID=BED_feature79;Name=MIR2422
-chrUn.2076	.	BED_thick_feature	47097	47182	0	-	.	Parent=BED_feature79;Name=MIR2422
+chrUn.2076	.	BED_thick_feature	47098	47182	0	-	.	Parent=BED_feature79;Name=MIR2422
 chrUn.2076	.	BED_block	47098	47182	0	-	.	Parent=BED_feature79;Name=MIR2422
 ###
 chrUn.274	.	BED_feature	228884	228967	0	+	.	ID=BED_feature80;Name=MIR2424
-chrUn.274	.	BED_thick_feature	228883	228967	0	+	.	Parent=BED_feature80;Name=MIR2424
+chrUn.274	.	BED_thick_feature	228884	228967	0	+	.	Parent=BED_feature80;Name=MIR2424
 chrUn.274	.	BED_block	228884	228967	0	+	.	Parent=BED_feature80;Name=MIR2424
 ###
 chrUn.30	.	BED_feature	151339	151423	0	-	.	ID=BED_feature81;Name=MIR2394
-chrUn.30	.	BED_thick_feature	151338	151423	0	-	.	Parent=BED_feature81;Name=MIR2394
+chrUn.30	.	BED_thick_feature	151339	151423	0	-	.	Parent=BED_feature81;Name=MIR2394
 chrUn.30	.	BED_block	151339	151423	0	-	.	Parent=BED_feature81;Name=MIR2394
 ###
 chrUn.3067	.	BED_feature	13593	13685	0	-	.	ID=BED_feature82;Name=MIR2407
-chrUn.3067	.	BED_thick_feature	13592	13685	0	-	.	Parent=BED_feature82;Name=MIR2407
+chrUn.3067	.	BED_thick_feature	13593	13685	0	-	.	Parent=BED_feature82;Name=MIR2407
 chrUn.3067	.	BED_block	13593	13685	0	-	.	Parent=BED_feature82;Name=MIR2407
 ###
 chrUn.328	.	BED_feature	226975	227041	0	-	.	ID=BED_feature83;Name=MIR2322
-chrUn.328	.	BED_thick_feature	226974	227041	0	-	.	Parent=BED_feature83;Name=MIR2322
+chrUn.328	.	BED_thick_feature	226975	227041	0	-	.	Parent=BED_feature83;Name=MIR2322
 chrUn.328	.	BED_block	226975	227041	0	-	.	Parent=BED_feature83;Name=MIR2322
 ###
 chrUn.3367	.	BED_feature	77314	77406	0	+	.	ID=BED_feature84;Name=MIR2349
-chrUn.3367	.	BED_thick_feature	77313	77406	0	+	.	Parent=BED_feature84;Name=MIR2349
+chrUn.3367	.	BED_thick_feature	77314	77406	0	+	.	Parent=BED_feature84;Name=MIR2349
 chrUn.3367	.	BED_block	77314	77406	0	+	.	Parent=BED_feature84;Name=MIR2349
 ###
 chrUn.443	.	BED_feature	431590	431676	0	-	.	ID=BED_feature85;Name=MIR2348
-chrUn.443	.	BED_thick_feature	431589	431676	0	-	.	Parent=BED_feature85;Name=MIR2348
+chrUn.443	.	BED_thick_feature	431590	431676	0	-	.	Parent=BED_feature85;Name=MIR2348
 chrUn.443	.	BED_block	431590	431676	0	-	.	Parent=BED_feature85;Name=MIR2348
 ###
 chrUn.443	.	BED_feature	435931	435999	0	-	.	ID=BED_feature86;Name=MIR2333
-chrUn.443	.	BED_thick_feature	435930	435999	0	-	.	Parent=BED_feature86;Name=MIR2333
+chrUn.443	.	BED_thick_feature	435931	435999	0	-	.	Parent=BED_feature86;Name=MIR2333
 chrUn.443	.	BED_block	435931	435999	0	-	.	Parent=BED_feature86;Name=MIR2333
 ###
 chrUn.468	.	BED_feature	257703	257773	0	+	.	ID=BED_feature87;Name=MIR2321
-chrUn.468	.	BED_thick_feature	257702	257773	0	+	.	Parent=BED_feature87;Name=MIR2321
+chrUn.468	.	BED_thick_feature	257703	257773	0	+	.	Parent=BED_feature87;Name=MIR2321
 chrUn.468	.	BED_block	257703	257773	0	+	.	Parent=BED_feature87;Name=MIR2321
 ###
 chrUn.5540	.	BED_feature	2902	2986	0	-	.	ID=BED_feature88;Name=MIR2338
-chrUn.5540	.	BED_thick_feature	2901	2986	0	-	.	Parent=BED_feature88;Name=MIR2338
+chrUn.5540	.	BED_thick_feature	2902	2986	0	-	.	Parent=BED_feature88;Name=MIR2338
 chrUn.5540	.	BED_block	2902	2986	0	-	.	Parent=BED_feature88;Name=MIR2338
 ###
 chrUn.559	.	BED_feature	297094	297161	0	+	.	ID=BED_feature89;Name=MIR2323
-chrUn.559	.	BED_thick_feature	297093	297161	0	+	.	Parent=BED_feature89;Name=MIR2323
+chrUn.559	.	BED_thick_feature	297094	297161	0	+	.	Parent=BED_feature89;Name=MIR2323
 chrUn.559	.	BED_block	297094	297161	0	+	.	Parent=BED_feature89;Name=MIR2323
 ###
 chrUn.577	.	BED_feature	19021	19106	0	-	.	ID=BED_feature90;Name=MIR2372
-chrUn.577	.	BED_thick_feature	19020	19106	0	-	.	Parent=BED_feature90;Name=MIR2372
+chrUn.577	.	BED_thick_feature	19021	19106	0	-	.	Parent=BED_feature90;Name=MIR2372
 chrUn.577	.	BED_block	19021	19106	0	-	.	Parent=BED_feature90;Name=MIR2372
 ###
 chrUn.662	.	BED_feature	132763	132843	0	+	.	ID=BED_feature91;Name=MIR2334
-chrUn.662	.	BED_thick_feature	132762	132843	0	+	.	Parent=BED_feature91;Name=MIR2334
+chrUn.662	.	BED_thick_feature	132763	132843	0	+	.	Parent=BED_feature91;Name=MIR2334
 chrUn.662	.	BED_block	132763	132843	0	+	.	Parent=BED_feature91;Name=MIR2334
 ###
 chrUn.7588	.	BED_feature	18936	19011	0	-	.	ID=BED_feature92;Name=MIR2429
-chrUn.7588	.	BED_thick_feature	18935	19011	0	-	.	Parent=BED_feature92;Name=MIR2429
+chrUn.7588	.	BED_thick_feature	18936	19011	0	-	.	Parent=BED_feature92;Name=MIR2429
 chrUn.7588	.	BED_block	18936	19011	0	-	.	Parent=BED_feature92;Name=MIR2429
 ###
 chrUn.7588	.	BED_feature	19630	19712	0	-	.	ID=BED_feature93;Name=MIR2351
-chrUn.7588	.	BED_thick_feature	19629	19712	0	-	.	Parent=BED_feature93;Name=MIR2351
+chrUn.7588	.	BED_thick_feature	19630	19712	0	-	.	Parent=BED_feature93;Name=MIR2351
 chrUn.7588	.	BED_block	19630	19712	0	-	.	Parent=BED_feature93;Name=MIR2351
 ###
 chrUn.80514	.	BED_feature	592	663	0	+	.	ID=BED_feature94;Name=MIR2341
-chrUn.80514	.	BED_thick_feature	591	663	0	+	.	Parent=BED_feature94;Name=MIR2341
+chrUn.80514	.	BED_thick_feature	592	663	0	+	.	Parent=BED_feature94;Name=MIR2341
 chrUn.80514	.	BED_block	592	663	0	+	.	Parent=BED_feature94;Name=MIR2341
 ###
 chrUn.8225	.	BED_feature	25176	25255	0	+	.	ID=BED_feature95;Name=MIR2366
-chrUn.8225	.	BED_thick_feature	25175	25255	0	+	.	Parent=BED_feature95;Name=MIR2366
+chrUn.8225	.	BED_thick_feature	25176	25255	0	+	.	Parent=BED_feature95;Name=MIR2366
 chrUn.8225	.	BED_block	25176	25255	0	+	.	Parent=BED_feature95;Name=MIR2366
 ###
 chrUn.8225	.	BED_feature	25341	25414	0	+	.	ID=BED_feature96;Name=MIR2316
-chrUn.8225	.	BED_thick_feature	25340	25414	0	+	.	Parent=BED_feature96;Name=MIR2316
+chrUn.8225	.	BED_thick_feature	25341	25414	0	+	.	Parent=BED_feature96;Name=MIR2316
 chrUn.8225	.	BED_block	25341	25414	0	+	.	Parent=BED_feature96;Name=MIR2316
 ###
 chrUn.8225	.	BED_feature	25582	25649	0	+	.	ID=BED_feature97;Name=MIR2376
-chrUn.8225	.	BED_thick_feature	25581	25649	0	+	.	Parent=BED_feature97;Name=MIR2376
+chrUn.8225	.	BED_thick_feature	25582	25649	0	+	.	Parent=BED_feature97;Name=MIR2376
 chrUn.8225	.	BED_block	25582	25649	0	+	.	Parent=BED_feature97;Name=MIR2376
 ###
 chrUn.8225	.	BED_feature	25859	25925	0	+	.	ID=BED_feature98;Name=MIR2385
-chrUn.8225	.	BED_thick_feature	25858	25925	0	+	.	Parent=BED_feature98;Name=MIR2385
+chrUn.8225	.	BED_thick_feature	25859	25925	0	+	.	Parent=BED_feature98;Name=MIR2385
 chrUn.8225	.	BED_block	25859	25925	0	+	.	Parent=BED_feature98;Name=MIR2385
 ###
 chrUn.8225	.	BED_feature	26008	26080	0	+	.	ID=BED_feature99;Name=MIR2158
-chrUn.8225	.	BED_thick_feature	26007	26080	0	+	.	Parent=BED_feature99;Name=MIR2158
+chrUn.8225	.	BED_thick_feature	26008	26080	0	+	.	Parent=BED_feature99;Name=MIR2158
 chrUn.8225	.	BED_block	26008	26080	0	+	.	Parent=BED_feature99;Name=MIR2158
 ###
