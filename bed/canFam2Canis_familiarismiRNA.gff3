@@ -1,25 +1,30 @@
 ##gff-version   3
+##sequence-region   chrX 90618061 108241843
+##sequence-region   chr9 33902698 33902807
+##sequence-region   chr5 59746752 59746835
+##sequence-region   chr6 30462948 30463033
+##sequence-region   chr2 43136835 43136924
 chr2	.	BED_feature	43136835	43136924	0	-	.	ID=BED_feature1;Name=MIR1077
-chr2	.	BED_thick_feature	43136834	43136924	0	-	.	Parent=BED_feature1;Name=MIR1077
+chr2	.	BED_thick_feature	43136835	43136924	0	-	.	Parent=BED_feature1;Name=MIR1077
 chr2	.	BED_block	43136835	43136924	0	-	.	Parent=BED_feature1;Name=MIR1077
 ###
 chr5	.	BED_feature	59746752	59746835	0	-	.	ID=BED_feature2;Name=MIR1071
-chr5	.	BED_thick_feature	59746751	59746835	0	-	.	Parent=BED_feature2;Name=MIR1071
+chr5	.	BED_thick_feature	59746752	59746835	0	-	.	Parent=BED_feature2;Name=MIR1071
 chr5	.	BED_block	59746752	59746835	0	-	.	Parent=BED_feature2;Name=MIR1071
 ###
 chr6	.	BED_feature	30462948	30463033	0	-	.	ID=BED_feature3;Name=MIR1084
-chr6	.	BED_thick_feature	30462947	30463033	0	-	.	Parent=BED_feature3;Name=MIR1084
+chr6	.	BED_thick_feature	30462948	30463033	0	-	.	Parent=BED_feature3;Name=MIR1084
 chr6	.	BED_block	30462948	30463033	0	-	.	Parent=BED_feature3;Name=MIR1084
 ###
 chr9	.	BED_feature	33902698	33902807	0	-	.	ID=BED_feature4;Name=MIR1073
-chr9	.	BED_thick_feature	33902697	33902807	0	-	.	Parent=BED_feature4;Name=MIR1073
+chr9	.	BED_thick_feature	33902698	33902807	0	-	.	Parent=BED_feature4;Name=MIR1073
 chr9	.	BED_block	33902698	33902807	0	-	.	Parent=BED_feature4;Name=MIR1073
 ###
 chrX	.	BED_feature	90618061	90618169	0	+	.	ID=BED_feature5;Name=MIR1066
-chrX	.	BED_thick_feature	90618060	90618169	0	+	.	Parent=BED_feature5;Name=MIR1066
+chrX	.	BED_thick_feature	90618061	90618169	0	+	.	Parent=BED_feature5;Name=MIR1066
 chrX	.	BED_block	90618061	90618169	0	+	.	Parent=BED_feature5;Name=MIR1066
 ###
 chrX	.	BED_feature	108241754	108241843	0	-	.	ID=BED_feature6;Name=MIR1082
-chrX	.	BED_thick_feature	108241753	108241843	0	-	.	Parent=BED_feature6;Name=MIR1082
+chrX	.	BED_thick_feature	108241754	108241843	0	-	.	Parent=BED_feature6;Name=MIR1082
 chrX	.	BED_block	108241754	108241843	0	-	.	Parent=BED_feature6;Name=MIR1082
 ###
