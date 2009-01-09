@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region seq0 1 745440
+# CHR10.19970727 Chromosome X Sequence
+seq0	LTRharvest	repeat_region	197239	203474	.	?	.	ID=RepeatReg0
+seq0	LTRharvest	LTR_retrotransposon	197244	203469	.	?	.	ID=LTRret0;Parent=RepeatReg0
+seq0	LTRharvest	long_terminal_repeat	197244	197614	.	?	.	ID=LTR0;Parent=LTRret0
+seq0	LTRharvest	long_terminal_repeat	203099	203469	.	?	.	ID=LTR1;Parent=LTRret0
+seq0	LTRharvest	target_site_duplication	197239	197243	.	?	.	ID=TSD0;Parent=RepeatReg0
+seq0	LTRharvest	target_site_duplication	203470	203474	.	?	.	ID=TSD1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	197244	197245	.	?	.	ID=Motif0;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	197613	197614	.	?	.	ID=Motif1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	203099	203100	.	?	.	ID=Motif2;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	203468	203469	.	?	.	ID=Motif3;Parent=RepeatReg0
+seq0	LTRharvest	repeat_region	472146	483665	.	?	.	ID=RepeatReg1
+seq0	LTRharvest	LTR_retrotransposon	472151	483660	.	?	.	ID=LTRret1;Parent=RepeatReg1
+seq0	LTRharvest	long_terminal_repeat	472151	472488	.	?	.	ID=LTR2;Parent=LTRret1
+seq0	LTRharvest	long_terminal_repeat	483323	483660	.	?	.	ID=LTR3;Parent=LTRret1
+seq0	LTRharvest	target_site_duplication	472146	472150	.	?	.	ID=TSD2;Parent=RepeatReg1
+seq0	LTRharvest	target_site_duplication	483661	483665	.	?	.	ID=TSD3;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	472151	472152	.	?	.	ID=Motif4;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	472487	472488	.	?	.	ID=Motif5;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	483323	483324	.	?	.	ID=Motif6;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	483659	483660	.	?	.	ID=Motif7;Parent=RepeatReg1

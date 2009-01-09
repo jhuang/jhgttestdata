@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region seq0 1 784330
+# CHR14.19970727 Chromosome XIV Sequence
+seq0	LTRharvest	repeat_region	562026	567995	.	?	.	ID=RepeatReg0
+seq0	LTRharvest	LTR_retrotransposon	562031	567990	.	?	.	ID=LTRret0;Parent=RepeatReg0
+seq0	LTRharvest	long_terminal_repeat	562031	562362	.	?	.	ID=LTR0;Parent=LTRret0
+seq0	LTRharvest	long_terminal_repeat	567658	567990	.	?	.	ID=LTR1;Parent=LTRret0
+seq0	LTRharvest	target_site_duplication	562026	562030	.	?	.	ID=TSD0;Parent=RepeatReg0
+seq0	LTRharvest	target_site_duplication	567991	567995	.	?	.	ID=TSD1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	562031	562032	.	?	.	ID=Motif0;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	562361	562362	.	?	.	ID=Motif1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	567658	567659	.	?	.	ID=Motif2;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	567989	567990	.	?	.	ID=Motif3;Parent=RepeatReg0
+seq0	LTRharvest	repeat_region	96603	102526	.	?	.	ID=RepeatReg1
+seq0	LTRharvest	LTR_retrotransposon	96608	102521	.	?	.	ID=LTRret1;Parent=RepeatReg1
+seq0	LTRharvest	long_terminal_repeat	96608	96939	.	?	.	ID=LTR2;Parent=LTRret1
+seq0	LTRharvest	long_terminal_repeat	102190	102521	.	?	.	ID=LTR3;Parent=LTRret1
+seq0	LTRharvest	target_site_duplication	96603	96607	.	?	.	ID=TSD2;Parent=RepeatReg1
+seq0	LTRharvest	target_site_duplication	102522	102526	.	?	.	ID=TSD3;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	96608	96609	.	?	.	ID=Motif4;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	96938	96939	.	?	.	ID=Motif5;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	102190	102191	.	?	.	ID=Motif6;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	102520	102521	.	?	.	ID=Motif7;Parent=RepeatReg1
+seq0	LTRharvest	repeat_region	519156	525065	.	?	.	ID=RepeatReg2
+seq0	LTRharvest	LTR_retrotransposon	519161	525060	.	?	.	ID=LTRret2;Parent=RepeatReg2
+seq0	LTRharvest	long_terminal_repeat	519161	519494	.	?	.	ID=LTR4;Parent=LTRret2
+seq0	LTRharvest	long_terminal_repeat	524727	525060	.	?	.	ID=LTR5;Parent=LTRret2
+seq0	LTRharvest	target_site_duplication	519156	519160	.	?	.	ID=TSD4;Parent=RepeatReg2
+seq0	LTRharvest	target_site_duplication	525061	525065	.	?	.	ID=TSD5;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	519161	519162	.	?	.	ID=Motif8;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	519493	519494	.	?	.	ID=Motif9;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	524727	524728	.	?	.	ID=Motif10;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	525059	525060	.	?	.	ID=Motif11;Parent=RepeatReg2

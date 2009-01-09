@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region seq0 1 576870
+# CHR5.19970727 Chromosome V Sequence
+seq0	LTRharvest	repeat_region	443389	449322	.	?	.	ID=RepeatReg0
+seq0	LTRharvest	LTR_retrotransposon	443394	449317	.	?	.	ID=LTRret0;Parent=RepeatReg0
+seq0	LTRharvest	long_terminal_repeat	443394	443735	.	?	.	ID=LTR0;Parent=LTRret0
+seq0	LTRharvest	long_terminal_repeat	448981	449317	.	?	.	ID=LTR1;Parent=LTRret0
+seq0	LTRharvest	target_site_duplication	443389	443393	.	?	.	ID=TSD0;Parent=RepeatReg0
+seq0	LTRharvest	target_site_duplication	449318	449322	.	?	.	ID=TSD1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	443394	443395	.	?	.	ID=Motif0;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	443734	443735	.	?	.	ID=Motif1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	448981	448982	.	?	.	ID=Motif2;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	449316	449317	.	?	.	ID=Motif3;Parent=RepeatReg0

@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region seq0 1 270148
+# CHR6.19970727 Chromosome VI Sequence
+seq0	LTRharvest	repeat_region	137902	143870	.	?	.	ID=RepeatReg0
+seq0	LTRharvest	LTR_retrotransposon	137907	143865	.	?	.	ID=LTRret0;Parent=RepeatReg0
+seq0	LTRharvest	long_terminal_repeat	137907	138238	.	?	.	ID=LTR0;Parent=LTRret0
+seq0	LTRharvest	long_terminal_repeat	143534	143865	.	?	.	ID=LTR1;Parent=LTRret0
+seq0	LTRharvest	target_site_duplication	137902	137906	.	?	.	ID=TSD0;Parent=RepeatReg0
+seq0	LTRharvest	target_site_duplication	143866	143870	.	?	.	ID=TSD1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	137907	137908	.	?	.	ID=Motif0;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	138237	138238	.	?	.	ID=Motif1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	143534	143535	.	?	.	ID=Motif2;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	143864	143865	.	?	.	ID=Motif3;Parent=RepeatReg0

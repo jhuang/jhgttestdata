@@ -1,0 +1,33 @@
+##gff-version 3
+##sequence-region seq0 1 924430
+# ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII]
+seq0	LTRharvest	repeat_region	356999	362922	.	?	.	ID=RepeatReg0
+seq0	LTRharvest	LTR_retrotransposon	357004	362917	.	?	.	ID=LTRret0;Parent=RepeatReg0
+seq0	LTRharvest	long_terminal_repeat	357004	357335	.	?	.	ID=LTR0;Parent=LTRret0
+seq0	LTRharvest	long_terminal_repeat	362586	362917	.	?	.	ID=LTR1;Parent=LTRret0
+seq0	LTRharvest	target_site_duplication	356999	357003	.	?	.	ID=TSD0;Parent=RepeatReg0
+seq0	LTRharvest	target_site_duplication	362918	362922	.	?	.	ID=TSD1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	357004	357005	.	?	.	ID=Motif0;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	357334	357335	.	?	.	ID=Motif1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	362586	362587	.	?	.	ID=Motif2;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	362916	362917	.	?	.	ID=Motif3;Parent=RepeatReg0
+seq0	LTRharvest	repeat_region	372691	378626	.	?	.	ID=RepeatReg1
+seq0	LTRharvest	LTR_retrotransposon	372696	378621	.	?	.	ID=LTRret1;Parent=RepeatReg1
+seq0	LTRharvest	long_terminal_repeat	372696	373033	.	?	.	ID=LTR2;Parent=LTRret1
+seq0	LTRharvest	long_terminal_repeat	378284	378621	.	?	.	ID=LTR3;Parent=LTRret1
+seq0	LTRharvest	target_site_duplication	372691	372695	.	?	.	ID=TSD2;Parent=RepeatReg1
+seq0	LTRharvest	target_site_duplication	378622	378626	.	?	.	ID=TSD3;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	372696	372697	.	?	.	ID=Motif4;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	373032	373033	.	?	.	ID=Motif5;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	378284	378285	.	?	.	ID=Motif6;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	378620	378621	.	?	.	ID=Motif7;Parent=RepeatReg1
+seq0	LTRharvest	repeat_region	184165	190088	.	?	.	ID=RepeatReg2
+seq0	LTRharvest	LTR_retrotransposon	184170	190083	.	?	.	ID=LTRret2;Parent=RepeatReg2
+seq0	LTRharvest	long_terminal_repeat	184170	184501	.	?	.	ID=LTR4;Parent=LTRret2
+seq0	LTRharvest	long_terminal_repeat	189752	190083	.	?	.	ID=LTR5;Parent=LTRret2
+seq0	LTRharvest	target_site_duplication	184165	184169	.	?	.	ID=TSD4;Parent=RepeatReg2
+seq0	LTRharvest	target_site_duplication	190084	190088	.	?	.	ID=TSD5;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	184170	184171	.	?	.	ID=Motif8;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	184500	184501	.	?	.	ID=Motif9;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	189752	189753	.	?	.	ID=Motif10;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	190082	190083	.	?	.	ID=Motif11;Parent=RepeatReg2

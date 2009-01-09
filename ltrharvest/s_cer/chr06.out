@@ -1,7 +1,10 @@
-# args=-index chr06.19960731.fsa.gz -seed 100 -minlenltr 100 -maxlenltr 1000 -mindistltr 1500 -maxdistltr 15000 -similar 80 -mintsd 5 -maxtsd 20 -motif tgca -motifmis 0 -vic 60 -overlaps best -xdrop 5 -mat 2 -mis -2 -ins -3 -del -3 -v
+# args=-index chr06.19960731.fsa.gz -seed 100 -minlenltr 100 -maxlenltr 1000 -mindistltr 1500 -maxdistltr 15000 -similar 80 -mintsd 5 -maxtsd 20 -motif tgca -motifmis 0 -vic 60 -overlaps best -xdrop 5 -mat 2 -mis -2 -ins -3 -del -3 -v -gff3 chr06.gff3 -out chr06.fas -outinner chr06_inner.fas
 # user defined options and values:
 #   verbosemode: On
 #   indexname: chr06.19960731.fsa.gz
+#   outputfile: chr06.fas
+#   outputfile inner region: chr06_inner.fas
+#   outputfile gff3 format: chr06.gff3
 #   xdropbelowscore: 5
 #   similaritythreshold: 80.00
 #   minseedlength: 100

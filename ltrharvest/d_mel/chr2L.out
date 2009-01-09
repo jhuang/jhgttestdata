@@ -1,7 +1,8 @@
-# args=-index 2L_genomic_dmel_RELEASE3-1.FASTA.gz -seed 76 -minlenltr 116 -maxlenltr 800 -mindistltr 2280 -maxdistltr 8773 -similar 91 -mintsd 4 -maxtsd 20 -vic 60 -overlaps best -xdrop 7 -mat 2 -mis -2 -ins -3 -del -3 -v
+# args=-index 2L_genomic_dmel_RELEASE3-1.FASTA.gz -seed 76 -minlenltr 116 -maxlenltr 800 -mindistltr 2280 -maxdistltr 8773 -similar 91 -mintsd 4 -maxtsd 20 -vic 60 -overlaps best -xdrop 7 -mat 2 -mis -2 -ins -3 -del -3 -v -gff3 chr2L.gff3
 # user defined options and values:
 #   verbosemode: On
 #   indexname: 2L_genomic_dmel_RELEASE3-1.FASTA.gz
+#   outputfile gff3 format: chr2L.gff3
 #   xdropbelowscore: 7
 #   similaritythreshold: 91.00
 #   minseedlength: 76

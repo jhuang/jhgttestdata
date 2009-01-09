@@ -1,7 +1,10 @@
-# args=-index chrAll_before-1997-10-01.fsa.gz -seed 100 -minlenltr 100 -maxlenltr 1000 -mindistltr 1500 -maxdistltr 15000 -similar 80 -mintsd 5 -maxtsd 20 -motif tgca -motifmis 0 -vic 60 -overlaps best -xdrop 5 -mat 2 -mis -2 -ins -3 -del -3 -v
+# args=-index chrAll_before-1997-10-01.fsa.gz -seed 100 -minlenltr 100 -maxlenltr 1000 -mindistltr 1500 -maxdistltr 15000 -similar 80 -mintsd 5 -maxtsd 20 -motif tgca -motifmis 0 -vic 60 -overlaps best -xdrop 5 -mat 2 -mis -2 -ins -3 -del -3 -v -gff3 chrAll.gff3 -out chrAll.fas -outinner chrAll_inner.fas
 # user defined options and values:
 #   verbosemode: On
 #   indexname: chrAll_before-1997-10-01.fsa.gz
+#   outputfile: chrAll.fas
+#   outputfile inner region: chrAll_inner.fas
+#   outputfile gff3 format: chrAll.gff3
 #   xdropbelowscore: 5
 #   similaritythreshold: 80.00
 #   minseedlength: 100

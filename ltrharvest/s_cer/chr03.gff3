@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region seq0 1 315341
+# CHR3.19970727 Chromosome III Sequence
+seq0	LTRharvest	repeat_region	84414	90385	.	?	.	ID=RepeatReg0
+seq0	LTRharvest	LTR_retrotransposon	84419	90380	.	?	.	ID=LTRret0;Parent=RepeatReg0
+seq0	LTRharvest	long_terminal_repeat	84419	84750	.	?	.	ID=LTR0;Parent=LTRret0
+seq0	LTRharvest	long_terminal_repeat	90049	90380	.	?	.	ID=LTR1;Parent=LTRret0
+seq0	LTRharvest	target_site_duplication	84414	84418	.	?	.	ID=TSD0;Parent=RepeatReg0
+seq0	LTRharvest	target_site_duplication	90381	90385	.	?	.	ID=TSD1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	84419	84420	.	?	.	ID=Motif0;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	84749	84750	.	?	.	ID=Motif1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	90049	90050	.	?	.	ID=Motif2;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	90379	90380	.	?	.	ID=Motif3;Parent=RepeatReg0

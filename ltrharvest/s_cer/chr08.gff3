@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region seq0 1 562638
+# CHR8.19970727 Chromosome VIII Sequence
+seq0	LTRharvest	repeat_region	85529	91761	.	?	.	ID=RepeatReg0
+seq0	LTRharvest	LTR_retrotransposon	85534	91756	.	?	.	ID=LTRret0;Parent=RepeatReg0
+seq0	LTRharvest	long_terminal_repeat	85534	85904	.	?	.	ID=LTR0;Parent=LTRret0
+seq0	LTRharvest	long_terminal_repeat	91386	91756	.	?	.	ID=LTR1;Parent=LTRret0
+seq0	LTRharvest	target_site_duplication	85529	85533	.	?	.	ID=TSD0;Parent=RepeatReg0
+seq0	LTRharvest	target_site_duplication	91757	91761	.	?	.	ID=TSD1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	85534	85535	.	?	.	ID=Motif0;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	85903	85904	.	?	.	ID=Motif1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	91386	91387	.	?	.	ID=Motif2;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	91755	91756	.	?	.	ID=Motif3;Parent=RepeatReg0
+seq0	LTRharvest	repeat_region	543600	549637	.	?	.	ID=RepeatReg1
+seq0	LTRharvest	LTR_retrotransposon	543605	549632	.	?	.	ID=LTRret1;Parent=RepeatReg1
+seq0	LTRharvest	long_terminal_repeat	543605	543936	.	?	.	ID=LTR2;Parent=LTRret1
+seq0	LTRharvest	long_terminal_repeat	549301	549632	.	?	.	ID=LTR3;Parent=LTRret1
+seq0	LTRharvest	target_site_duplication	543600	543604	.	?	.	ID=TSD2;Parent=RepeatReg1
+seq0	LTRharvest	target_site_duplication	549633	549637	.	?	.	ID=TSD3;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	543605	543606	.	?	.	ID=Motif4;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	543935	543936	.	?	.	ID=Motif5;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	549301	549302	.	?	.	ID=Motif6;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	549631	549632	.	?	.	ID=Motif7;Parent=RepeatReg1

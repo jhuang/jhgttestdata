@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region seq0 1 1091283
+# CHRXV_1091283  REFORMAT of: chrxv_1091283.ascii  check: 9399  from: 1  to: 1091283  February 11, 2005 13:07
+seq0	LTRharvest	repeat_region	704057	710027	.	?	.	ID=RepeatReg0
+seq0	LTRharvest	LTR_retrotransposon	704062	710022	.	?	.	ID=LTRret0;Parent=RepeatReg0
+seq0	LTRharvest	long_terminal_repeat	704062	704394	.	?	.	ID=LTR0;Parent=LTRret0
+seq0	LTRharvest	long_terminal_repeat	709690	710022	.	?	.	ID=LTR1;Parent=LTRret0
+seq0	LTRharvest	target_site_duplication	704057	704061	.	?	.	ID=TSD0;Parent=RepeatReg0
+seq0	LTRharvest	target_site_duplication	710023	710027	.	?	.	ID=TSD1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	704062	704063	.	?	.	ID=Motif0;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	704393	704394	.	?	.	ID=Motif1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	709690	709691	.	?	.	ID=Motif2;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	710021	710022	.	?	.	ID=Motif3;Parent=RepeatReg0
+seq0	LTRharvest	repeat_region	970273	976241	.	?	.	ID=RepeatReg1
+seq0	LTRharvest	LTR_retrotransposon	970278	976236	.	?	.	ID=LTRret1;Parent=RepeatReg1
+seq0	LTRharvest	long_terminal_repeat	970278	970609	.	?	.	ID=LTR2;Parent=LTRret1
+seq0	LTRharvest	long_terminal_repeat	975900	976236	.	?	.	ID=LTR3;Parent=LTRret1
+seq0	LTRharvest	target_site_duplication	970273	970277	.	?	.	ID=TSD2;Parent=RepeatReg1
+seq0	LTRharvest	target_site_duplication	976237	976241	.	?	.	ID=TSD3;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	970278	970279	.	?	.	ID=Motif4;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	970608	970609	.	?	.	ID=Motif5;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	975900	975901	.	?	.	ID=Motif6;Parent=RepeatReg1
+seq0	LTRharvest	inverted_repeat	976235	976236	.	?	.	ID=Motif7;Parent=RepeatReg1
+seq0	LTRharvest	repeat_region	594814	600737	.	?	.	ID=RepeatReg2
+seq0	LTRharvest	LTR_retrotransposon	594819	600732	.	?	.	ID=LTRret2;Parent=RepeatReg2
+seq0	LTRharvest	long_terminal_repeat	594819	595150	.	?	.	ID=LTR4;Parent=LTRret2
+seq0	LTRharvest	long_terminal_repeat	600401	600732	.	?	.	ID=LTR5;Parent=LTRret2
+seq0	LTRharvest	target_site_duplication	594814	594818	.	?	.	ID=TSD4;Parent=RepeatReg2
+seq0	LTRharvest	target_site_duplication	600733	600737	.	?	.	ID=TSD5;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	594819	594820	.	?	.	ID=Motif8;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	595149	595150	.	?	.	ID=Motif9;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	600401	600402	.	?	.	ID=Motif10;Parent=RepeatReg2
+seq0	LTRharvest	inverted_repeat	600731	600732	.	?	.	ID=Motif11;Parent=RepeatReg2
+seq0	LTRharvest	repeat_region	117697	123632	.	?	.	ID=RepeatReg3
+seq0	LTRharvest	LTR_retrotransposon	117702	123627	.	?	.	ID=LTRret3;Parent=RepeatReg3
+seq0	LTRharvest	long_terminal_repeat	117702	118028	.	?	.	ID=LTR6;Parent=LTRret3
+seq0	LTRharvest	long_terminal_repeat	123290	123627	.	?	.	ID=LTR7;Parent=LTRret3
+seq0	LTRharvest	target_site_duplication	117697	117701	.	?	.	ID=TSD6;Parent=RepeatReg3
+seq0	LTRharvest	target_site_duplication	123628	123632	.	?	.	ID=TSD7;Parent=RepeatReg3
+seq0	LTRharvest	inverted_repeat	117702	117703	.	?	.	ID=Motif12;Parent=RepeatReg3
+seq0	LTRharvest	inverted_repeat	118027	118028	.	?	.	ID=Motif13;Parent=RepeatReg3
+seq0	LTRharvest	inverted_repeat	123290	123291	.	?	.	ID=Motif14;Parent=RepeatReg3
+seq0	LTRharvest	inverted_repeat	123626	123627	.	?	.	ID=Motif15;Parent=RepeatReg3

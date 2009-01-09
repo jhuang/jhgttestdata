@@ -1,0 +1,13 @@
+##gff-version 3
+##sequence-region seq0 1 230209
+# CHR1.19971009 Chromosome I Sequence
+seq0	LTRharvest	repeat_region	160234	166168	.	?	.	ID=RepeatReg0
+seq0	LTRharvest	LTR_retrotransposon	160239	166163	.	?	.	ID=LTRret0;Parent=RepeatReg0
+seq0	LTRharvest	long_terminal_repeat	160239	160575	.	?	.	ID=LTR0;Parent=LTRret0
+seq0	LTRharvest	long_terminal_repeat	165827	166163	.	?	.	ID=LTR1;Parent=LTRret0
+seq0	LTRharvest	target_site_duplication	160234	160238	.	?	.	ID=TSD0;Parent=RepeatReg0
+seq0	LTRharvest	target_site_duplication	166164	166168	.	?	.	ID=TSD1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	160239	160240	.	?	.	ID=Motif0;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	160574	160575	.	?	.	ID=Motif1;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	165827	165828	.	?	.	ID=Motif2;Parent=RepeatReg0
+seq0	LTRharvest	inverted_repeat	166162	166163	.	?	.	ID=Motif3;Parent=RepeatReg0
