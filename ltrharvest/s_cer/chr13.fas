@@ -1,4 +1,4 @@
->ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII]p (dbseq-nr 0) [357004,362917]
+>ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII] (dbseq-nr 0) [357004,362917]
 tgagaaatgggggaatgttgagataattgttgggattccattgttgataaaggctataat
 attaggtatacagaatatactagaagttctcctcaaggatataggaatcctcaaaatgga
 atctatatttctacatactaatattacgattattcctcattccgttttatatgtttcatt
@@ -98,7 +98,7 @@ gaatctatatttctacatactaatattacgattattcctcattccgttttatatgtttca
 ttatcctattacattatcaatccttgcacttcagcttcctctaacttcgatgacagcttc
 tcataacttatgtcatcatcttaacaccgtatatgataatatattgataatataactatt
 agttgatagacgatagtggatttttattccaaca
->ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII]p (dbseq-nr 0) [372696,378621]
+>ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII] (dbseq-nr 0) [372696,378621]
 tgagatatatgtgggtaattagataattgttgggattccattgttgataaaggctataat
 attaggtatacagaatatactagaagttctcctcgaggatataggaatcctcaaaatgga
 atctatatttctacatactaatattacgattattcctcattccgttttatatgtttatat
@@ -198,7 +198,7 @@ aaaatggaatctatatttctacatactaatattacgattattcctcattccgttttatat
 gtttatattcattgatcctattacattatcaatccttgcgtttcagcttcctctaacatc
 gatgacagcttctcataacttatgtcatcatcttaacaccgtatatgataatatattgat
 aatataactattagttgatagacgatagtggatttttattccaaca
->ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII]p (dbseq-nr 0) [184170,190083]
+>ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII] (dbseq-nr 0) [184170,190083]
 tgttggaataaaaatccactatcgtctatcaactaatagttatattatcaatatattatc
 atatacggtgttaagatgatgacataagttatgagaagctgtcatcgaggttagaggaag
 ctgaagtgcaaggattgataatgtaataggataatgaaacatataaaacggaatgaggaa

@@ -99,7 +99,7 @@ acaattctataaatattattatcatcattttatatgttaatattcattgatcctattaca
 ttatcaatccttgcgtttcagcttccactaatttagatgactatttctcatcatttgcgt
 catcttctaacaccgtatatgataatatactagtaacgtaaatactagttagtagatgat
 agttgatttttattccaaca
->CHR5.19970727 Chromosome V Sequencence (dbseq-nr 4) [443394,449317]
+>CHR5.19970727 Chromosome V Sequence (dbseq-nr 4) [443394,449317]
 tgagaaatgggtgaataattagataattgttgggattccattgttgataaaggctataat
 attaggtatacagaatatactagaagttctcctcgaggatataggaatcctcaaaatgga
 atctatatttctacatactaatattacgattattcctcattccgttttatatgtttatat
@@ -299,7 +299,7 @@ aaaatggaatctatatttctacatactaatattacgattattcctcattccgttttatat
 gtttatattcattgatcctattacattatcaatccttgcgtttcagcttcctctaacatc
 gatgacagcttctcataacttatgtcatcatcttaacaccgtatatgataatatattgat
 aatataactattagttgatagacgatagtggatttttattccaaca
->CHR7.19970703 Chromosome VII Sequencee (dbseq-nr 6) [561837,567754]
+>CHR7.19970703 Chromosome VII Sequence (dbseq-nr 6) [561837,567754]
 tgagatatatgtgggtaattagataattgttgggattccattgttgataaaggctataat
 attaggtatacagaatatactagaagttctcctcgaggatttaggaatccataaaaggga
 atctgcaattctacacaattctataaatattattatcatcgttttatatgttaatattca
@@ -399,7 +399,7 @@ gggaatctgcaattctacacaattctataaatattattatcatcgttttatatgttaata
 ttcattgatcctattacattatcaatccttgcgtttcagcttccactaatttagatgact
 atttctcatcatttgcgtcatcttctaacaccgtatatgataatatactagtaatgtaaa
 tactagttagtagatgatagttgatttctattccaaca
->CHR4.19970727 Chromosome IV Sequenceee (dbseq-nr 3) [513728,519686]
+>CHR4.19970727 Chromosome IV Sequence (dbseq-nr 3) [513728,519686]
 tgttgagaatgtggattttgagataattgttgggattccatttttaataaggcaataata
 ttaggtatgtagatatactagaagttctcctcgaggatttaggaatccataaaagggaat
 ctgcaattctacacaattctataaatattattatcatcattttatatgttaatattcatt
@@ -500,7 +500,7 @@ caattctataaatattattatcatcattttatatgttaatattcattgatcctattacat
 tatcaatccttgcgtttcagcttccactaatttagatgactatttctcatcatttgcgtc
 atcttctaacaccgtatatgataatatactagtaacgtaaatactagttagtagatgata
 gttgatttttattccaaca
->CHR4.19970727 Chromosome IV Sequenceee (dbseq-nr 3) [987186,992678]
+>CHR4.19970727 Chromosome IV Sequence (dbseq-nr 3) [987186,992678]
 tgagatatatgtgggtaattagataattgttgggattccattgttgataaaggctataat
 attaggtatacagaatatactagaagttctcctcgaggatttaggaatccataaaaggga
 atctgcaattctacacaattctataaatattattatcatcgttttatatgttaatattca
@@ -693,7 +693,7 @@ aaaatggaatctatatttctacatactaatattacgattattcctcattccgttttatat
 gtttatattcattgatcctattacattatcaatccttgcgtttcagcttcctctaacatc
 gatgacagcttctcataacttatgtcatcatcttaacaccgtatatgataatatattgat
 aatataactattagttgatagacgatagtggatttttattccaaca
->CHR7.19970703 Chromosome VII Sequencee (dbseq-nr 6) [568735,574694]
+>CHR7.19970703 Chromosome VII Sequence (dbseq-nr 6) [568735,574694]
 tgaagagaatgtggattttgatgtaattgttgggattccattgtgattaaggctataata
 ttaggtatgtagatatactagaagttctcctcgaggatttaggaatccataaaagggaat
 ctgcaattctacacaattctataaatattattatcatcattttatatgttaatattcatt
@@ -899,7 +899,7 @@ gaagctgtgttaaagacctattagttgaacatgatatggtaggtacatatatgaggaata
 tgagtcgtcacatcaatgtatagtaactaccggaaccactattatattggtcatgattaa
 tatgaccaatcggcgtgtgttttatatacctctcttatttagtataagaagatcagtact
 cacttcttcattaatactaattttttacctctaattatcaaca
->CHR4.19970727 Chromosome IV Sequencece (dbseq-nr 3) [878340,884257]
+>CHR4.19970727 Chromosome IV Sequence (dbseq-nr 3) [878340,884257]
 tgagaaatatgtgggtaattagataattgttgggattccattgttgataaaggctataat
 attaggtatacagaatatactagaagttctcctcgaggatttaggaatccataaaaggga
 atctgcaattctacacaattctataaatattattatcatcgttttatatgttaatattca
@@ -1204,7 +1204,7 @@ tgatgtgacgactcatattcctcatatatgtacctaccatatcatgttcaactaataggt
 ctttaacacagcttcagtattgtctgagcttctcgtttaacattccttctgcaataggcg
 caatcacacttaaacgtatacgagttgtacattaatatacgatgtaagcattagattgtt
 accatagcaactcatgtcactattaattactctcgttccaaca
->CHR4.19970727 Chromosome IV Sequencece (dbseq-nr 3) [871858,877816]
+>CHR4.19970727 Chromosome IV Sequence (dbseq-nr 3) [871858,877816]
 tgttggaataaaaatcaactatcatctactaactagtatttacgttactagtatattatc
 atatacggtgttagaagatgacgcaaatgatgagaaatagtcatctaaattagtggaagc
 tgaaacgcaaggattgataatgtaataggatcaatgaatattaacatataaaacgatgat
@@ -1305,7 +1305,7 @@ ttgataatgtaataggatcaatgaatattaacatataaaacgatgataataatatttata
 gaattgtgtagaattgcagattcccttttatggattcctaaatccttgaggagaacttct
 agtatatctacatacctaatattatagccttaatcacaatggaatcccaacaattacatc
 aaaatccacattctctaca
->CHR4.19970727 Chromosome IV Sequencece (dbseq-nr 3) [1206738,1212655]
+>CHR4.19970727 Chromosome IV Sequence (dbseq-nr 3) [1206738,1212655]
 tgttggaatagaaatcaactatcatctactaactagtatttacattactagtatattatc
 atatacggtgttagaagatgacgcaaatgatgagaaatagtcatctaaattagtggaagc
 tgaaacgcaaggattgataatgtaataggatcaatgaatataaacatataaaatgatgat
@@ -1405,7 +1405,7 @@ aagctgaaacgcaaggattgataatgtaataggatcaatgaatataaacatataaaatga
 tgataataatatttatagaattgtgtagaattgcagattcccttttatggattcctaaat
 ccttgaggagaacttctagtatattctgtatacctaatattatagcctttatcaacaatg
 gaatcccaacaattatctcaacattcacatatttctca
->ref|NC_001141| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=IX]] (dbseq-nr 8) [205217,210644]
+>ref|NC_001141| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=IX] (dbseq-nr 8) [205217,210644]
 tgttgtatctcaaaatgagatatgtcagtatgacaatacgtcaccctgaacgttcataaa
 acacatatgaaacaaccttataacaaaacgaacaacatgagacaaaacccgaccttccct
 agctgaactacccaaagtataaatgcctgaacaattagtttagatccgagattccgcgct
@@ -1497,7 +1497,7 @@ caaagtataaatgcctgaacaattagtttagatccgagattccgcgcttccaccacttag
 tatgattcatattttatataatatataagataagtaacattccgtgaattaatctgataa
 actgttttgacaactggttacttccctaagactgtttatattaggattgtcaagacactc
 cggtattactcgagcccgtaatacaaca
->CHR10.19970727 Chromosome X Sequencece (dbseq-nr 9) [197244,203469]
+>CHR10.19970727 Chromosome X Sequence (dbseq-nr 9) [197244,203469]
 tgttggaacgagagtaattaatagtgacatgagttgctatggtaacaatctaatgcttac
 atcgtatattaatgtacaactcgtatacgtttaagtgtgattgcgcctattgcagaagga
 atgttaaacgagaagctcagacaatactgaagctgtgttaaagacctattagttgaacat
@@ -1602,7 +1602,7 @@ actgaagctgtgttaaagacctattagttgaacatgttatggtaggtacatatatgagga
 atatgagtcgtcacatcaatgtatagtaactaccggaatcactattatattggtcataat
 taatatgaccaatcggcgtgtgttttatatacctctcttatttagtataagaagatcagt
 actcacttcttcattaatactaatttttaacctctaattatcaaca
->CHR2.19970727 Chromosome II Sequencece (dbseq-nr 1) [29632,35590]
+>CHR2.19970727 Chromosome II Sequence (dbseq-nr 1) [29632,35590]
 tgttggaataaaaatcaactatcatctactaactagtatttacgttactagtatattatc
 atatacggtgttagaagatgacacaaatgatgagaaatagtcatctaaattagtggaagc
 tgaaacgcaaggattgataatgtaataggatcaatgaatattaacatataaaatgatgat
@@ -1703,7 +1703,7 @@ ttgataatgtaataggatcaatgaatattaacatataaaatgatgataataatatttata
 gaattgtgtagaattgcagatcccctttcatggattcctaaatccttgaggagaacttct
 agtatatctacatacctaatattatagccttaatcacaatggaatcccaacaattacatc
 aaaatccacattctctaca
->CHR2.19970727 Chromosome II Sequencece (dbseq-nr 1) [259532,265448]
+>CHR2.19970727 Chromosome II Sequence (dbseq-nr 1) [259532,265448]
 tgttggaataaaaatccactatcgtctatcaactaatagttatattatcaatatattatc
 atatacggtgttaagatgatgacataagttatgagaagctgtcatcgaagttagaggaag
 ctgaagtgcaaggattgataatgtaataggataatgaaacatataaaacggaatgaggaa
@@ -1905,7 +1905,7 @@ atatttctacatactaatattacgattattcctcattccgttttatatgtttcattatcc
 tattacattatcaatccttgcacttcagcttcctctaacctcgatgacagcttctcataa
 cttatgtcatcatcttaacaccgtatatgataatatattgataatataactattagttga
 tagacgatagtggatttttattccaaca
->CHR6.19970727 Chromosome VI Sequencece (dbseq-nr 5) [137907,143865]
+>CHR6.19970727 Chromosome VI Sequence (dbseq-nr 5) [137907,143865]
 tgttggaataaaaatcaactatcatctactaactagtatttacgttactagtatattatc
 atatacggtgttagaagatgacgcaaatgatgagaaatagtcatctaaattagtggaagc
 tgaaacgcaaggattgataatgtaataggatcaatgaatattaacatataaaatgatgat
@@ -2207,7 +2207,7 @@ cacaattctataaatattattatcatcattttatatgttaatattcattgatcctattac
 attatcaatccttgcgtttcagcttccactaatttagatgactatttctcatcatttgcg
 tcatcttctaacaccgtatatgataatatactagtaacgtaaatactagttagtagatga
 tagttgatttttattccaaca
->ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII]p (dbseq-nr 12) [357004,362917]
+>ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII] (dbseq-nr 12) [357004,362917]
 tgagaaatgggggaatgttgagataattgttgggattccattgttgataaaggctataat
 attaggtatacagaatatactagaagttctcctcaaggatataggaatcctcaaaatgga
 atctatatttctacatactaatattacgattattcctcattccgttttatatgtttcatt
@@ -2307,7 +2307,7 @@ gaatctatatttctacatactaatattacgattattcctcattccgttttatatgtttca
 ttatcctattacattatcaatccttgcacttcagcttcctctaacttcgatgacagcttc
 tcataacttatgtcatcatcttaacaccgtatatgataatatattgataatataactatt
 agttgatagacgatagtggatttttattccaaca
->CHR1.19971009 Chromosome I Sequencence (dbseq-nr 0) [160239,166163]
+>CHR1.19971009 Chromosome I Sequence (dbseq-nr 0) [160239,166163]
 tgagaaatgggtgaatgttgagataattgttgggattccattgttgataaaggctataat
 attaggtatacagaatatactagaagttctcctcgaggatataggaatcctcaaaatgga
 atctatatttctacatactaatattacgattattcctcattccgttttatatgtttatat
@@ -2607,7 +2607,7 @@ gaatctatatttctacatactaatattacgattattcctcattccgttttatatgtttca
 ttatcctattacattatcaatccttgcacttcagcttcctctaacctcgatgacagcttc
 tcataacttatgtcatcatcttaacaccgtatatgataatatattgataatataactatt
 agttgatagacgatagtggatttttattccaaca
->ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII]p (dbseq-nr 12) [372696,378621]
+>ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII] (dbseq-nr 12) [372696,378621]
 tgagatatatgtgggtaattagataattgttgggattccattgttgataaaggctataat
 attaggtatacagaatatactagaagttctcctcgaggatataggaatcctcaaaatgga
 atctatatttctacatactaatattacgattattcctcattccgttttatatgtttatat
@@ -2707,7 +2707,7 @@ aaaatggaatctatatttctacatactaatattacgattattcctcattccgttttatat
 gtttatattcattgatcctattacattatcaatccttgcgtttcagcttcctctaacatc
 gatgacagcttctcataacttatgtcatcatcttaacaccgtatatgataatatattgat
 aatataactattagttgatagacgatagtggatttttattccaaca
->CHR7.19970703 Chromosome VII Sequencee (dbseq-nr 6) [817387,823300]
+>CHR7.19970703 Chromosome VII Sequence (dbseq-nr 6) [817387,823300]
 tgagatatatgtgggtaattagataattgttgggattccattgttgataaaggctataat
 attaggtatacagaatatactagaagttctcctcgaggatataggaatcctcaaaatgga
 atctatatttctacatactaatattacgattattcctcattccgttttatatgtttcatt
@@ -2807,7 +2807,7 @@ gaatctatatttctacatactaatattacgattattcctcattccgttttatatgtttca
 ttatcctattacattatcaatccttgcacttcagcttcctctaacttcgatgacagcttc
 tcataacttatgtcatcatcttaacaccgtatatgataatatattgataatataactatt
 agttgatagacgatagtggatttttattccaaca
->CHR4.19970727 Chromosome IV Sequenceee (dbseq-nr 3) [645540,651457]
+>CHR4.19970727 Chromosome IV Sequence (dbseq-nr 3) [645540,651457]
 tgagatatatgtgggtaattagataattgttgggattccattgttgataaaggctataat
 attaggtatacagaatatactagaagttctcctcgaggatttaggaatccataaaaggga
 atctgcaattctacacaattctataaatattattatcatcgttttatatgttaatattca
@@ -3208,7 +3208,7 @@ ggaagctgaaacgcaaggattgataatgtaataggatcaatgaatattaacatataaaac
 gatgataataatatttatagaattgtgtagaattgcagattcccttttatggattcctaa
 atcctcgaggagaacttctagtatattctgtatacctaatattatagcctttatcaacaa
 tggaatcccaacaattatctaattacccacaaatttctca
->CHR4.19970727 Chromosome IV Sequencece (dbseq-nr 3) [981207,987165]
+>CHR4.19970727 Chromosome IV Sequence (dbseq-nr 3) [981207,987165]
 tgttggaataaaaatcaactatcatctactaactagtatttacgttactagtatattatc
 atatacggtgttagaagatgacgcaaatgatgagaaatagtcatctaaattagtggaagc
 tgaaacgcaaggattgataatgtaataggatcaatgaatattaacatataaaatgatgat
@@ -3410,7 +3410,7 @@ ttgataatgtaataggatcaatgaatattaacatataaaatgatgataataatatttata
 gaattgtgtagaattgcagattcccttttatggattcctaaatcctcgaggagaacttct
 agtatatctacatacctaatattattgccttattaaaaatggaatcccaacaattacatc
 aaaatccacattctcttca
->CHR3.19970727 Chromosome III Sequencee (dbseq-nr 2) [84419,90380]
+>CHR3.19970727 Chromosome III Sequence (dbseq-nr 2) [84419,90380]
 tgttggaataaaaatcaactatcatctactaactagtatttacgttactagtatattatc
 atatacggtgttagaagatgacgcaaatgatgagaaatagtcatctaaattagtggaagc
 tgaaacgcaaggattgataatgtaataggatcaatgaatattaacatataaaatgatgat
@@ -3511,7 +3511,7 @@ ggattgataatgtaataggatcaatgaatattaacatataaaatgatgataataatattt
 atagaattgtgtagaattgcagattcccttttatggattcctaaatcctcgaggagaact
 tctagtatatctacatacctaatattattgccttattaaaaatggaatcccaacaattac
 atcaaaatccacattctcttca
->CHR7.19970703 Chromosome VII Sequencee (dbseq-nr 6) [535754,541679]
+>CHR7.19970703 Chromosome VII Sequence (dbseq-nr 6) [535754,541679]
 tgttggaataaaaatccactatcgtctatcaactaatagttatattatcaatatattatc
 atatacggtgttaagatgatgacataagttatgagaagctgtcatcgaagttagaggaag
 ctgaaacgcaaggattgataatgtaataggatcaatgaatataaacatataaaacggaat
@@ -3611,7 +3611,7 @@ agaggaagctgaaacgcaaggattgataatgtaataggatcaatgaatataaacatataa
 aacggaatgaggaataatcgtaatattagtatgtagaaatatagattccattttgaggat
 tcctatatcctcgaggagaacttctagtatattctgtatacctaatattatagcctttat
 caacaatggaatcccaacaattatctcaacattcacatatttctca
->CHR10.19970727 Chromosome X Sequenceee (dbseq-nr 9) [472151,483660]
+>CHR10.19970727 Chromosome X Sequence (dbseq-nr 9) [472151,483660]
 tgttggaataaaaatccactatcgtctatcaactaatagttatattatcaatatattatc
 atatacggtgttaagatgatgacataagttatgagaagctgtcatcgaagttagaggaag
 ctgaaacgcaaggattgataatgtaataggatcaatgaatataaacatataaaacggaat
@@ -3904,7 +3904,7 @@ agctgaagtgcaaggattgataatgtaataggataatgaaacatataaaacggaatgagg
 aataatcgtaatattagtatgtagaaatatagattccattttgaggattcctatatcctc
 gaggagaacttctagtatattctgtatacctaatattatagcctttatcaacaatggaat
 cccaacaattatctaattacccacatatatctca
->CHR2.19970727 Chromosome II Sequenceee (dbseq-nr 1) [220996,226911]
+>CHR2.19970727 Chromosome II Sequence (dbseq-nr 1) [220996,226911]
 tgttggaataaaaatccactatcgtctatcaactaatagttatattatcaatatattatc
 atatacggtgttaagatgatgacataagttatgagaagctgtcatcgaagttagaggaag
 ctgaagtgcaaggattgataatgtaataggataatgaaacatataaaacggaatgaggaa
@@ -4004,7 +4004,7 @@ gaagctgaagtgcaaggattgataatgtaataggataatgaaacatataaaacggaatga
 ggaataatcgtaatattagtatgtagaaatatagattccattttgaggattcctatatcc
 ttgaggagaacttctagtatattctgtatacctaatattatagcctttatcaacaatgga
 atcccaacaattatctcaacattcccccatttctca
->ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII]p (dbseq-nr 12) [184170,190083]
+>ref|NC_001145| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XIII] (dbseq-nr 12) [184170,190083]
 tgttggaataaaaatccactatcgtctatcaactaatagttatattatcaatatattatc
 atatacggtgttaagatgatgacataagttatgagaagctgtcatcgaggttagaggaag
 ctgaagtgcaaggattgataatgtaataggataatgaaacatataaaacggaatgaggaa
@@ -4104,7 +4104,7 @@ agctgaagtgcaaggattgataatgtaataggataatgaaacatataaaacggaatgagg
 aataatcgtaatattagtatgtagaaatatagattccattttgaggattcctatatcctc
 gaggagaacttctagtatattctgtatacctaatattatagcctttatcaacaatggaat
 cccaacaattatctaattacccacatatatctca
->ref|NC_001148| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XVI]]p (dbseq-nr 15) [844407,850335]
+>ref|NC_001148| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XVI] (dbseq-nr 15) [844407,850335]
 tgttggaataaaaatccactatcgtctatcaactaatagttatattatcaatatattatc
 atatacggtgttaagatgatgacataagttatgagaagctgtcatcgatgttagaggaag
 ctgaaacgcaaggattgataatgtaataggatcaatgaatataaacatataaaacggaat
@@ -4204,7 +4204,7 @@ gttagaggaagctgaaacgcaaggattgataatgtaataggatcaatgaatataaacata
 taaaacggaatgaggaataatcgtaatattagtatgtagaaatatagattccattttgag
 gattcctatatcctcgaggagaacttctagtatattctgtatacctaatattatagcctt
 tatcaacaatggaatcccaacaattatctaattacccacatatatctca
->CHR4.19970727 Chromosome IV Sequenceee (dbseq-nr 3) [1095804,1101729]
+>CHR4.19970727 Chromosome IV Sequence (dbseq-nr 3) [1095804,1101729]
 tgttggaataaaaatccactatcgtctatcaactaatagttatattatcaatatattatc
 atatacggtgttaagatgatgacataagttatgagaagctgtcatcgatgttagaggaag
 ctgaaacgcaaggattgataatgtaataggatcaatgaatataaacatataaaacggaat
@@ -4404,7 +4404,7 @@ agaggaagctgaaacgcaaggattgataatgtaataggatcaatgaatataaacatataa
 aacggaatgaggaataatcgtaatattagtatgtagaaatatagattccattttgaggat
 tcctatatcctcgaggagaacttctagtatattctgtatacctaatattatagcctttat
 caacaatggaatcccaacaattatctcaacattcacccatttctca
->ref|NC_001148| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XVI]]p (dbseq-nr 15) [56452,62375]
+>ref|NC_001148| [org=Saccharomyces cerevisiae] [strain=S288C] [moltype=genomic] [chromosome=XVI] (dbseq-nr 15) [56452,62375]
 tgttggaatagaaatcaactatcatctactaactagtatttacattactagtatattatc
 atatacggtgttagaagatgacgcaaatgatgagaaatagtcatctaaattagtggaagc
 tgaaacgcaaggattgataatgtaataggatcaatgaatataaacatataaaacggaatg
@@ -4504,7 +4504,7 @@ tggaagctgaaacgcaaggattgataatgtaataggatcaatgaatataaacatataaaa
 cggaatgaggaataatcgtaatattagtatgtagaaatatagattccattttgaggattc
 ctatatcctcgaggagaacttctagtatattctgtatacctaatattatagcctttatca
 acaatggaatcccaacaattatctcaacattcacccatttctca
->CHR7.19970703 Chromosome VII Sequencee (dbseq-nr 6) [707189,712539]
+>CHR7.19970703 Chromosome VII Sequence (dbseq-nr 6) [707189,712539]
 tgttgtatctcaaaatgagatatgtcagtatgacaatacgtcaccctgaacgttcataaa
 acacatatgaaacaaccttataacaaaacgaacaacatgagacaaaacccgaccttccct
 agctgaactacccaaagtataaatgcctgaacaattagtttagatccgagattccgcgct
