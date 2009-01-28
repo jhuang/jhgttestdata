@@ -1,0 +1,42 @@
+# args=-longoutput -index chr07.19960731.fsa.gz -seed 100 -minlenltr 100 -maxlenltr 1000 -mindistltr 1500 -maxdistltr 15000 -similar 80 -mintsd 5 -maxtsd 20 -motif tgca -motifmis 0 -vic 60 -overlaps best -xdrop 5 -mat 2 -mis -2 -ins -3 -del -3 -v -gff3 chr07.gff3 -out chr07.fas -outinner chr07_inner.fas
+# user defined options and values:
+#   verbosemode: On
+#   indexname: chr07.19960731.fsa.gz
+#   outputfile: chr07.fas
+#   outputfile inner region: chr07_inner.fas
+#   outputfile gff3 format: chr07.gff3
+#   xdropbelowscore: 5
+#   similaritythreshold: 80.00
+#   minseedlength: 100
+#   matchscore: 2
+#   mismatchscore: -2
+#   insertionscore: -3
+#   deletionscore: -3
+#   minLTRlength: 100
+#   maxLTRlength: 1000
+#   minLTRdistance: 1500
+#   maxLTRdistance: 15000
+#   overlaps: best
+#   minTSDlength: 5
+#   maxTSDlength: 20
+#   palindromic motif: tgca
+#   motifmismatchesallowed: 0
+#   vicinity: 60 nt
+# predictions are reported in the following way
+# s(ret) e(ret) l(ret) s(lLTR) e(lLTR) l(lLTR) TSD l(TSD) m(lLTR) s(rLTR) e(rLTR) l(rLTR) TSD l(TSD) m(rLTR) sim(LTRs) seq-nr
+# where:
+# s = starting position
+# e = ending position
+# l = length
+# m = motif
+# ret = LTR-retrotransposon
+# lLTR = left LTR
+# rLTR = right LTR
+# TSD = target site duplication
+# sim = similarity
+# seq-nr = sequence number
+535754  541679  5926  535754  536091  338  ttctc  5  tg..ca  541342  541679  338  ttctc  5  tg..ca  100.00  0
+561837  567754  5918  561837  562170  334  gaagg  5  tg..ca  567421  567754  334  gaagg  5  tg..ca  98.50  0
+568735  574694  5960  568735  569066  332  gtatt  5  tg..ca  574363  574694  332  gtatt  5  tg..ca  98.19  0
+707189  712539  5351  707189  707528  340  gaaag  5  tg..ca  712200  712539  340  gaaag  5  tg..ca  100.00  0
+817387  823300  5914  817387  817718  332  aaatc  5  tg..ca  822969  823300  332  aaatc  5  tg..ca  100.00  0

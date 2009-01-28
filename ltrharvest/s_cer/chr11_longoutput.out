@@ -1,0 +1,25 @@
+# args=-longoutput -index chr11.19960731.fsa.gz -seed 100 -minlenltr 100 -maxlenltr 1000 -mindistltr 1500 -maxdistltr 15000 -similar 80 -mintsd 5 -maxtsd 20 -motif tgca -motifmis 0 -vic 60 -overlaps best -xdrop 5 -mat 2 -mis -2 -ins -3 -del -3 -v -gff3 chr11.gff3 -out chr11.fas -outinner chr11_inner.fas
+# user defined options and values:
+#   verbosemode: On
+#   indexname: chr11.19960731.fsa.gz
+#   outputfile: chr11.fas
+#   outputfile inner region: chr11_inner.fas
+#   outputfile gff3 format: chr11.gff3
+#   xdropbelowscore: 5
+#   similaritythreshold: 80.00
+#   minseedlength: 100
+#   matchscore: 2
+#   mismatchscore: -2
+#   insertionscore: -3
+#   deletionscore: -3
+#   minLTRlength: 100
+#   maxLTRlength: 1000
+#   minLTRdistance: 1500
+#   maxLTRdistance: 15000
+#   overlaps: best
+#   minTSDlength: 5
+#   maxTSDlength: 20
+#   palindromic motif: tgca
+#   motifmismatchesallowed: 0
+#   vicinity: 60 nt
+No full LTR-pair predicted.

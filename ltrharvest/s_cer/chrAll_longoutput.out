@@ -1,0 +1,82 @@
+# args=-longoutput -index chrAll_before-1997-10-01.fsa.gz -seed 100 -minlenltr 100 -maxlenltr 1000 -mindistltr 1500 -maxdistltr 15000 -similar 80 -mintsd 5 -maxtsd 20 -motif tgca -motifmis 0 -vic 60 -overlaps best -xdrop 5 -mat 2 -mis -2 -ins -3 -del -3 -v -gff3 chrAll.gff3 -out chrAll.fas -outinner chrAll_inner.fas
+# user defined options and values:
+#   verbosemode: On
+#   indexname: chrAll_before-1997-10-01.fsa.gz
+#   outputfile: chrAll.fas
+#   outputfile inner region: chrAll_inner.fas
+#   outputfile gff3 format: chrAll.gff3
+#   xdropbelowscore: 5
+#   similaritythreshold: 80.00
+#   minseedlength: 100
+#   matchscore: 2
+#   mismatchscore: -2
+#   insertionscore: -3
+#   deletionscore: -3
+#   minLTRlength: 100
+#   maxLTRlength: 1000
+#   minLTRdistance: 1500
+#   maxLTRdistance: 15000
+#   overlaps: best
+#   minTSDlength: 5
+#   maxTSDlength: 20
+#   palindromic motif: tgca
+#   motifmismatchesallowed: 0
+#   vicinity: 60 nt
+# predictions are reported in the following way
+# s(ret) e(ret) l(ret) s(lLTR) e(lLTR) l(lLTR) TSD l(TSD) m(lLTR) s(rLTR) e(rLTR) l(rLTR) TSD l(TSD) m(rLTR) sim(LTRs) seq-nr
+# where:
+# s = starting position
+# e = ending position
+# l = length
+# m = motif
+# ret = LTR-retrotransposon
+# lLTR = left LTR
+# rLTR = right LTR
+# TSD = target site duplication
+# sim = similarity
+# seq-nr = sequence number
+160239  166163  5925  160239  160575  337  ggttc  5  tg..ca  165827  166163  337  ggttc  5  tg..ca  100.00  0
+29632  35590  5959  29632  29963  332  ataat  5  tg..ca  35259  35590  332  ataat  5  tg..ca  99.70  1
+220996  226911  5916  220996  221329  334  ggaat  5  tg..ca  226575  226911  337  ggaat  5  tg..ca  97.33  1
+259532  265448  5917  259532  259863  332  gtaat  5  tg..ca  265117  265448  332  gtaat  5  tg..ca  99.40  1
+84419  90380  5962  84419  84750  332  aaatc  5  tg..ca  90049  90380  332  aaatc  5  tg..ca  99.40  2
+513728  519686  5959  513728  514059  332  agaaa  5  tg..ca  519366  519686  321  agaaa  5  tg..ca  96.39  3
+645540  651457  5918  645540  645873  334  gttat  5  tg..ca  651124  651457  334  gttat  5  tg..ca  100.00  3
+871858  877816  5959  871858  872189  332  gtaaa  5  tg..ca  877476  877816  341  gtaaa  5  tg..ca  96.77  3
+878340  884257  5918  878340  878673  334  atggc  5  tg..ca  883924  884257  334  atggc  5  tg..ca  99.70  3
+981207  987165  5959  981207  981538  332  cgtct  5  tg..ca  986834  987165  332  cgtct  5  tg..ca  100.00  3
+987186  992678  5493  987186  987519  334  agtta  5  tg..ca  992345  992678  334  agtta  5  tg..ca  97.31  3
+1095804  1101729  5926  1095804  1096141  338  aatct  5  tg..ca  1101392  1101729  338  aatct  5  tg..ca  99.70  3
+1206738  1212655  5918  1206738  1207071  334  aagca  5  tg..ca  1212322  1212655  334  aagca  5  tg..ca  99.40  3
+443394  449317  5924  443394  443735  342  catct  5  tg..ca  448981  449317  337  catct  5  tg..ca  97.66  4
+137907  143865  5959  137907  138238  332  gtata  5  tg..ca  143534  143865  332  gtata  5  tg..ca  100.00  5
+535754  541679  5926  535754  536091  338  ttctc  5  tg..ca  541342  541679  338  ttctc  5  tg..ca  100.00  6
+561837  567754  5918  561837  562170  334  gaagg  5  tg..ca  567421  567754  334  gaagg  5  tg..ca  98.50  6
+568735  574694  5960  568735  569066  332  gtatt  5  tg..ca  574363  574694  332  gtatt  5  tg..ca  98.19  6
+707189  712539  5351  707189  707528  340  gaaag  5  tg..ca  712200  712539  340  gaaag  5  tg..ca  100.00  6
+817387  823300  5914  817387  817718  332  aaatc  5  tg..ca  822969  823300  332  aaatc  5  tg..ca  100.00  6
+85534  91756  6223  85534  85904  371  catac  5  tg..ca  91386  91756  371  catac  5  tg..ca  98.65  7
+543605  549632  6028  543605  543936  332  aaacg  5  tg..ca  549301  549632  332  aaacg  5  tg..ca  99.70  7
+205217  210644  5428  205217  205556  340  gaaca  5  tg..ca  210305  210644  340  gaaca  5  tg..ca  100.00  8
+197244  203469  6226  197244  197614  371  tatca  5  tg..ca  203099  203469  371  tatca  5  tg..ca  100.00  9
+472151  483660  11510  472151  472488  338  gttgc  5  tg..ca  483323  483660  338  gttgc  5  tg..ca  100.00  9
+215081  221006  5926  215081  215427  347  ctttc  5  tg..ca  220669  221006  338  ctttc  5  tg..ca  97.12  11
+475975  481898  5924  475975  476311  337  ctttg  5  tg..ca  481562  481898  337  ctttg  5  tg..ca  100.00  11
+593145  599062  5918  593145  593478  334  gaata  5  tg..ca  598695  599062  368  gaata  5  tg..ca  90.22  11
+650824  656743  5920  650824  651157  334  gatgg  5  tg..ca  656401  656743  343  gatgg  5  tg..ca  96.21  11
+941187  947145  5959  941187  941518  332  cttct  5  tg..ca  946814  947145  332  cttct  5  tg..ca  100.00  11
+184170  190083  5914  184170  184501  332  atatg  5  tg..ca  189752  190083  332  atatg  5  tg..ca  99.70  12
+357004  362917  5914  357004  357335  332  tcatt  5  tg..ca  362586  362917  332  tcatt  5  tg..ca  100.00  12
+372696  378621  5926  372696  373033  338  gaagg  5  tg..ca  378284  378621  338  gaagg  5  tg..ca  100.00  12
+96608  102521  5914  96608  96939  332  gtgtt  5  tg..ca  102190  102521  332  gtgtt  5  tg..ca  100.00  13
+519161  525060  5900  519161  519494  334  aaact  5  tg..ca  524727  525060  334  aaact  5  tg..ca  100.00  13
+562031  567990  5960  562031  562362  332  cattc  5  tg..ca  567658  567990  333  cattc  5  tg..ca  99.40  13
+117702  123627  5926  117702  118028  327  ccttc  5  tg..ca  123290  123627  338  ccttc  5  tg..ca  96.75  14
+594819  600732  5914  594819  595150  332  ctatt  5  tg..ca  600401  600732  332  ctatt  5  tg..ca  100.00  14
+704062  710022  5961  704062  704394  333  gtttt  5  tg..ca  709690  710022  333  gtttt  5  tg..ca  100.00  14
+970278  976236  5959  970278  970609  332  cagtc  5  tg..ca  975900  976236  337  cagtc  5  tg..ca  98.22  14
+56452  62375  5924  56452  56788  337  gttat  5  tg..ca  62039  62375  337  gttat  5  tg..ca  100.00  15
+436885  443107  6223  436885  437255  371  atcaa  5  tg..ca  442737  443107  371  atcaa  5  tg..ca  100.00  15
+804640  810557  5918  804640  804973  334  aatta  5  tg..ca  810224  810557  334  aatta  5  tg..ca  100.00  15
+844407  850335  5929  844407  844744  338  gaaat  5  tg..ca  849998  850335  338  gaaat  5  tg..ca  100.00  15
+850624  856549  5926  850624  850961  338  caaaa  5  tg..ca  856212  856549  338  caaaa  5  tg..ca  99.11  15
