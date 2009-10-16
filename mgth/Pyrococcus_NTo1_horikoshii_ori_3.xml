@@ -1135,12 +1135,12 @@
       <Statistics_gi-def>Pyrococcus abyssi complete genome; segment 1/6</Statistics_gi-def>
     </Statistics>
     <Statistics>
-      <Statistics_percent>27.7553 </Statistics_percent>
-      <Statistics_gi-def>Pyrococcus furiosus priA gene for DNA primase, complete cds</Statistics_gi-def>
-    </Statistics>
-    <Statistics>
       <Statistics_percent>27.8828 </Statistics_percent>
       <Statistics_gi-def>Pyrococcus furiosus DSM 3638, section 12 of 173 of the complete genome</Statistics_gi-def>
+    </Statistics>
+    <Statistics>
+      <Statistics_percent>27.7553 </Statistics_percent>
+      <Statistics_gi-def>Pyrococcus furiosus priA gene for DNA primase, complete cds</Statistics_gi-def>
     </Statistics>
   </MetagenomethreaderOutput_statistics>
 </MetagenomethreaderOutput>

@@ -22147,10 +22147,10 @@ gi-nr: gi|119862398 gi_def: Psychromonas ingrahamii 37, complete genome hsp_num:
 
 Statistic-Section
 
-1.5198     Pyrococcus furiosus DSM 3638, section 12 of 173 of the complete genome
-1.1278     Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence
 1.7007     Pyrococcus abyssi complete genome; segment 1/6
+1.5198     Pyrococcus furiosus DSM 3638, section 12 of 173 of the complete genome
+1.1628     Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence
+1.1278     Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence
+1.1267     Vibrio fischeri ES114 chromosome I, complete sequence
 1.1067     Vibrio vulnificus CMCP6 chromosome I complete sequence
 1.1067     Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence
-1.1628     Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence
-1.1267     Vibrio fischeri ES114 chromosome I, complete sequence

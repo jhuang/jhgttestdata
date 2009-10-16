@@ -3223,13 +3223,13 @@ gi-nr: gi|1513058 gi_def: Homo sapiens mRNA for serin protease with IGF-binding 
 
 Statistic-Section
 
-9.4986     Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence
 12.2678    Vibrio cholerae O395 chromosome 2, complete genome
-3.8409     Pyrococcus furiosus priA gene for DNA primase, complete cds
-4.3974     Pyrococcus furiosus DSM 3638, section 12 of 173 of the complete genome
+9.4986     Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence
+9.2306     Vibrio vulnificus CMCP6 chromosome I complete sequence
+9.2306     Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence
 9.2130     Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence
 6.2921     Pyrococcus abyssi complete genome; segment 1/6
-9.2306     Vibrio vulnificus CMCP6 chromosome I complete sequence
-1.2308     Vibrio fischeri ES114 chromosome I, complete sequence
+4.3974     Pyrococcus furiosus DSM 3638, section 12 of 173 of the complete genome
+3.8409     Pyrococcus furiosus priA gene for DNA primase, complete cds
 1.7328     Thermophilic archaeon 'Bonch-Osmolovskaya' primase small subunit homolog gene, complete cds
-9.2306     Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence
+1.2308     Vibrio fischeri ES114 chromosome I, complete sequence
