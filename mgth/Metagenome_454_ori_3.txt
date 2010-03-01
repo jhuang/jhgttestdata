@@ -13307,107 +13307,71 @@ agtgaagcgttaggtaaggataaaatcgtcgcgttTaaacctcgctccttcaacgccatattggctagagtcaattTggt
 Coding-DNA-Entry-Section
 
 Coding-DNA: 
-taaggataaaatcgtcgcgttTaaacctcgctccttcaacgccatattggctagagtcaattTggtgctgcaTcca
-Protein-Seq: VRIKSSRLNLAPSTPYWLESIWCCIQ
+gtgaagcgttaggtaaggataaaatcgtcgcgttTaaacctcgctccttcaacgccatattggctagagtcaattTggtgctgcaTccaatgaaactcggccttgatctgcgtggTtggtgtgcaTttcctg
+Protein-Seq: SEALGKDKIVAFKPRSFNAILARVNLVLHPMKLGLDLRGWCAFPD
 Hit-Information Section
-gi-nr: gi|109703866 gi_def: Synthetic construct Vibrio cholerae clone FLH175451.01F secD-1 gene, complete sequence hsp_num: 18 from: 359 to: 388
-gi-nr: gi|91983532 gi_def: Vibrio vulnificus CMCP6 chromosome I complete sequence hsp_num: 5 from: 439881 to: 439922
-gi-nr: gi|37509034 gi_def: Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence hsp_num: 1 from: 754846 to: 754887
-gi-nr: gi|156523975 gi_def: Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence hsp_num: 1 from: 1057584 to: 1057625
-gi-nr: gi|47118310 gi_def: Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence hsp_num: 1 from: 617244 to: 617285
-gi-nr: gi|151363173 gi_def: Shewanella baltica OS185, complete genome hsp_num: 1 from: 3363190 to: 3363231
-gi-nr: gi|125995462 gi_def: Shewanella baltica OS155, complete genome hsp_num: 1 from: 3275194 to: 3275235
-gi-nr: gi|3983167 gi_def: Salmonella choleraesuis SecD (secD) gene, complete cds hsp_num: 1 from: 307 to: 348
-gi-nr: gi|16501496 gi_def: Salmonella enterica serovar Typhi (Salmonella typhi) strain CT18, complete chromosome; segment 2/20 hsp_num: 1 from: 203842 to: 203883
-gi-nr: gi|16418900 gi_def: Salmonella typhimurium LT2, section 22 of 220 of the complete genome hsp_num: 1 from: 12011 to: 12052
-gi-nr: gi|46912264 gi_def: Photobacterium profundum SS9; segment 3/12 hsp_num: 2 from: 129739 to: 129780
-gi-nr: gi|157315515 gi_def: Shewanella sediminis HAW-EB3, complete genome hsp_num: 1 from: 3495000 to: 3495041
-gi-nr: gi|120556926 gi_def: Shewanella sp. W3-18-1, complete genome hsp_num: 1 from: 1731797 to: 1731847
-gi-nr: gi|145562801 gi_def: Shewanella putrefaciens CN-32, complete genome hsp_num: 1 from: 2882611 to: 2882661
-gi-nr: gi|126636230 gi_def: Shewanella loihica PV-4, complete genome hsp_num: 1 from: 2729829 to: 2729870
-gi-nr: gi|119765642 gi_def: Shewanella amazonensis SB2B, complete genome hsp_num: 1 from: 2650614 to: 2650655
-gi-nr: gi|117610791 gi_def: Shewanella sp. ANA-3, complete genome hsp_num: 1 from: 1666104 to: 1666145
-gi-nr: gi|113886955 gi_def: Shewanella sp. MR-7, complete genome hsp_num: 1 from: 1682760 to: 1682801
-gi-nr: gi|117558854 gi_def: Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome hsp_num: 1 from: 1901394 to: 1901435
-gi-nr: gi|113883030 gi_def: Shewanella sp. MR-4, complete genome hsp_num: 1 from: 1611332 to: 1611373
-gi-nr: gi|24371479 gi_def: Shewanella oneidensis MR-1, complete genome hsp_num: 1 from: 3240993 to: 3241034
-gi-nr: gi|142849896 gi_def: Aeromonas salmonicida subsp. salmonicida A449, complete genome hsp_num: 1 from: 2803844 to: 2803885
-gi-nr: gi|119862398 gi_def: Psychromonas ingrahamii 37, complete genome hsp_num: 1 from: 2695901 to: 2695942
-gi-nr: gi|114332481 gi_def: Shewanella frigidimarina NCIMB 400, complete genome hsp_num: 1 from: 3245685 to: 3245726
-gi-nr: gi|91713371 gi_def: Shewanella denitrificans OS217, complete genome hsp_num: 1 from: 1635612 to: 1635653
-gi-nr: gi|56178122 gi_def: Idiomarina loihiensis L2TR, complete genome hsp_num: 1 from: 2285546 to: 2285587
-gi-nr: gi|52306107 gi_def: Mannheimia succiniciproducens MBEL55E, complete genome hsp_num: 1 from: 1556225 to: 1556275
-gi-nr: gi|145316543 gi_def: Enterobacter sp. 638, complete genome hsp_num: 1 from: 977359 to: 977400
-gi-nr: gi|148279912 gi_def: Legionella pneumophila str. Corby, complete genome hsp_num: 1 from: 1622215 to: 1622256
-gi-nr: gi|53749768 gi_def: Legionella pneumophila str. Paris complete genome hsp_num: 1 from: 2245658 to: 2245699
-gi-nr: gi|52627367 gi_def: Legionella pneumophila subsp. pneumophila str. Philadelphia 1, complete genome hsp_num: 1 from: 2241692 to: 2241733
-gi-nr: gi|53752796 gi_def: Legionella pneumophila str. Lens complete genome hsp_num: 1 from: 2219151 to: 2219192
-gi-nr: gi|120322793 gi_def: Marinobacter aquaeolei VT8, complete genome hsp_num: 1 from: 1267370 to: 1267411
-gi-nr: gi|126385999 gi_def: Acinetobacter baumannii ATCC 17978, complete genome hsp_num: 1 from: 3376657 to: 3376698
-gi-nr: gi|26111730 gi_def: Escherichia coli CFT073, complete genome hsp_num: 1 from: 502144 to: 502185
-gi-nr: gi|110341805 gi_def: Escherichia coli 536, complete genome hsp_num: 1 from: 495443 to: 495484
-gi-nr: gi|29140506 gi_def: Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome hsp_num: 1 from: 2526217 to: 2526258
-gi-nr: gi|62126203 gi_def: Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome hsp_num: 1 from: 507129 to: 507170
-gi-nr: gi|157081501 gi_def: Citrobacter koseri ATCC BAA-895, complete genome hsp_num: 1 from: 2554532 to: 2554573
-gi-nr: gi|56126533 gi_def: Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150 hsp_num: 1 from: 2410369 to: 2410410
-gi-nr: gi|59478708 gi_def: Vibrio fischeri ES114 chromosome I, complete sequence hsp_num: 1 from: 2205329 to: 2205370
-gi-nr: gi|157320013 gi_def: Serratia proteamaculans 568, complete genome hsp_num: 2 from: 1169738 to: 1169770
-gi-nr: gi|49609491 gi_def: Erwinia carotovora subsp. atroseptica SCRI1043, complete genome hsp_num: 2 from: 1274841 to: 1274873
-gi-nr: gi|84778498 gi_def: Sodalis glossinidius str. 'morsitans' DNA, complete genome hsp_num: 2 from: 1109695 to: 1109727
-gi-nr: gi|145568602 gi_def: Pseudomonas stutzeri A1501, complete genome hsp_num: 1 from: 3279892 to: 3279933
-gi-nr: gi|66270661 gi_def: Methylococcus capsulatus str. Bath, complete genome hsp_num: 1 from: 714002 to: 714040
+gi-nr: gi|91983532 gi_def: Vibrio vulnificus CMCP6 chromosome I complete sequence hsp_num: 7 from: 439923 to: 439955
+gi-nr: gi|37509034 gi_def: Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence hsp_num: 3 from: 754813 to: 754845
+gi-nr: gi|156523975 gi_def: Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence hsp_num: 2 from: 1057551 to: 1057583
+gi-nr: gi|47118310 gi_def: Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence hsp_num: 2 from: 617211 to: 617243
+gi-nr: gi|51587641 gi_def: Yersinia pseudotuberculosis IP32953 genome, complete sequence hsp_num: 2 from: 1123700 to: 1123741
+gi-nr: gi|152958308 gi_def: Yersinia pseudotuberculosis IP 31758, complete genome hsp_num: 2 from: 3512623 to: 3512664
+gi-nr: gi|108777911 gi_def: Yersinia pestis Antiqua, complete genome hsp_num: 2 from: 2984131 to: 2984172
+gi-nr: gi|30407161 gi_def: Yersinia pestis CO92 complete genome hsp_num: 2 from: 3551741 to: 3551782
+gi-nr: gi|22002119 gi_def: Yersinia pestis KIM, complete genome hsp_num: 2 from: 1123988 to: 1124029
+gi-nr: gi|108773814 gi_def: Yersinia pestis Nepal516, complete genome hsp_num: 2 from: 1051128 to: 1051169
+gi-nr: gi|5524705 gi_def: Enterobacter aerogenes SecD protein (secD) gene, complete cds hsp_num: 2 from: 358 to: 399
+gi-nr: gi|109693603 gi_def: Synthetic construct Yersinia pestis clone FLH0149459.01X secD gene, complete sequence hsp_num: 1 from: 358 to: 399
+gi-nr: gi|119765642 gi_def: Shewanella amazonensis SB2B, complete genome hsp_num: 2 from: 2650563 to: 2650604
+gi-nr: gi|114332481 gi_def: Shewanella frigidimarina NCIMB 400, complete genome hsp_num: 2 from: 3245634 to: 3245675
+gi-nr: gi|91713371 gi_def: Shewanella denitrificans OS217, complete genome hsp_num: 2 from: 1635663 to: 1635704
+gi-nr: gi|109698613 gi_def: Pseudoalteromonas atlantica T6c, complete genome hsp_num: 2 from: 1479619 to: 1479660
+gi-nr: gi|148279912 gi_def: Legionella pneumophila str. Corby, complete genome hsp_num: 2 from: 1622164 to: 1622205
+gi-nr: gi|53749768 gi_def: Legionella pneumophila str. Paris complete genome hsp_num: 2 from: 2245607 to: 2245648
+gi-nr: gi|52627367 gi_def: Legionella pneumophila subsp. pneumophila str. Philadelphia 1, complete genome hsp_num: 2 from: 2241641 to: 2241682
+gi-nr: gi|53752796 gi_def: Legionella pneumophila str. Lens complete genome hsp_num: 2 from: 2219100 to: 2219141
+gi-nr: gi|126385999 gi_def: Acinetobacter baumannii ATCC 17978, complete genome hsp_num: 2 from: 3376708 to: 3376749
+gi-nr: gi|156530483 gi_def: Enterobacter sakazakii ATCC BAA-894, complete genome hsp_num: 2 from: 2847374 to: 2847415
+gi-nr: gi|119713573 gi_def: Uncultured marine bacterium EB0_39H12 genomic sequence hsp_num: 1 from: 40139 to: 40183
+gi-nr: gi|49609491 gi_def: Erwinia carotovora subsp. atroseptica SCRI1043, complete genome hsp_num: 1 from: 1274892 to: 1274933
+gi-nr: gi|84778498 gi_def: Sodalis glossinidius str. 'morsitans' DNA, complete genome hsp_num: 1 from: 1109746 to: 1109787
+gi-nr: gi|71143482 gi_def: Colwellia psychrerythraea 34H, complete genome hsp_num: 2 from: 1145064 to: 1145105
+gi-nr: gi|119713211 gi_def: Uncultured marine bacterium HF10_05C07 genomic sequence hsp_num: 1 from: 6379 to: 6420
+gi-nr: gi|119713395 gi_def: Uncultured marine bacterium HF130_81H07 genomic sequence hsp_num: 1 from: 11911 to: 11952
 
 
 Coding-DNA: 
-taaggataaaatcgtcgcgttTaaacctcgctccttcaacgccatattggctagagtcaattTggtgctgcaTcca
-Protein-Seq: VRIKSSRLNLAPSTPYWLESIWCCIQ
+gtgaagcgttaggtaaggataaaatcgtcgcgttTaaacctcgctccttcaacgccatattggctagagtcaattTggtgctgcaTccaatgaaactcggccttgatctgcgtggTtggtgtgcaTttcctg
+Protein-Seq: SEALGKDKIVAFKPRSFNAILARVNLVLHPMKLGLDLRGWCAFPD
 Hit-Information Section
-gi-nr: gi|109703866 gi_def: Synthetic construct Vibrio cholerae clone FLH175451.01F secD-1 gene, complete sequence hsp_num: 18 from: 359 to: 388
-gi-nr: gi|91983532 gi_def: Vibrio vulnificus CMCP6 chromosome I complete sequence hsp_num: 5 from: 439881 to: 439922
-gi-nr: gi|37509034 gi_def: Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence hsp_num: 1 from: 754846 to: 754887
-gi-nr: gi|156523975 gi_def: Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence hsp_num: 1 from: 1057584 to: 1057625
-gi-nr: gi|47118310 gi_def: Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence hsp_num: 1 from: 617244 to: 617285
-gi-nr: gi|151363173 gi_def: Shewanella baltica OS185, complete genome hsp_num: 1 from: 3363190 to: 3363231
-gi-nr: gi|125995462 gi_def: Shewanella baltica OS155, complete genome hsp_num: 1 from: 3275194 to: 3275235
-gi-nr: gi|3983167 gi_def: Salmonella choleraesuis SecD (secD) gene, complete cds hsp_num: 1 from: 307 to: 348
-gi-nr: gi|16501496 gi_def: Salmonella enterica serovar Typhi (Salmonella typhi) strain CT18, complete chromosome; segment 2/20 hsp_num: 1 from: 203842 to: 203883
-gi-nr: gi|16418900 gi_def: Salmonella typhimurium LT2, section 22 of 220 of the complete genome hsp_num: 1 from: 12011 to: 12052
-gi-nr: gi|46912264 gi_def: Photobacterium profundum SS9; segment 3/12 hsp_num: 2 from: 129739 to: 129780
-gi-nr: gi|157315515 gi_def: Shewanella sediminis HAW-EB3, complete genome hsp_num: 1 from: 3495000 to: 3495041
-gi-nr: gi|120556926 gi_def: Shewanella sp. W3-18-1, complete genome hsp_num: 1 from: 1731797 to: 1731847
-gi-nr: gi|145562801 gi_def: Shewanella putrefaciens CN-32, complete genome hsp_num: 1 from: 2882611 to: 2882661
-gi-nr: gi|126636230 gi_def: Shewanella loihica PV-4, complete genome hsp_num: 1 from: 2729829 to: 2729870
-gi-nr: gi|119765642 gi_def: Shewanella amazonensis SB2B, complete genome hsp_num: 1 from: 2650614 to: 2650655
-gi-nr: gi|117610791 gi_def: Shewanella sp. ANA-3, complete genome hsp_num: 1 from: 1666104 to: 1666145
-gi-nr: gi|113886955 gi_def: Shewanella sp. MR-7, complete genome hsp_num: 1 from: 1682760 to: 1682801
-gi-nr: gi|117558854 gi_def: Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome hsp_num: 1 from: 1901394 to: 1901435
-gi-nr: gi|113883030 gi_def: Shewanella sp. MR-4, complete genome hsp_num: 1 from: 1611332 to: 1611373
-gi-nr: gi|24371479 gi_def: Shewanella oneidensis MR-1, complete genome hsp_num: 1 from: 3240993 to: 3241034
-gi-nr: gi|142849896 gi_def: Aeromonas salmonicida subsp. salmonicida A449, complete genome hsp_num: 1 from: 2803844 to: 2803885
-gi-nr: gi|119862398 gi_def: Psychromonas ingrahamii 37, complete genome hsp_num: 1 from: 2695901 to: 2695942
-gi-nr: gi|114332481 gi_def: Shewanella frigidimarina NCIMB 400, complete genome hsp_num: 1 from: 3245685 to: 3245726
-gi-nr: gi|91713371 gi_def: Shewanella denitrificans OS217, complete genome hsp_num: 1 from: 1635612 to: 1635653
-gi-nr: gi|56178122 gi_def: Idiomarina loihiensis L2TR, complete genome hsp_num: 1 from: 2285546 to: 2285587
-gi-nr: gi|52306107 gi_def: Mannheimia succiniciproducens MBEL55E, complete genome hsp_num: 1 from: 1556225 to: 1556275
-gi-nr: gi|145316543 gi_def: Enterobacter sp. 638, complete genome hsp_num: 1 from: 977359 to: 977400
-gi-nr: gi|148279912 gi_def: Legionella pneumophila str. Corby, complete genome hsp_num: 1 from: 1622215 to: 1622256
-gi-nr: gi|53749768 gi_def: Legionella pneumophila str. Paris complete genome hsp_num: 1 from: 2245658 to: 2245699
-gi-nr: gi|52627367 gi_def: Legionella pneumophila subsp. pneumophila str. Philadelphia 1, complete genome hsp_num: 1 from: 2241692 to: 2241733
-gi-nr: gi|53752796 gi_def: Legionella pneumophila str. Lens complete genome hsp_num: 1 from: 2219151 to: 2219192
-gi-nr: gi|120322793 gi_def: Marinobacter aquaeolei VT8, complete genome hsp_num: 1 from: 1267370 to: 1267411
-gi-nr: gi|126385999 gi_def: Acinetobacter baumannii ATCC 17978, complete genome hsp_num: 1 from: 3376657 to: 3376698
-gi-nr: gi|26111730 gi_def: Escherichia coli CFT073, complete genome hsp_num: 1 from: 502144 to: 502185
-gi-nr: gi|110341805 gi_def: Escherichia coli 536, complete genome hsp_num: 1 from: 495443 to: 495484
-gi-nr: gi|29140506 gi_def: Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome hsp_num: 1 from: 2526217 to: 2526258
-gi-nr: gi|62126203 gi_def: Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome hsp_num: 1 from: 507129 to: 507170
-gi-nr: gi|157081501 gi_def: Citrobacter koseri ATCC BAA-895, complete genome hsp_num: 1 from: 2554532 to: 2554573
-gi-nr: gi|56126533 gi_def: Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150 hsp_num: 1 from: 2410369 to: 2410410
-gi-nr: gi|59478708 gi_def: Vibrio fischeri ES114 chromosome I, complete sequence hsp_num: 1 from: 2205329 to: 2205370
-gi-nr: gi|157320013 gi_def: Serratia proteamaculans 568, complete genome hsp_num: 2 from: 1169738 to: 1169770
-gi-nr: gi|49609491 gi_def: Erwinia carotovora subsp. atroseptica SCRI1043, complete genome hsp_num: 2 from: 1274841 to: 1274873
-gi-nr: gi|84778498 gi_def: Sodalis glossinidius str. 'morsitans' DNA, complete genome hsp_num: 2 from: 1109695 to: 1109727
-gi-nr: gi|145568602 gi_def: Pseudomonas stutzeri A1501, complete genome hsp_num: 1 from: 3279892 to: 3279933
-gi-nr: gi|66270661 gi_def: Methylococcus capsulatus str. Bath, complete genome hsp_num: 1 from: 714002 to: 714040
+gi-nr: gi|91983532 gi_def: Vibrio vulnificus CMCP6 chromosome I complete sequence hsp_num: 7 from: 439923 to: 439955
+gi-nr: gi|37509034 gi_def: Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence hsp_num: 3 from: 754813 to: 754845
+gi-nr: gi|156523975 gi_def: Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence hsp_num: 2 from: 1057551 to: 1057583
+gi-nr: gi|47118310 gi_def: Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence hsp_num: 2 from: 617211 to: 617243
+gi-nr: gi|51587641 gi_def: Yersinia pseudotuberculosis IP32953 genome, complete sequence hsp_num: 2 from: 1123700 to: 1123741
+gi-nr: gi|152958308 gi_def: Yersinia pseudotuberculosis IP 31758, complete genome hsp_num: 2 from: 3512623 to: 3512664
+gi-nr: gi|108777911 gi_def: Yersinia pestis Antiqua, complete genome hsp_num: 2 from: 2984131 to: 2984172
+gi-nr: gi|30407161 gi_def: Yersinia pestis CO92 complete genome hsp_num: 2 from: 3551741 to: 3551782
+gi-nr: gi|22002119 gi_def: Yersinia pestis KIM, complete genome hsp_num: 2 from: 1123988 to: 1124029
+gi-nr: gi|108773814 gi_def: Yersinia pestis Nepal516, complete genome hsp_num: 2 from: 1051128 to: 1051169
+gi-nr: gi|5524705 gi_def: Enterobacter aerogenes SecD protein (secD) gene, complete cds hsp_num: 2 from: 358 to: 399
+gi-nr: gi|109693603 gi_def: Synthetic construct Yersinia pestis clone FLH0149459.01X secD gene, complete sequence hsp_num: 1 from: 358 to: 399
+gi-nr: gi|119765642 gi_def: Shewanella amazonensis SB2B, complete genome hsp_num: 2 from: 2650563 to: 2650604
+gi-nr: gi|114332481 gi_def: Shewanella frigidimarina NCIMB 400, complete genome hsp_num: 2 from: 3245634 to: 3245675
+gi-nr: gi|91713371 gi_def: Shewanella denitrificans OS217, complete genome hsp_num: 2 from: 1635663 to: 1635704
+gi-nr: gi|109698613 gi_def: Pseudoalteromonas atlantica T6c, complete genome hsp_num: 2 from: 1479619 to: 1479660
+gi-nr: gi|148279912 gi_def: Legionella pneumophila str. Corby, complete genome hsp_num: 2 from: 1622164 to: 1622205
+gi-nr: gi|53749768 gi_def: Legionella pneumophila str. Paris complete genome hsp_num: 2 from: 2245607 to: 2245648
+gi-nr: gi|52627367 gi_def: Legionella pneumophila subsp. pneumophila str. Philadelphia 1, complete genome hsp_num: 2 from: 2241641 to: 2241682
+gi-nr: gi|53752796 gi_def: Legionella pneumophila str. Lens complete genome hsp_num: 2 from: 2219100 to: 2219141
+gi-nr: gi|126385999 gi_def: Acinetobacter baumannii ATCC 17978, complete genome hsp_num: 2 from: 3376708 to: 3376749
+gi-nr: gi|156530483 gi_def: Enterobacter sakazakii ATCC BAA-894, complete genome hsp_num: 2 from: 2847374 to: 2847415
+gi-nr: gi|119713573 gi_def: Uncultured marine bacterium EB0_39H12 genomic sequence hsp_num: 1 from: 40139 to: 40183
+gi-nr: gi|49609491 gi_def: Erwinia carotovora subsp. atroseptica SCRI1043, complete genome hsp_num: 1 from: 1274892 to: 1274933
+gi-nr: gi|84778498 gi_def: Sodalis glossinidius str. 'morsitans' DNA, complete genome hsp_num: 1 from: 1109746 to: 1109787
+gi-nr: gi|71143482 gi_def: Colwellia psychrerythraea 34H, complete genome hsp_num: 2 from: 1145064 to: 1145105
+gi-nr: gi|119713211 gi_def: Uncultured marine bacterium HF10_05C07 genomic sequence hsp_num: 1 from: 6379 to: 6420
+gi-nr: gi|119713395 gi_def: Uncultured marine bacterium HF130_81H07 genomic sequence hsp_num: 1 from: 11911 to: 11952
 
 
 Query-DNA-Entry-Section
@@ -18381,200 +18345,173 @@ gi-nr: gi|149947715 gi_def: Alkaliphilus metalliredigens QYMF, complete genome h
 
 
 Coding-DNA: 
-ggcgcaaccatgaccttgccgggtattgctggtatcgtTgttgacgggtcggtatggTcTggtcTgatgccaacgtactga
-Protein-Seq: GATMTLPGIAGIVVDGSVWSGLMPTY*F
+ggtcggtatggTcTggtcTgatgccaacgtactgattttcgagcgtattcgtgaagaTgctacgcgaaggaaaaaa
+Protein-Seq: RVGMVWSDANVLIFERIREDATRRKK
 Hit-Information Section
-gi-nr: gi|110645972 gi_def: Alcanivorax borkumensis SK2, complete genome hsp_num: 2 from: 553501 to: 553542
-gi-nr: gi|57635381 gi_def: Photobacterium damselae subsp. piscicida partial secD gene for putative export protein and partial secF gene for putative preprotein translocase subunit, clone pRDA25 hsp_num: 1 from: 179 to: 220
-gi-nr: gi|117558854 gi_def: Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome hsp_num: 3 from: 1902588 to: 1902629
-gi-nr: gi|156523975 gi_def: Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence hsp_num: 1 from: 1058781 to: 1058822
-gi-nr: gi|37509034 gi_def: Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence hsp_num: 1 from: 756043 to: 756084
-gi-nr: gi|47118310 gi_def: Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence hsp_num: 1 from: 618441 to: 618482
-gi-nr: gi|91983532 gi_def: Vibrio vulnificus CMCP6 chromosome I complete sequence hsp_num: 1 from: 438684 to: 438725
-gi-nr: gi|59478708 gi_def: Vibrio fischeri ES114 chromosome I, complete sequence hsp_num: 1 from: 2204132 to: 2204173
-gi-nr: gi|46912264 gi_def: Photobacterium profundum SS9; segment 3/12 hsp_num: 1 from: 130933 to: 130974
-gi-nr: gi|145554299 gi_def: Rhodobacter sphaeroides ATCC 17025, complete genome hsp_num: 1 from: 452910 to: 452951
-gi-nr: gi|119862398 gi_def: Psychromonas ingrahamii 37, complete genome hsp_num: 1 from: 2694701 to: 2694742
-gi-nr: gi|56676665 gi_def: Silicibacter pomeroyi DSS-3, complete genome hsp_num: 1 from: 2456367 to: 2456408
-gi-nr: gi|109698469 gi_def: Synthetic construct Francisella tularensis clone FLH156741.01X secD gene, complete sequence hsp_num: 1 from: 1576 to: 1620
-gi-nr: gi|62261534 gi_def: Synthetic construct isolate FTT1115 unknown protein gene, complete cds hsp_num: 1 from: 1654 to: 1698
-gi-nr: gi|142849896 gi_def: Aeromonas salmonicida subsp. salmonicida A449, complete genome hsp_num: 1 from: 2802650 to: 2802691
-gi-nr: gi|88862040 gi_def: Jannaschia sp. CCS1, complete genome hsp_num: 1 from: 1049206 to: 1049247
-gi-nr: gi|91795226 gi_def: Chromohalobacter salexigens DSM 3043, complete genome hsp_num: 1 from: 3165387 to: 3165428
-gi-nr: gi|76873893 gi_def: Pseudoalteromonas haloplanktis str. TAC125 chromosome I, complete sequence hsp_num: 1 from: 337737 to: 337778
-gi-nr: gi|77386383 gi_def: Rhodobacter sphaeroides 2.4.1 chromosome 1, complete sequence hsp_num: 1 from: 384702 to: 384743
-gi-nr: gi|126102442 gi_def: Rhodobacter sphaeroides ATCC 17029 chromosome 1, complete sequence hsp_num: 1 from: 462310 to: 462351
-gi-nr: gi|94730694 gi_def: Lawsonia intracellularis PHE/MN1-00 hsp_num: 1 from: 63010 to: 63051
-gi-nr: gi|78217452 gi_def: Desulfovibrio desulfuricans G20, complete genome hsp_num: 1 from: 1869506 to: 1869547
-gi-nr: gi|71553748 gi_def: Pseudomonas syringae pv. phaseolicola 1448A, complete genome hsp_num: 3 from: 1514931 to: 1514972
-gi-nr: gi|71143482 gi_def: Colwellia psychrerythraea 34H, complete genome hsp_num: 2 from: 1146201 to: 1146242
-gi-nr: gi|114737225 gi_def: Hyphomonas neptunium ATCC 15444, complete genome hsp_num: 1 from: 1996520 to: 1996561
-gi-nr: gi|114737225 gi_def: Hyphomonas neptunium ATCC 15444, complete genome hsp_num: 3 from: 2479789 to: 2479830
-gi-nr: gi|56178122 gi_def: Idiomarina loihiensis L2TR, complete genome hsp_num: 2 from: 2284361 to: 2284402
-gi-nr: gi|119372524 gi_def: Paracoccus denitrificans PD1222 chromosome 1, complete genome hsp_num: 1 from: 1384203 to: 1384244
-gi-nr: gi|118422521 gi_def: Francisella tularensis subsp. novicida U112, complete genome hsp_num: 1 from: 1156359 to: 1156403
-gi-nr: gi|134048946 gi_def: Francisella tularensis subsp. tularensis WY96-3418, complete genome hsp_num: 1 from: 1085993 to: 1086037
-gi-nr: gi|89143280 gi_def: Francisella tularensis subsp. holarctica LVS complete genome hsp_num: 1 from: 830648 to: 830692
-gi-nr: gi|115128880 gi_def: Francisella tularensis subsp. holarctica OSU18, complete genome hsp_num: 1 from: 834304 to: 834348
-gi-nr: gi|56603679 gi_def: Francisella tularensis subsp. tularensis SCHU S4 complete genome hsp_num: 1 from: 1125054 to: 1125098
-gi-nr: gi|110319990 gi_def: Francisella tularensis subsp. tularensis strain FSC 198 complete genome hsp_num: 1 from: 1125005 to: 1125049
-gi-nr: gi|156251972 gi_def: Francisella tularensis subsp. holarctica FTA, complete genome hsp_num: 1 from: 832403 to: 832447
-gi-nr: gi|146232099 gi_def: Dichelobacter nodosus VCS1703A, complete genome hsp_num: 1 from: 44781 to: 44822
-gi-nr: gi|71061822 gi_def: Candidatus Pelagibacter ubique HTCC1062, complete genome hsp_num: 2 from: 961112 to: 961150
-gi-nr: gi|119713395 gi_def: Uncultured marine bacterium HF130_81H07 genomic sequence hsp_num: 2 from: 13018 to: 13056
-gi-nr: gi|109453537 gi_def: Roseobacter denitrificans OCh 114, complete genome hsp_num: 2 from: 2434525 to: 2434566
-gi-nr: gi|117576522 gi_def: Gramella forsetii KT0803 complete circular genome hsp_num: 2 from: 2859112 to: 2859153
-gi-nr: gi|150026743 gi_def: Sinorhizobium medicae WSM419, complete genome hsp_num: 1 from: 1252522 to: 1252563
-gi-nr: gi|99036121 gi_def: Silicibacter sp. TM1040, complete genome hsp_num: 2 from: 1069422 to: 1069463
-gi-nr: gi|85720936 gi_def: Syntrophus aciditrophicus SB, complete genome hsp_num: 2 from: 2261413 to: 2261451
-gi-nr: gi|148570901 gi_def: Psychrobacter sp. PRwf-1, complete genome hsp_num: 2 from: 1125329 to: 1125370
-gi-nr: gi|57160810 gi_def: Ehrlichia ruminantium strain Welgevonden, complete genome hsp_num: 2 from: 1454885 to: 1454923
-gi-nr: gi|58417290 gi_def: Ehrlichia ruminantium str. Welgevonden, complete genome hsp_num: 2 from: 1432654 to: 1432692
-gi-nr: gi|58416339 gi_def: Ehrlichia ruminantium str. Gardel, complete genome hsp_num: 2 from: 1418876 to: 1418914
-gi-nr: gi|88597753 gi_def: Anaplasma phagocytophilum HZ, complete genome hsp_num: 2 from: 1428850 to: 1428891
-gi-nr: gi|68342549 gi_def: Pseudomonas fluorescens Pf-5, complete genome hsp_num: 1 from: 5724099 to: 5724140
-gi-nr: gi|150958624 gi_def: Pseudomonas aeruginosa PA7, complete genome hsp_num: 1 from: 1309287 to: 1309328
-gi-nr: gi|115583796 gi_def: Pseudomonas aeruginosa UCBPP-PA14, complete genome hsp_num: 1 from: 1249054 to: 1249095
-gi-nr: gi|77380231 gi_def: Pseudomonas fluorescens PfO-1, complete genome hsp_num: 1 from: 5217531 to: 5217572
-gi-nr: gi|28856110 gi_def: Pseudomonas syringae pv. tomato str. DC3000, complete genome hsp_num: 1 from: 1556140 to: 1556181
-gi-nr: gi|110227054 gi_def: Pseudomonas aeruginosa PAO1, complete genome hsp_num: 1 from: 4277397 to: 4277438
-gi-nr: gi|24987239 gi_def: Pseudomonas putida KT2440 complete genome hsp_num: 1 from: 973216 to: 973257
-gi-nr: gi|63253978 gi_def: Pseudomonas syringae pv. syringae B728a, complete genome hsp_num: 1 from: 1389516 to: 1389557
-gi-nr: gi|148509317 gi_def: Pseudomonas putida F1, complete genome hsp_num: 1 from: 987882 to: 987923
-gi-nr: gi|95101722 gi_def: Pseudomonas entomophila str. L48 chromosome,complete sequence hsp_num: 1 from: 1056479 to: 1056520
-gi-nr: gi|145573243 gi_def: Pseudomonas mendocina ymp, complete genome hsp_num: 1 from: 3877055 to: 3877096
-gi-nr: gi|115254414 gi_def: Rhizobium leguminosarum bv. viciae chromosome complete genome, strain 3841 hsp_num: 1 from: 730997 to: 731038
-gi-nr: gi|115254414 gi_def: Rhizobium leguminosarum bv. viciae chromosome complete genome, strain 3841 hsp_num: 3 from: 2169208 to: 2169249
-gi-nr: gi|112822192 gi_def: Haemophilus somnus 129PT, complete genome hsp_num: 1 from: 1503686 to: 1503727
-gi-nr: gi|2252771 gi_def: Rhodobacter capsulatus YajC (yajC) gene, partial cds, and SecD (secD) and SecF (secF) genes, complete cds hsp_num: 1 from: 1531 to: 1572
-gi-nr: gi|72393774 gi_def: Ehrlichia canis str. Jake, complete genome hsp_num: 2 from: 1244297 to: 1244335
-gi-nr: gi|56387602 gi_def: Anaplasma marginale str. St. Maries, complete genome hsp_num: 2 from: 1109986 to: 1110027
-gi-nr: gi|15074266 gi_def: Sinorhizobium meliloti 1021 complete chromosome; segment 6/12 hsp_num: 1 from: 209272 to: 209313
-gi-nr: gi|51102971 gi_def: Pseudomonas viridiflava strain LP23.1a pathogenicity island PAI-Region-1, partial sequence hsp_num: 1 from: 1369 to: 1410
-gi-nr: gi|51103032 gi_def: Pseudomonas viridiflava strain PNA3.3a pathogenicity island PAI-Region-1, partial sequence hsp_num: 1 from: 653 to: 694
-gi-nr: gi|51102908 gi_def: Pseudomonas viridiflava strain ME3.1b pathogenicity island PAI-Region-1, complete sequence hsp_num: 1 from: 7531 to: 7572
-gi-nr: gi|47118328 gi_def: Mesorhizobium loti MAFF303099 DNA, complete genome hsp_num: 1 from: 896557 to: 896598
-gi-nr: gi|119713211 gi_def: Uncultured marine bacterium HF10_05C07 genomic sequence hsp_num: 2 from: 7486 to: 7524
-gi-nr: gi|82943940 gi_def: Magnetospirillum magneticum AMB-1 DNA, complete genome hsp_num: 1 from: 2695396 to: 2695437
-gi-nr: gi|51102953 gi_def: Pseudomonas viridiflava strain RMX3.1b pathogenicity island PAI-Region-1, partial sequence hsp_num: 1 from: 1369 to: 1410
-gi-nr: gi|51102888 gi_def: Pseudomonas viridiflava strain RMX23.1a pathogenicity island PAI-Region-1, complete sequence hsp_num: 1 from: 761 to: 802
-gi-nr: gi|110283346 gi_def: Mesorhizobium sp. BNC1, complete genome hsp_num: 1 from: 1922703 to: 1922744
-gi-nr: gi|86279771 gi_def: Rhizobium etli CFN 42, complete genome hsp_num: 1 from: 1920562 to: 1920603
-gi-nr: gi|86279771 gi_def: Rhizobium etli CFN 42, complete genome hsp_num: 2 from: 652346 to: 652387
-gi-nr: gi|39985517 gi_def: Geobacter sulfurreducens PCA, complete genome hsp_num: 2 from: 2887398 to: 2887439
-gi-nr: gi|46451220 gi_def: Desulfovibrio vulgaris subsp. vulgaris str. Hildenborough, complete genome hsp_num: 2 from: 1883623 to: 1883664
-gi-nr: gi|76881875 gi_def: Nitrosococcus oceani ATCC 19707, complete genome hsp_num: 2 from: 2694327 to: 2694365
-gi-nr: gi|120561280 gi_def: Desulfovibrio vulgaris subsp. vulgaris DP4, complete genome hsp_num: 2 from: 1636748 to: 1636789
-gi-nr: gi|110744159 gi_def: Thiomicrospira crunogena XCL-2, complete genome hsp_num: 2 from: 1445774 to: 1445812
-gi-nr: gi|46399275 gi_def: Parachlamydia-related symbiont UWE25, complete genome hsp_num: 2 from: 356845 to: 356886
-gi-nr: gi|109698613 gi_def: Pseudoalteromonas atlantica T6c, complete genome hsp_num: 2 from: 1480753 to: 1480794
-gi-nr: gi|83755449 gi_def: Salinibacter ruber DSM 13855, complete genome hsp_num: 1 from: 2262694 to: 2262735
-gi-nr: gi|92392509 gi_def: Psychrobacter cryohalolentis K5, complete genome hsp_num: 2 from: 1333329 to: 1333370
-gi-nr: gi|151559234 gi_def: Ochrobactrum anthropi ATCC 49188 chromosome 1, complete sequence hsp_num: 1 from: 1958557 to: 1958598
-gi-nr: gi|71037566 gi_def: Psychrobacter arcticus 273-4, complete genome hsp_num: 2 from: 1540233 to: 1540274
-gi-nr: gi|6626248 gi_def: Aquifex aeolicus VF5, complete genome hsp_num: 1 from: 673351 to: 673395
-gi-nr: gi|91202367 gi_def: Kuenenia stuttgartiensis genome fragment KUST_D (4 of 5) hsp_num: 2 from: 640205 to: 640243
-gi-nr: gi|89949249 gi_def: Saccharophagus degradans 2-40, complete genome hsp_num: 1 from: 1824754 to: 1824795
-gi-nr: gi|118501159 gi_def: Pelobacter propionicus DSM 2379, complete genome hsp_num: 2 from: 1924419 to: 1924460
-gi-nr: gi|154154406 gi_def: Parvibaculum lavamentivorans DS-1, complete genome hsp_num: 2 from: 3237423 to: 3237461
-gi-nr: gi|108764099 gi_def: Rubrobacter xylanophilus DSM 9941, complete genome hsp_num: 2 from: 1361123 to: 1361170
-gi-nr: gi|16445345 gi_def: Agrobacterium tumefaciens str. C58, complete genome hsp_num: 1 from: 1549443 to: 1549484
-gi-nr: gi|126096280 gi_def: Actinobacillus pleuropneumoniae L20 serotype 5b complete genome hsp_num: 1 from: 1236340 to: 1236381
-gi-nr: gi|42410857 gi_def: Wolbachia endosymbiont of Drosophila melanogaster, complete genome hsp_num: 2 from: 78967 to: 79005
-gi-nr: gi|58418577 gi_def: Wolbachia endosymbiont strain TRS of Brugia malayi, complete genome hsp_num: 2 from: 1045593 to: 1045631
-gi-nr: gi|24413894 gi_def: Streptomyces coelicolor A3(2) complete genome; segment 23/29 hsp_num: 2 from: 179885 to: 179926
-gi-nr: gi|41582250 gi_def: Uncultured bacterium 578 clone EBAC080-L31E09 genomic sequence hsp_num: 2 from: 58482 to: 58520
-gi-nr: gi|83630956 gi_def: Hahella chejuensis KCTC 2396, complete genome hsp_num: 2 from: 4596792 to: 4596830
-gi-nr: gi|146395585 gi_def: Geobacter uraniumreducens Rf4, complete genome hsp_num: 2 from: 1994261 to: 1994302
-gi-nr: gi|120322793 gi_def: Marinobacter aquaeolei VT8, complete genome hsp_num: 2 from: 1268564 to: 1268602
-gi-nr: gi|78192483 gi_def: Geobacter metallireducens GS-15, complete genome hsp_num: 2 from: 941568 to: 941609
-gi-nr: gi|148279912 gi_def: Legionella pneumophila str. Corby, complete genome hsp_num: 2 from: 1621021 to: 1621059
-gi-nr: gi|53749768 gi_def: Legionella pneumophila str. Paris complete genome hsp_num: 2 from: 2244464 to: 2244502
-gi-nr: gi|52627367 gi_def: Legionella pneumophila subsp. pneumophila str. Philadelphia 1, complete genome hsp_num: 2 from: 2240498 to: 2240536
-gi-nr: gi|53752796 gi_def: Legionella pneumophila str. Lens complete genome hsp_num: 2 from: 2217957 to: 2217995
-gi-nr: gi|114225560 gi_def: Alkalilimnicola ehrlichei MLHE-1, complete genome hsp_num: 2 from: 1420764 to: 1420802
-gi-nr: gi|86556045 gi_def: Synechococcus sp. JA-2-3B'a(2-13), complete genome hsp_num: 2 from: 1841240 to: 1841281
-gi-nr: gi|86553275 gi_def: Synechococcus sp. JA-3-3Ab, complete genome hsp_num: 2 from: 71984 to: 72025
-gi-nr: gi|121588215 gi_def: Halorhodospira halophila SL1, complete genome hsp_num: 2 from: 1852657 to: 1852695
-gi-nr: gi|17739985 gi_def: Agrobacterium tumefaciens str. C58 circular chromosome, section 140 of 256 of the complete sequence hsp_num: 1 from: 4115 to: 4156
-gi-nr: gi|154355007 gi_def: Coxiella burnetii Dugway 7E9-12, complete genome hsp_num: 1 from: 1217164 to: 1217205
-gi-nr: gi|56542470 gi_def: Zymomonas mobilis subsp. mobilis ZM4, complete genome hsp_num: 1 from: 1945999 to: 1946040
-gi-nr: gi|71066702 gi_def: Coxiella burnetii RSA 493, complete genome hsp_num: 1 from: 1084372 to: 1084413
-gi-nr: gi|49237636 gi_def: Bartonella henselae strain Houston-1, complete genome hsp_num: 1 from: 1186198 to: 1186239
-gi-nr: gi|49239191 gi_def: Bartonella quintana str. Toulouse, complete genome hsp_num: 1 from: 992233 to: 992274
-gi-nr: gi|120613812 gi_def: Bartonella bacilliformis KC583, complete genome hsp_num: 1 from: 906123 to: 906164
-gi-nr: gi|88599018 gi_def: Ehrlichia chaffeensis str. Arkansas, complete genome hsp_num: 2 from: 1129631 to: 1129669
-gi-nr: gi|19110413 gi_def: Rickettsia typhi export membrane protein SecD gene, complete cds hsp_num: 1 from: 1204 to: 1242
-gi-nr: gi|118566999 gi_def: Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica), complete genome hsp_num: 2 from: 1072622 to: 1072660
-gi-nr: gi|146325996 gi_def: Candidatus Vesicomyosocius okutanii HA DNA, complete genome hsp_num: 2 from: 939601 to: 939639
-gi-nr: gi|119713573 gi_def: Uncultured marine bacterium EB0_39H12 genomic sequence hsp_num: 2 from: 41282 to: 41320
-gi-nr: gi|126385999 gi_def: Acinetobacter baumannii ATCC 17978, complete genome hsp_num: 1 from: 3377899 to: 3377940
-gi-nr: gi|49529273 gi_def: Acinetobacter sp. ADP1 complete genome hsp_num: 1 from: 577213 to: 577254
-gi-nr: gi|87133707 gi_def: Novosphingobium aromaticivorans DSM 12444, complete genome hsp_num: 2 from: 2213083 to: 2213124
-gi-nr: gi|12720451 gi_def: Pasteurella multocida subsp. multocida str. Pm70 section 24 of 204 of the complete genome hsp_num: 2 from: 1395 to: 1436
-gi-nr: gi|62195123 gi_def: Brucella abortus biovar 1 str. 9-941 chromosome I, complete sequence hsp_num: 1 from: 1303675 to: 1303716
-gi-nr: gi|82615033 gi_def: Brucella melitensis biovar Abortus 2308 chromosome I, complete sequence, strain 2308 hsp_num: 1 from: 1300825 to: 1300866
-gi-nr: gi|148370077 gi_def: Brucella ovis ATCC 25840 chromosome I, complete sequence hsp_num: 1 from: 1291932 to: 1291973
-gi-nr: gi|54112365 gi_def: Brucella suis 1330 chromosome I, complete sequence hsp_num: 1 from: 1285708 to: 1285749
-gi-nr: gi|46197919 gi_def: Thermus thermophilus HB27, complete genome hsp_num: 1 from: 331537 to: 331578
-gi-nr: gi|55771382 gi_def: Thermus thermophilus HB8 genomic DNA, complete genome hsp_num: 1 from: 660992 to: 661033
-gi-nr: gi|88600124 gi_def: Neorickettsia sennetsu strain Miyayama, complete genome hsp_num: 2 from: 549794 to: 549832
-gi-nr: gi|109693603 gi_def: Synthetic construct Yersinia pestis clone FLH0149459.01X secD gene, complete sequence hsp_num: 1 from: 1495 to: 1536
-gi-nr: gi|5524705 gi_def: Enterobacter aerogenes SecD protein (secD) gene, complete cds hsp_num: 1 from: 1495 to: 1536
-gi-nr: gi|154158043 gi_def: Xanthobacter autotrophicus Py2, complete genome hsp_num: 1 from: 4777346 to: 4777387
-gi-nr: gi|145568602 gi_def: Pseudomonas stutzeri A1501, complete genome hsp_num: 1 from: 3278692 to: 3278730
-gi-nr: gi|17982603 gi_def: Brucella melitensis 16M chromosome I, section 66 of 195 of the complete sequence hsp_num: 1 from: 6841 to: 6882
-gi-nr: gi|146739436 gi_def: Orientia tsutsugamushi Boryong complete genome hsp_num: 2 from: 1709721 to: 1709759
-gi-nr: gi|47118316 gi_def: Bradyrhizobium japonicum USDA 110 DNA, complete genome hsp_num: 1 from: 5243457 to: 5243495
-gi-nr: gi|146403799 gi_def: Bradyrhizobium sp. BTAi1, complete genome hsp_num: 1 from: 4618836 to: 4618874
-gi-nr: gi|146189981 gi_def: Bradyrhizobium sp. ORS278,complete sequence hsp_num: 1 from: 4224526 to: 4224564
-gi-nr: gi|90103542 gi_def: Rhodopseudomonas palustris BisB18, complete genome hsp_num: 1 from: 3013818 to: 3013856
-gi-nr: gi|115515977 gi_def: Rhodopseudomonas palustris BisA53, complete genome hsp_num: 1 from: 3257022 to: 3257060
-gi-nr: gi|91798527 gi_def: Nitrobacter hamburgensis X14, complete genome hsp_num: 1 from: 2001426 to: 2001464
-gi-nr: gi|83574254 gi_def: Rhodospirillum rubrum ATCC 11170, complete genome hsp_num: 1 from: 2056552 to: 2056593
-gi-nr: gi|83574254 gi_def: Rhodospirillum rubrum ATCC 11170, complete genome hsp_num: 4 from: 4219106 to: 4219144
-gi-nr: gi|50874889 gi_def: Desulfotalea psychrophila LSv54 chromosome hsp_num: 1 from: 909123 to: 909161
-gi-nr: gi|74419069 gi_def: Nitrobacter winogradskyi Nb-255, complete genome hsp_num: 1 from: 1939521 to: 1939559
-gi-nr: gi|91068359 gi_def: Rickettsia bellii RML369-C, complete genome hsp_num: 1 from: 777483 to: 777521
-gi-nr: gi|39649689 gi_def: Rhodopseudomonas palustris CGA009 complete genome; segment 10/16 hsp_num: 1 from: 65084 to: 65122
-gi-nr: gi|86570155 gi_def: Rhodopseudomonas palustris HaA2, complete genome hsp_num: 1 from: 3115884 to: 3115922
-gi-nr: gi|91680938 gi_def: Rhodopseudomonas palustris BisB5, complete genome hsp_num: 1 from: 3094563 to: 3094601
-gi-nr: gi|19172958 gi_def: Caulobacter crescentus CB15 complete genome hsp_num: 2 from: 2195167 to: 2195205
-gi-nr: gi|67003925 gi_def: Rickettsia felis URRWXCal2, complete genome hsp_num: 1 from: 1017504 to: 1017542
-gi-nr: gi|51459527 gi_def: Rickettsia typhi str. Wilmington complete genome hsp_num: 1 from: 745360 to: 745398
-gi-nr: gi|39575856 gi_def: Bdellovibrio bacteriovorus complete genome, strain HD100; segment 7/11 hsp_num: 1 from: 44827 to: 44868
-gi-nr: gi|3861033 gi_def: Rickettsia prowazekii strain Madrid E, complete genome; segment 3/4 hsp_num: 1 from: 144060 to: 144098
-gi-nr: gi|150834967 gi_def: Marinomonas sp. MWYL1, complete genome hsp_num: 1 from: 2989691 to: 2989729
-gi-nr: gi|98975575 gi_def: Sphingopyxis alaskensis RB2256, complete genome hsp_num: 2 from: 1804402 to: 1804440
-gi-nr: gi|15619990 gi_def: Rickettsia conorii str. Malish 7, section 75 of 114 of the complete genome hsp_num: 1 from: 8408 to: 8446
-gi-nr: gi|36787140 gi_def: Photorhabdus luminescens subsp. laumondii TTO1 complete genome; segment 14/17 hsp_num: 1 from: 56284 to: 56325
-gi-nr: gi|157315515 gi_def: Shewanella sediminis HAW-EB3, complete genome hsp_num: 1 from: 3493809 to: 3493850
-gi-nr: gi|5834381 gi_def: Citrobacter freundii general protein secretion pathway subunit SecD gene, complete cds hsp_num: 1 from: 1495 to: 1536
-gi-nr: gi|151423458 gi_def: Sulfurovum sp. NBC37-1 genomic DNA, complete genome hsp_num: 1 from: 401477 to: 401518
-gi-nr: gi|77994731 gi_def: Carboxydothermus hydrogenoformans Z-2901, complete genome hsp_num: 2 from: 1351947 to: 1351985
-gi-nr: gi|78496741 gi_def: Thiomicrospira denitrificans ATCC 33889, complete genome hsp_num: 1 from: 1651015 to: 1651056
-gi-nr: gi|157101370 gi_def: Campylobacter concisus 13826, complete genome hsp_num: 1 from: 1208257 to: 1208298
-gi-nr: gi|153792987 gi_def: Campylobacter curvus 525.92, complete genome hsp_num: 1 from: 1268990 to: 1269031
-gi-nr: gi|151421614 gi_def: Nitratiruptor sp. SB155-2 genomic DNA, complete genome hsp_num: 1 from: 1492856 to: 1492897
-gi-nr: gi|34483186 gi_def: Wolinella succinogenes, complete genome; segment 4/7 hsp_num: 1 from: 156414 to: 156455
-gi-nr: gi|148498119 gi_def: Sphingomonas wittichii RW1, complete genome hsp_num: 2 from: 1602589 to: 1602627
-gi-nr: gi|78165794 gi_def: Pelodictyon luteolum DSM 273, complete genome hsp_num: 2 from: 10420 to: 10458
-gi-nr: gi|153803875 gi_def: Campylobacter hominis ATCC BAA-381, complete genome hsp_num: 1 from: 435463 to: 435504
-gi-nr: gi|6626253 gi_def: Helicobacter pylori 26695, complete genome hsp_num: 1 from: 1629594 to: 1629635
-gi-nr: gi|12057207 gi_def: Helicobacter pylori J99, complete genome hsp_num: 1 from: 1598086 to: 1598127
-gi-nr: gi|107836197 gi_def: Helicobacter pylori HPAG1, complete genome hsp_num: 1 from: 1560738 to: 1560779
-gi-nr: gi|109713861 gi_def: Helicobacter acinonychis str. Sheeba complete genome, strain Sheeba hsp_num: 1 from: 244251 to: 244292
-gi-nr: gi|78167878 gi_def: Synechococcus sp. CC9902, complete genome hsp_num: 2 from: 1239611 to: 1239646
-gi-nr: gi|152938384 gi_def: Campylobacter jejuni subsp. doylei 269.97, complete genome hsp_num: 1 from: 572028 to: 572069
-gi-nr: gi|57165696 gi_def: Campylobacter jejuni RM1221, complete genome hsp_num: 1 from: 1152921 to: 1152962
-gi-nr: gi|30407139 gi_def: Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome hsp_num: 1 from: 1026572 to: 1026613
-gi-nr: gi|157385286 gi_def: Campylobacter jejuni subsp. jejuni 81116, complete genome hsp_num: 1 from: 1043543 to: 1043584
-gi-nr: gi|121504137 gi_def: Campylobacter jejuni subsp. jejuni 81-176, complete genome hsp_num: 1 from: 1029157 to: 1029198
-gi-nr: gi|118413283 gi_def: Campylobacter fetus subsp. fetus 82-40, complete genome hsp_num: 1 from: 734837 to: 734878
-gi-nr: gi|146272432 gi_def: Pelotomaculum thermopropionicum SI genomic DNA, complete genome hsp_num: 2 from: 1066134 to: 1066169
-gi-nr: gi|116740300 gi_def: Listeria welshimeri serovar 6b str. SLCC5334 complete genome hsp_num: 1 from: 1540712 to: 1540750
-gi-nr: gi|114314838 gi_def: Granulibacter bethesdensis CGDNIH1, complete genome hsp_num: 1 from: 1611208 to: 1611246
-gi-nr: gi|16414035 gi_def: Listeria innocua Clip11262 complete genome, segment 7/12 hsp_num: 1 from: 16750 to: 16788
+gi-nr: gi|110645972 gi_def: Alcanivorax borkumensis SK2, complete genome hsp_num: 1 from: 553561 to: 553608
+gi-nr: gi|57635381 gi_def: Photobacterium damselae subsp. piscicida partial secD gene for putative export protein and partial secF gene for putative preprotein translocase subunit, clone pRDA25 hsp_num: 2 from: 239 to: 277
+gi-nr: gi|117558854 gi_def: Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome hsp_num: 4 from: 1902648 to: 1902686
+gi-nr: gi|156523975 gi_def: Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence hsp_num: 2 from: 1058841 to: 1058879
+gi-nr: gi|37509034 gi_def: Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence hsp_num: 2 from: 756103 to: 756141
+gi-nr: gi|47118310 gi_def: Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence hsp_num: 2 from: 618501 to: 618539
+gi-nr: gi|91983532 gi_def: Vibrio vulnificus CMCP6 chromosome I complete sequence hsp_num: 2 from: 438627 to: 438665
+gi-nr: gi|59478708 gi_def: Vibrio fischeri ES114 chromosome I, complete sequence hsp_num: 2 from: 2204075 to: 2204113
+gi-nr: gi|46912264 gi_def: Photobacterium profundum SS9; segment 3/12 hsp_num: 2 from: 130993 to: 131031
+gi-nr: gi|119862398 gi_def: Psychromonas ingrahamii 37, complete genome hsp_num: 2 from: 2694629 to: 2694682
+gi-nr: gi|109698469 gi_def: Synthetic construct Francisella tularensis clone FLH156741.01X secD gene, complete sequence hsp_num: 2 from: 1636 to: 1674
+gi-nr: gi|62261534 gi_def: Synthetic construct isolate FTT1115 unknown protein gene, complete cds hsp_num: 2 from: 1714 to: 1752
+gi-nr: gi|142849896 gi_def: Aeromonas salmonicida subsp. salmonicida A449, complete genome hsp_num: 2 from: 2802593 to: 2802631
+gi-nr: gi|91795226 gi_def: Chromohalobacter salexigens DSM 3043, complete genome hsp_num: 2 from: 3165447 to: 3165485
+gi-nr: gi|76873893 gi_def: Pseudoalteromonas haloplanktis str. TAC125 chromosome I, complete sequence hsp_num: 2 from: 337797 to: 337835
+gi-nr: gi|94730694 gi_def: Lawsonia intracellularis PHE/MN1-00 hsp_num: 2 from: 62953 to: 62991
+gi-nr: gi|78217452 gi_def: Desulfovibrio desulfuricans G20, complete genome hsp_num: 2 from: 1869566 to: 1869604
+gi-nr: gi|114737225 gi_def: Hyphomonas neptunium ATCC 15444, complete genome hsp_num: 2 from: 1996463 to: 1996501
+gi-nr: gi|118422521 gi_def: Francisella tularensis subsp. novicida U112, complete genome hsp_num: 2 from: 1156305 to: 1156343
+gi-nr: gi|134048946 gi_def: Francisella tularensis subsp. tularensis WY96-3418, complete genome hsp_num: 2 from: 1085939 to: 1085977
+gi-nr: gi|89143280 gi_def: Francisella tularensis subsp. holarctica LVS complete genome hsp_num: 2 from: 830708 to: 830746
+gi-nr: gi|115128880 gi_def: Francisella tularensis subsp. holarctica OSU18, complete genome hsp_num: 2 from: 834364 to: 834402
+gi-nr: gi|56603679 gi_def: Francisella tularensis subsp. tularensis SCHU S4 complete genome hsp_num: 2 from: 1125000 to: 1125038
+gi-nr: gi|110319990 gi_def: Francisella tularensis subsp. tularensis strain FSC 198 complete genome hsp_num: 2 from: 1124951 to: 1124989
+gi-nr: gi|156251972 gi_def: Francisella tularensis subsp. holarctica FTA, complete genome hsp_num: 2 from: 832463 to: 832501
+gi-nr: gi|146232099 gi_def: Dichelobacter nodosus VCS1703A, complete genome hsp_num: 2 from: 44724 to: 44762
+gi-nr: gi|99036121 gi_def: Silicibacter sp. TM1040, complete genome hsp_num: 1 from: 1069482 to: 1069520
+gi-nr: gi|148570901 gi_def: Psychrobacter sp. PRwf-1, complete genome hsp_num: 1 from: 1125272 to: 1125310
+gi-nr: gi|88597753 gi_def: Anaplasma phagocytophilum HZ, complete genome hsp_num: 1 from: 1428793 to: 1428831
+gi-nr: gi|68342549 gi_def: Pseudomonas fluorescens Pf-5, complete genome hsp_num: 2 from: 5724042 to: 5724080
+gi-nr: gi|150958624 gi_def: Pseudomonas aeruginosa PA7, complete genome hsp_num: 2 from: 1309347 to: 1309385
+gi-nr: gi|115583796 gi_def: Pseudomonas aeruginosa UCBPP-PA14, complete genome hsp_num: 2 from: 1249114 to: 1249152
+gi-nr: gi|77380231 gi_def: Pseudomonas fluorescens PfO-1, complete genome hsp_num: 2 from: 5217474 to: 5217512
+gi-nr: gi|28856110 gi_def: Pseudomonas syringae pv. tomato str. DC3000, complete genome hsp_num: 2 from: 1556200 to: 1556238
+gi-nr: gi|110227054 gi_def: Pseudomonas aeruginosa PAO1, complete genome hsp_num: 2 from: 4277340 to: 4277378
+gi-nr: gi|24987239 gi_def: Pseudomonas putida KT2440 complete genome hsp_num: 2 from: 973276 to: 973314
+gi-nr: gi|63253978 gi_def: Pseudomonas syringae pv. syringae B728a, complete genome hsp_num: 2 from: 1389576 to: 1389614
+gi-nr: gi|148509317 gi_def: Pseudomonas putida F1, complete genome hsp_num: 2 from: 987942 to: 987980
+gi-nr: gi|95101722 gi_def: Pseudomonas entomophila str. L48 chromosome,complete sequence hsp_num: 2 from: 1056539 to: 1056577
+gi-nr: gi|145573243 gi_def: Pseudomonas mendocina ymp, complete genome hsp_num: 2 from: 3876998 to: 3877036
+gi-nr: gi|115254414 gi_def: Rhizobium leguminosarum bv. viciae chromosome complete genome, strain 3841 hsp_num: 4 from: 2169268 to: 2169306
+gi-nr: gi|112822192 gi_def: Haemophilus somnus 129PT, complete genome hsp_num: 2 from: 1503629 to: 1503667
+gi-nr: gi|2252771 gi_def: Rhodobacter capsulatus YajC (yajC) gene, partial cds, and SecD (secD) and SecF (secF) genes, complete cds hsp_num: 2 from: 1591 to: 1629
+gi-nr: gi|72393774 gi_def: Ehrlichia canis str. Jake, complete genome hsp_num: 1 from: 1244222 to: 1244278
+gi-nr: gi|15074266 gi_def: Sinorhizobium meliloti 1021 complete chromosome; segment 6/12 hsp_num: 2 from: 209332 to: 209373
+gi-nr: gi|51102971 gi_def: Pseudomonas viridiflava strain LP23.1a pathogenicity island PAI-Region-1, partial sequence hsp_num: 2 from: 1312 to: 1350
+gi-nr: gi|51103032 gi_def: Pseudomonas viridiflava strain PNA3.3a pathogenicity island PAI-Region-1, partial sequence hsp_num: 2 from: 596 to: 634
+gi-nr: gi|51102908 gi_def: Pseudomonas viridiflava strain ME3.1b pathogenicity island PAI-Region-1, complete sequence hsp_num: 2 from: 7474 to: 7512
+gi-nr: gi|47118328 gi_def: Mesorhizobium loti MAFF303099 DNA, complete genome hsp_num: 2 from: 896500 to: 896538
+gi-nr: gi|82943940 gi_def: Magnetospirillum magneticum AMB-1 DNA, complete genome hsp_num: 2 from: 2695339 to: 2695377
+gi-nr: gi|51102953 gi_def: Pseudomonas viridiflava strain RMX3.1b pathogenicity island PAI-Region-1, partial sequence hsp_num: 2 from: 1312 to: 1350
+gi-nr: gi|51102888 gi_def: Pseudomonas viridiflava strain RMX23.1a pathogenicity island PAI-Region-1, complete sequence hsp_num: 2 from: 704 to: 742
+gi-nr: gi|110283346 gi_def: Mesorhizobium sp. BNC1, complete genome hsp_num: 2 from: 1922646 to: 1922684
+gi-nr: gi|86279771 gi_def: Rhizobium etli CFN 42, complete genome hsp_num: 4 from: 1920622 to: 1920660
+gi-nr: gi|39985517 gi_def: Geobacter sulfurreducens PCA, complete genome hsp_num: 1 from: 2887341 to: 2887379
+gi-nr: gi|46451220 gi_def: Desulfovibrio vulgaris subsp. vulgaris str. Hildenborough, complete genome hsp_num: 1 from: 1883557 to: 1883604
+gi-nr: gi|76881875 gi_def: Nitrosococcus oceani ATCC 19707, complete genome hsp_num: 1 from: 2694270 to: 2694308
+gi-nr: gi|120561280 gi_def: Desulfovibrio vulgaris subsp. vulgaris DP4, complete genome hsp_num: 1 from: 1636808 to: 1636855
+gi-nr: gi|110744159 gi_def: Thiomicrospira crunogena XCL-2, complete genome hsp_num: 1 from: 1445717 to: 1445755
+gi-nr: gi|46399275 gi_def: Parachlamydia-related symbiont UWE25, complete genome hsp_num: 1 from: 356905 to: 356943
+gi-nr: gi|150839411 gi_def: Actinobacillus succinogenes 130Z, complete genome hsp_num: 2 from: 1153096 to: 1153134
+gi-nr: gi|52306107 gi_def: Mannheimia succiniciproducens MBEL55E, complete genome hsp_num: 2 from: 1557485 to: 1557523
+gi-nr: gi|109698613 gi_def: Pseudoalteromonas atlantica T6c, complete genome hsp_num: 1 from: 1480813 to: 1480851
+gi-nr: gi|92392509 gi_def: Psychrobacter cryohalolentis K5, complete genome hsp_num: 1 from: 1333272 to: 1333310
+gi-nr: gi|71037566 gi_def: Psychrobacter arcticus 273-4, complete genome hsp_num: 1 from: 1540293 to: 1540331
+gi-nr: gi|6626248 gi_def: Aquifex aeolicus VF5, complete genome hsp_num: 2 from: 673411 to: 673449
+gi-nr: gi|89949249 gi_def: Saccharophagus degradans 2-40, complete genome hsp_num: 2 from: 1824814 to: 1824852
+gi-nr: gi|118501159 gi_def: Pelobacter propionicus DSM 2379, complete genome hsp_num: 1 from: 1924362 to: 1924400
+gi-nr: gi|83630956 gi_def: Hahella chejuensis KCTC 2396, complete genome hsp_num: 1 from: 4596735 to: 4596773
+gi-nr: gi|146395585 gi_def: Geobacter uraniumreducens Rf4, complete genome hsp_num: 1 from: 1994321 to: 1994359
+gi-nr: gi|120322793 gi_def: Marinobacter aquaeolei VT8, complete genome hsp_num: 1 from: 1268621 to: 1268659
+gi-nr: gi|78192483 gi_def: Geobacter metallireducens GS-15, complete genome hsp_num: 1 from: 941628 to: 941666
+gi-nr: gi|148279912 gi_def: Legionella pneumophila str. Corby, complete genome hsp_num: 1 from: 1620964 to: 1621002
+gi-nr: gi|53749768 gi_def: Legionella pneumophila str. Paris complete genome hsp_num: 1 from: 2244407 to: 2244445
+gi-nr: gi|52627367 gi_def: Legionella pneumophila subsp. pneumophila str. Philadelphia 1, complete genome hsp_num: 1 from: 2240441 to: 2240479
+gi-nr: gi|53752796 gi_def: Legionella pneumophila str. Lens complete genome hsp_num: 1 from: 2217900 to: 2217938
+gi-nr: gi|114225560 gi_def: Alkalilimnicola ehrlichei MLHE-1, complete genome hsp_num: 1 from: 1420821 to: 1420859
+gi-nr: gi|86556045 gi_def: Synechococcus sp. JA-2-3B'a(2-13), complete genome hsp_num: 1 from: 1841183 to: 1841221
+gi-nr: gi|86553275 gi_def: Synechococcus sp. JA-3-3Ab, complete genome hsp_num: 1 from: 72044 to: 72082
+gi-nr: gi|121588215 gi_def: Halorhodospira halophila SL1, complete genome hsp_num: 1 from: 1852600 to: 1852638
+gi-nr: gi|154355007 gi_def: Coxiella burnetii Dugway 7E9-12, complete genome hsp_num: 2 from: 1217107 to: 1217145
+gi-nr: gi|71066702 gi_def: Coxiella burnetii RSA 493, complete genome hsp_num: 2 from: 1084315 to: 1084353
+gi-nr: gi|156617157 gi_def: Haemophilus influenzae 86-028NP, complete genome hsp_num: 1 from: 331846 to: 331884
+gi-nr: gi|148717999 gi_def: Haemophilus influenzae PittGG, complete genome hsp_num: 1 from: 725260 to: 725298
+gi-nr: gi|6626252 gi_def: Haemophilus influenzae Rd KW20, complete genome hsp_num: 1 from: 268733 to: 268771
+gi-nr: gi|148715293 gi_def: Haemophilus influenzae PittEE, complete genome hsp_num: 1 from: 355545 to: 355583
+gi-nr: gi|19110413 gi_def: Rickettsia typhi export membrane protein SecD gene, complete cds hsp_num: 2 from: 1261 to: 1299
+gi-nr: gi|118566999 gi_def: Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica), complete genome hsp_num: 1 from: 1072565 to: 1072603
+gi-nr: gi|146325996 gi_def: Candidatus Vesicomyosocius okutanii HA DNA, complete genome hsp_num: 1 from: 939544 to: 939582
+gi-nr: gi|126385999 gi_def: Acinetobacter baumannii ATCC 17978, complete genome hsp_num: 2 from: 3377959 to: 3377997
+gi-nr: gi|49529273 gi_def: Acinetobacter sp. ADP1 complete genome hsp_num: 2 from: 577156 to: 577194
+gi-nr: gi|12720451 gi_def: Pasteurella multocida subsp. multocida str. Pm70 section 24 of 204 of the complete genome hsp_num: 1 from: 1338 to: 1376
+gi-nr: gi|117607074 gi_def: Magnetococcus sp. MC-1, complete genome hsp_num: 1 from: 3994965 to: 3995003
+gi-nr: gi|145568602 gi_def: Pseudomonas stutzeri A1501, complete genome hsp_num: 2 from: 3278635 to: 3278673
+gi-nr: gi|146739436 gi_def: Orientia tsutsugamushi Boryong complete genome hsp_num: 1 from: 1709778 to: 1709816
+gi-nr: gi|47118316 gi_def: Bradyrhizobium japonicum USDA 110 DNA, complete genome hsp_num: 2 from: 5243400 to: 5243438
+gi-nr: gi|146403799 gi_def: Bradyrhizobium sp. BTAi1, complete genome hsp_num: 2 from: 4618779 to: 4618817
+gi-nr: gi|146189981 gi_def: Bradyrhizobium sp. ORS278,complete sequence hsp_num: 2 from: 4224469 to: 4224507
+gi-nr: gi|90103542 gi_def: Rhodopseudomonas palustris BisB18, complete genome hsp_num: 2 from: 3013761 to: 3013799
+gi-nr: gi|115515977 gi_def: Rhodopseudomonas palustris BisA53, complete genome hsp_num: 2 from: 3256965 to: 3257003
+gi-nr: gi|114332481 gi_def: Shewanella frigidimarina NCIMB 400, complete genome hsp_num: 1 from: 3244437 to: 3244475
+gi-nr: gi|114332481 gi_def: Shewanella frigidimarina NCIMB 400, complete genome hsp_num: 4 from: 1145547 to: 1145582
+gi-nr: gi|91798527 gi_def: Nitrobacter hamburgensis X14, complete genome hsp_num: 2 from: 2001483 to: 2001521
+gi-nr: gi|83574254 gi_def: Rhodospirillum rubrum ATCC 11170, complete genome hsp_num: 2 from: 2056492 to: 2056533
+gi-nr: gi|74419069 gi_def: Nitrobacter winogradskyi Nb-255, complete genome hsp_num: 2 from: 1939464 to: 1939502
+gi-nr: gi|39649689 gi_def: Rhodopseudomonas palustris CGA009 complete genome; segment 10/16 hsp_num: 2 from: 65027 to: 65065
+gi-nr: gi|113707294 gi_def: Synthetic construct Vibrio cholerae clone FLH197767.01F secD-2 gene, complete sequence hsp_num: 2 from: 1546 to: 1581
+gi-nr: gi|86570155 gi_def: Rhodopseudomonas palustris HaA2, complete genome hsp_num: 2 from: 3115827 to: 3115865
+gi-nr: gi|116696516 gi_def: Syntrophobacter fumaroxidans MPOB, complete genome hsp_num: 1 from: 1534114 to: 1534152
+gi-nr: gi|91680938 gi_def: Rhodopseudomonas palustris BisB5, complete genome hsp_num: 2 from: 3094506 to: 3094544
+gi-nr: gi|123199600 gi_def: Prochlorococcus marinus str. MIT 9515, complete genome hsp_num: 1 from: 905662 to: 905700
+gi-nr: gi|67003925 gi_def: Rickettsia felis URRWXCal2, complete genome hsp_num: 2 from: 1017561 to: 1017599
+gi-nr: gi|51459527 gi_def: Rickettsia typhi str. Wilmington complete genome hsp_num: 2 from: 745417 to: 745455
+gi-nr: gi|33633869 gi_def: Prochlorococcus marinus MED4 complete genome; segment 3/5 hsp_num: 1 from: 190686 to: 190724
+gi-nr: gi|39575856 gi_def: Bdellovibrio bacteriovorus complete genome, strain HD100; segment 7/11 hsp_num: 2 from: 44770 to: 44808
+gi-nr: gi|3861033 gi_def: Rickettsia prowazekii strain Madrid E, complete genome; segment 3/4 hsp_num: 2 from: 144117 to: 144155
+gi-nr: gi|110164990 gi_def: Trichodesmium erythraeum IMS101, complete genome hsp_num: 1 from: 7745849 to: 7745887
+gi-nr: gi|47118304 gi_def: Synechocystis sp. PCC 6803 DNA, complete genome hsp_num: 1 from: 2401997 to: 2402035
+gi-nr: gi|47118315 gi_def: Thermosynechococcus elongatus BP-1 DNA, complete genome hsp_num: 1 from: 183384 to: 183422
+gi-nr: gi|15619990 gi_def: Rickettsia conorii str. Malish 7, section 75 of 114 of the complete genome hsp_num: 2 from: 8465 to: 8503
+gi-nr: gi|47118302 gi_def: Nostoc sp. PCC 7120 DNA, complete genome hsp_num: 1 from: 122460 to: 122498
+gi-nr: gi|75699950 gi_def: Anabaena variabilis ATCC 29413, complete genome hsp_num: 1 from: 1834634 to: 1834672
+gi-nr: gi|119765642 gi_def: Shewanella amazonensis SB2B, complete genome hsp_num: 4 from: 3000800 to: 3000835
+gi-nr: gi|21672293 gi_def: Chlorobium tepidum TLS, complete genome hsp_num: 1 from: 2131764 to: 2131802
+gi-nr: gi|56684969 gi_def: Synechococcus elongatus PCC 6301 DNA, complete genome hsp_num: 1 from: 1476987 to: 1477025
+gi-nr: gi|81167692 gi_def: Synechococcus elongatus PCC 7942, complete genome hsp_num: 1 from: 143857 to: 143895
+gi-nr: gi|12057211 gi_def: Xylella fastidiosa 9a5c, complete genome hsp_num: 2 from: 234584 to: 234622
+gi-nr: gi|151423458 gi_def: Sulfurovum sp. NBC37-1 genomic DNA, complete genome hsp_num: 2 from: 401537 to: 401572
+gi-nr: gi|28058986 gi_def: Xylella fastidiosa Temecula1, complete genome hsp_num: 2 from: 233309 to: 233347
+gi-nr: gi|78496741 gi_def: Thiomicrospira denitrificans ATCC 33889, complete genome hsp_num: 2 from: 1650961 to: 1650996
+gi-nr: gi|20095250 gi_def: Fusobacterium nucleatum subsp. nucleatum ATCC 25586, complete genome hsp_num: 1 from: 1358106 to: 1358144
+gi-nr: gi|157101370 gi_def: Campylobacter concisus 13826, complete genome hsp_num: 2 from: 1208203 to: 1208238
+gi-nr: gi|153792987 gi_def: Campylobacter curvus 525.92, complete genome hsp_num: 2 from: 1268936 to: 1268971
+gi-nr: gi|151421614 gi_def: Nitratiruptor sp. SB155-2 genomic DNA, complete genome hsp_num: 2 from: 1492802 to: 1492837
+gi-nr: gi|146313784 gi_def: Vibrio cholerae O395 chromosome 1, complete genome hsp_num: 2 from: 692405 to: 692440
+gi-nr: gi|12057213 gi_def: Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence hsp_num: 2 from: 631895 to: 631930
+gi-nr: gi|34483186 gi_def: Wolinella succinogenes, complete genome; segment 4/7 hsp_num: 2 from: 156360 to: 156395
+gi-nr: gi|125712750 gi_def: Clostridium thermocellum ATCC 27405, complete genome hsp_num: 1 from: 1081115 to: 1081153
+gi-nr: gi|78165794 gi_def: Pelodictyon luteolum DSM 273, complete genome hsp_num: 1 from: 10477 to: 10515
+gi-nr: gi|145204986 gi_def: Prosthecochloris vibrioformis DSM 265, complete genome hsp_num: 1 from: 13862 to: 13900
+gi-nr: gi|21108775 gi_def: Xanthomonas axonopodis pv. citri str. 306,  section 268 of 469 of the complete genome hsp_num: 2 from: 1610 to: 1648
+gi-nr: gi|21113525 gi_def: Xanthomonas campestris pv. campestris str. ATCC 33913,  section 255 of 460 of the complete genome hsp_num: 2 from: 1449 to: 1487
+gi-nr: gi|6626253 gi_def: Helicobacter pylori 26695, complete genome hsp_num: 2 from: 1629540 to: 1629575
+gi-nr: gi|12057207 gi_def: Helicobacter pylori J99, complete genome hsp_num: 2 from: 1598146 to: 1598181
+gi-nr: gi|107836197 gi_def: Helicobacter pylori HPAG1, complete genome hsp_num: 2 from: 1560684 to: 1560719
+gi-nr: gi|152938384 gi_def: Campylobacter jejuni subsp. doylei 269.97, complete genome hsp_num: 2 from: 572088 to: 572123
+gi-nr: gi|57165696 gi_def: Campylobacter jejuni RM1221, complete genome hsp_num: 2 from: 1152867 to: 1152902
+gi-nr: gi|30407139 gi_def: Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome hsp_num: 2 from: 1026518 to: 1026553
+gi-nr: gi|157385286 gi_def: Campylobacter jejuni subsp. jejuni 81116, complete genome hsp_num: 2 from: 1043489 to: 1043524
+gi-nr: gi|121504137 gi_def: Campylobacter jejuni subsp. jejuni 81-176, complete genome hsp_num: 2 from: 1029103 to: 1029138
+gi-nr: gi|4996611 gi_def: Prevotella ruminicola genes for polygalacturonase, xylosidase, protein-export membrane protein, complete cds hsp_num: 1 from: 4498 to: 4536
+gi-nr: gi|116119596 gi_def: Leptospira borgpetersenii serovar Hardjo-bovis L550 chromosome 1, complete sequence hsp_num: 1 from: 2521326 to: 2521364
+gi-nr: gi|116123488 gi_def: Leptospira borgpetersenii serovar Hardjo-bovis JB197 chromosome 1, complete sequence hsp_num: 1 from: 2553776 to: 2553814
+gi-nr: gi|118413283 gi_def: Campylobacter fetus subsp. fetus 82-40, complete genome hsp_num: 2 from: 734897 to: 734932
+gi-nr: gi|46915408 gi_def: Photobacterium profundum SS9 chromosome 2; segment 2/7 hsp_num: 2 from: 233401 to: 233436
+gi-nr: gi|110673209 gi_def: Clostridium perfringens ATCC 13124, complete genome hsp_num: 1 from: 2438197 to: 2438235
+gi-nr: gi|47118322 gi_def: Clostridium perfringens str. 13 DNA, complete genome hsp_num: 1 from: 2224723 to: 2224761
+gi-nr: gi|110681940 gi_def: Clostridium perfringens SM101, complete genome hsp_num: 1 from: 2107227 to: 2107265
+gi-nr: gi|123959780 gi_def: Prochlorococcus marinus str. NATL1A, complete genome hsp_num: 1 from: 877871 to: 877909
+gi-nr: gi|154949252 gi_def: Prochlorococcus marinus str. NATL2A, complete genome hsp_num: 1 from: 824167 to: 824205
+gi-nr: gi|66270661 gi_def: Methylococcus capsulatus str. Bath, complete genome hsp_num: 1 from: 715250 to: 715288
+gi-nr: gi|118133308 gi_def: Clostridium novyi NT, complete genome hsp_num: 1 from: 1048803 to: 1048841
+gi-nr: gi|32263428 gi_def: Helicobacter hepaticus ATCC 51449, complete genome hsp_num: 2 from: 1575587 to: 1575622
+gi-nr: gi|149947715 gi_def: Alkaliphilus metalliredigens QYMF, complete genome hsp_num: 1 from: 2415154 to: 2415192
 
 
 Query-DNA-Entry-Section
@@ -22147,10 +22084,10 @@ gi-nr: gi|119862398 gi_def: Psychromonas ingrahamii 37, complete genome hsp_num:
 
 Statistic-Section
 
-1.7007     Pyrococcus abyssi complete genome; segment 1/6
-1.5198     Pyrococcus furiosus DSM 3638, section 12 of 173 of the complete genome
-1.1628     Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence
-1.1278     Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence
-1.1267     Vibrio fischeri ES114 chromosome I, complete sequence
-1.1067     Vibrio vulnificus CMCP6 chromosome I complete sequence
-1.1067     Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence
+1.7068     Pyrococcus abyssi complete genome; segment 1/6
+1.5253     Pyrococcus furiosus DSM 3638, section 12 of 173 of the complete genome
+1.1645     Vibrio parahaemolyticus RIMD 2210633 DNA, chromosome 1, complete sequence
+1.1294     Vibrio harveyi ATCC BAA-1116 chromosome I, complete sequence
+1.1204     Vibrio fischeri ES114 chromosome I, complete sequence
+1.1082     Vibrio vulnificus CMCP6 chromosome I complete sequence
+1.1082     Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence
