@@ -4,7 +4,7 @@ region.fas|1	gt csa	gene	40451	1999041	.	-	.	ID=gene1
 region.fas|1	gt csa	mRNA	539727	1470393	.	-	.	ID=mRNA1;Parent=gene1
 region.fas|1	gt csa	exon	539727	539736	0.6	-	.	Parent=mRNA1
 region.fas|1	gt csa	exon	539798	539809	0.667	-	.	Parent=mRNA1
-region.fas|1	gt cds	CDS	539809	539809	.	-	0	Parent=mRNA1
-region.fas|1	gt cds	CDS	1470326	1470384	.	-	2	Parent=mRNA1
+region.fas|1	gt cds	CDS	539809	539809	.	-	1	ID=CDS1;Parent=mRNA1
+region.fas|1	gt cds	CDS	1470326	1470384	.	-	0	ID=CDS1;Parent=mRNA1
 region.fas|1	gt csa	exon	1470326	1470393	0.971	-	.	Parent=mRNA1
 ###
