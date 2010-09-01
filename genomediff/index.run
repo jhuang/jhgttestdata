@@ -1,0 +1,82 @@
+# DATE 2010-09-01-11:41
+# RUN 005000_001 d:0.1 n:002 -parts 1
+# TIME overall 0.02
+# space peak in megabytes: 0.30 (in 1194 events)
+# RUN 005000_010 d:0.1 n:002 -parts 1
+# TIME overall 0.03
+# space peak in megabytes: 0.30 (in 1352 events)
+# RUN 005000_100 d:0.1 n:002 -parts 1
+# TIME overall 0.03
+# space peak in megabytes: 0.30 (in 1195 events)
+# RUN 005000_001 d:0.1 n:005 -parts 1
+# TIME overall 0.06
+# space peak in megabytes: 0.44 (in 1277 events)
+# RUN 005000_010 d:0.1 n:005 -parts 1
+# TIME overall 0.06
+# space peak in megabytes: 0.44 (in 1644 events)
+# RUN 005000_100 d:0.1 n:005 -parts 1
+# TIME overall 0.05
+# space peak in megabytes: 0.44 (in 1255 events)
+# RUN 005000_001 d:0.1 n:010 -parts 1
+# TIME overall 0.10
+# space peak in megabytes: 0.68 (in 2271 events)
+# RUN 005000_010 d:0.1 n:010 -parts 1
+# TIME overall 0.12
+# space peak in megabytes: 0.68 (in 1985 events)
+# RUN 005000_100 d:0.1 n:010 -parts 1
+# TIME overall 0.09
+# space peak in megabytes: 0.68 (in 1333 events)
+# RUN 010000_001 d:0.1 n:002 -parts 1
+# TIME overall 0.05
+# space peak in megabytes: 0.40 (in 1210 events)
+# RUN 010000_010 d:0.1 n:002 -parts 1
+# TIME overall 0.04
+# space peak in megabytes: 0.40 (in 1584 events)
+# RUN 010000_100 d:0.1 n:002 -parts 1
+# TIME overall 0.04
+# space peak in megabytes: 0.40 (in 1212 events)
+# RUN 010000_001 d:0.1 n:005 -parts 1
+# TIME overall 0.10
+# space peak in megabytes: 0.68 (in 1387 events)
+# RUN 010000_010 d:0.1 n:005 -parts 1
+# TIME overall 0.11
+# space peak in megabytes: 0.68 (in 2334 events)
+# RUN 010000_100 d:0.1 n:005 -parts 1
+# TIME overall 0.11
+# space peak in megabytes: 0.68 (in 1266 events)
+# RUN 010000_001 d:0.1 n:010 -parts 1
+# TIME overall 0.21
+# space peak in megabytes: 1.13 (in 2418 events)
+# RUN 010000_010 d:0.1 n:010 -parts 1
+# TIME overall 0.22
+# space peak in megabytes: 1.13 (in 3499 events)
+# RUN 010000_100 d:0.1 n:010 -parts 1
+# TIME overall 0.19
+# space peak in megabytes: 1.13 (in 1343 events)
+# RUN 015000_001 d:0.1 n:002 -parts 1
+# TIME overall 0.06
+# space peak in megabytes: 0.48 (in 1213 events)
+# RUN 015000_010 d:0.1 n:002 -parts 1
+# TIME overall 0.07
+# space peak in megabytes: 0.48 (in 2102 events)
+# RUN 015000_100 d:0.1 n:002 -parts 1
+# TIME overall 0.08
+# space peak in megabytes: 0.49 (in 1372 events)
+# RUN 015000_001 d:0.1 n:005 -parts 1
+# TIME overall 0.16
+# space peak in megabytes: 0.90 (in 2526 events)
+# RUN 015000_010 d:0.1 n:005 -parts 1
+# TIME overall 0.17
+# space peak in megabytes: 0.90 (in 2797 events)
+# RUN 015000_100 d:0.1 n:005 -parts 1
+# TIME overall 0.18
+# space peak in megabytes: 0.90 (in 1607 events)
+# RUN 015000_001 d:0.1 n:010 -parts 1
+# TIME overall 0.30
+# space peak in megabytes: 1.58 (in 8076 events)
+# RUN 015000_010 d:0.1 n:010 -parts 1
+# TIME overall 0.33
+# space peak in megabytes: 1.58 (in 6124 events)
+# RUN 015000_100 d:0.1 n:010 -parts 1
+# TIME overall 0.36
+# space peak in megabytes: 1.58 (in 1987 events)

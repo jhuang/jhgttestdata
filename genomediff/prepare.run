@@ -1,0 +1,55 @@
+# DATE 2010-09-01-11:41
+# RUN 005000_001 d:0.1 n:002 -reduceN
+# TIME overall 0.04
+# RUN 005000_010 d:0.1 n:002 -reduceN
+# TIME overall 0.04
+# RUN 005000_100 d:0.1 n:002 -reduceN
+# TIME overall 0.05
+# RUN 005000_001 d:0.1 n:005 -reduceN
+# TIME overall 0.12
+# RUN 005000_010 d:0.1 n:005 -reduceN
+# TIME overall 0.10
+# RUN 005000_100 d:0.1 n:005 -reduceN
+# TIME overall 0.09
+# RUN 005000_001 d:0.1 n:010 -reduceN
+# TIME overall 0.19
+# RUN 005000_010 d:0.1 n:010 -reduceN
+# TIME overall 0.15
+# RUN 005000_100 d:0.1 n:010 -reduceN
+# TIME overall 0.16
+# RUN 010000_001 d:0.1 n:002 -reduceN
+# TIME overall 0.05
+# RUN 010000_010 d:0.1 n:002 -reduceN
+# TIME overall 0.05
+# RUN 010000_100 d:0.1 n:002 -reduceN
+# TIME overall 0.05
+# RUN 010000_001 d:0.1 n:005 -reduceN
+# TIME overall 0.13
+# RUN 010000_010 d:0.1 n:005 -reduceN
+# TIME overall 0.12
+# RUN 010000_100 d:0.1 n:005 -reduceN
+# TIME overall 0.14
+# RUN 010000_001 d:0.1 n:010 -reduceN
+# TIME overall 0.27
+# RUN 010000_010 d:0.1 n:010 -reduceN
+# TIME overall 0.25
+# RUN 010000_100 d:0.1 n:010 -reduceN
+# TIME overall 0.28
+# RUN 015000_001 d:0.1 n:002 -reduceN
+# TIME overall 0.07
+# RUN 015000_010 d:0.1 n:002 -reduceN
+# TIME overall 0.07
+# RUN 015000_100 d:0.1 n:002 -reduceN
+# TIME overall 0.07
+# RUN 015000_001 d:0.1 n:005 -reduceN
+# TIME overall 0.18
+# RUN 015000_010 d:0.1 n:005 -reduceN
+# TIME overall 0.18
+# RUN 015000_100 d:0.1 n:005 -reduceN
+# TIME overall 0.18
+# RUN 015000_001 d:0.1 n:010 -reduceN
+# TIME overall 0.36
+# RUN 015000_010 d:0.1 n:010 -reduceN
+# TIME overall 0.36
+# RUN 015000_100 d:0.1 n:010 -reduceN
+# TIME overall 0.42
