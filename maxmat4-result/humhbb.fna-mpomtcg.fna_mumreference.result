@@ -1,0 +1,680 @@
+   10390    162577        14
+   11145     90025        15
+   11685     57834        16
+   11687     25901        14
+   11687     65514        14
+   11689    100335        14
+   11689     17325        14
+   11689     40936        14
+   11689     79237        14
+   11690     95716        15
+   11691     10380        14
+   11691     10393        14
+   11691     10583        14
+   11691     10596        14
+   11691     15031        14
+   11691     15044        14
+   11691    152269        14
+   11691    152282        14
+   11691    172210        14
+   11691    172223        14
+   11691      3826        14
+   11691      3839        14
+   11691     79754        14
+   11691     79767        14
+   11691     95702        15
+   11693    100322        14
+   11693     17338        15
+   11693     40949        14
+   11693     79224        14
+   11915     13379        14
+   12062    132477        14
+   12062     28088        15
+   12064    180932        14
+   12081     76369        15
+   12220      2116        15
+    1245      8944        14
+    1250    100361        14
+   12572    177210        14
+   12717     53498        14
+   12827    169259        14
+   13092    182089        14
+   13092     36834        14
+   13244    112481        15
+   13244     14659        14
+   13244     14717        14
+   13252     84060        15
+   13261     18299        15
+    1350     72408        15
+    1351    179569        14
+   13527    171030        14
+   13570     70759        15
+   13576     16943        14
+   14198    122165        14
+   15204    176082        14
+   15364     10957        14
+   15504    122253        14
+   15719     91715        14
+   17315     41164        15
+   17396    154994        15
+   17418    130636        17
+   17420    168058        15
+   17676    132460        20
+   17702    163433        14
+   17713     41163        15
+   18196    111998        14
+   18205    171597        14
+   18205     21322        14
+   18213    180620        17
+   18216    180928        14
+   18406     94132        14
+   18581    177527        14
+   18802     36222        15
+   18955    174359        14
+   20260     87680        14
+   20405    163826        14
+   20753     81658        15
+   21067     62440        14
+   21255     77972        14
+   21269    165733        14
+   21271    123200        14
+   21415     68563        15
+   22258    119631        14
+   22740     91997        15
+   23032     42982        15
+     235    182102        14
+     235     36847        14
+   23576    174696        15
+   24056     64076        14
+   24306     94829        14
+   24543     70774        15
+   25023    122458        14
+   25204     23822        15
+   25257    117737        16
+   25380    103835        15
+   25380     26615        15
+   25512    118616        14
+   25649    160757        14
+   25894     65281        14
+   26554     41887        14
+    2690     31422        16
+   26998       444        16
+    2700    125732        15
+   27325    174356        14
+   28087     19725        15
+   28286    127864        14
+   28794    175689        16
+   29368     45118        14
+   29647     90041        14
+   29801    171959        14
+   31142    167886        14
+   31270    103914        14
+    3129     69079        14
+   32691     99629        14
+   33285    185039        15
+   33310    119439        14
+   33338    175695        15
+   33341    159092        15
+   33348    144906        17
+   33736     18827        14
+   36605     41549        14
+   37326     61047        14
+   37561     31429        14
+   37573     43734        14
+   37734    177514        14
+   37755     80528        15
+   37935    178223        14
+   37935    179571        14
+   37935    180938        14
+   37935     72405        14
+   37943     29677        15
+   37956     48012        15
+   41003    186315        14
+     411     71658        14
+   41682    162035        14
+     418     81648        14
+   42023    166488        14
+   42340     20241        14
+   42344    156283        14
+   42344    167455        14
+    4244     90898        14
+   42501    179256        15
+   42510    185319        14
+   42510     75645        15
+   42513     32646        14
+   42513     80165        14
+   42817     72915        14
+   42885    150048        15
+   43208    130736        14
+   43546    182165        14
+   45836     55884        15
+   46672     60596        14
+   46747    184831        15
+   46748    165897        14
+   47235     50026        14
+   47238    175526        17
+   47954     54708        14
+   47988    146013        14
+   48377     35027        14
+   48467    168761        14
+   48757    143887        14
+   48776    100155        14
+   49179     38619        14
+   49179     75198        14
+   49603     93839        15
+   49630     71790        14
+   49795     13982        17
+   50275     35699        17
+    5055     27934        14
+   50895    138123        14
+   50896    132463        18
+   50900    138124        14
+   51542     12268        14
+   52098     59203        14
+   52267    156297        14
+   52267    167441        14
+   53264     78459        16
+   54272     84431        14
+   55614    152323        14
+   55769     28874        14
+   55971    172622        14
+   56698      5012        14
+   56944      4629        14
+   56982     31508        14
+   57200     28467        15
+   57763     12691        14
+   57797    176963        15
+   57874     73359        15
+   57877     95384        16
+   57879     32336        14
+   58449     27577        14
+   58812     74499        14
+    5918     98392        17
+   60028     30260        14
+   60130      8193        14
+   60176     81169        15
+   60237    125199        15
+   60395     43536        14
+   60674     92496        14
+   60717    166241        14
+   60717    166246        14
+   60719     44991        16
+   61089     50383        14
+   61489     50040        15
+   61492    182326        14
+   61539    181074        14
+   61595     51062        17
+   61597    112513        16
+   61597    179559        19
+   61597    179570        16
+   61597      6421        18
+   61597      6432        16
+   61598    151420        18
+   61599    101648        17
+   61599     10382        15
+   61599     10391        16
+   61599     10594        15
+   61599     15033        17
+   61599     15042        17
+   61599    152271        17
+   61599    152280        15
+   61599    172212        17
+   61599    172221        16
+   61599     18610        16
+   61599     35065        16
+   61599      3837        16
+   61599     48724        16
+   61599     79756        17
+   61599     79765        17
+   61599     95713        16
+   61600     17144        15
+   61600     17604        16
+   61600    178533        18
+   61600     31864        16
+   61600     58027        16
+   61600     70777        20
+   61601    166559        15
+   61601    175316        16
+   61601    175323        15
+   61601    186290        14
+   61601     25895        16
+   61602     40938        15
+   61602     69983        15
+   61606     65554        15
+   61607    150746        14
+   61607     72947        14
+    6226      3827        14
+   62783     14021        14
+   62926    151938        14
+   63342    156182        14
+   63611    115354        14
+   63718    184567        14
+   63742    172948        14
+   64063     83315        14
+   64119      8786        15
+   64291     48084        14
+   64769    177097        14
+   64795     48026        15
+   64864     29078        15
+   64975     68899        15
+   65295    153395        14
+   65295     29708        14
+   65498    123516        15
+   65501     19992        14
+   65525    123268        14
+   65662     59216        14
+   65979    182125        14
+   65987     71102        15
+   65989     23697        14
+   66099    102048        14
+   66132    112495        15
+   66133     14646        14
+   66133     14704        14
+   66136    109585        15
+   66273     50039        15
+   66650    169277        15
+   66876     13794        14
+   67042    180132        15
+   67042     30480        15
+   67043    150764        18
+   67043    151933        17
+   67043     92583        14
+   67044     43745        14
+   67045    163215        15
+   67045    166528        15
+   67045    180929        14
+   67045     18490        15
+   67045     28141        15
+   67045     33910        15
+   67045     48380        15
+   67045     59361        15
+   67045     68653        15
+   67045     78683        15
+   67046    167439        14
+   67047     58410        14
+   67047     72933        14
+   67059     29093        14
+   68263     79849        14
+   69422     62426        14
+   69542     18891        14
+   69597    181095        14
+    7008      6223        14
+   70266     20372        14
+   70459    143674        15
+   71460     68217        14
+   71536    184957        15
+   72008     92510        14
+   72353     81644        14
+    7236    177331        14
+   72474    174849        15
+     728    107378        14
+    7862     29991        16
+    7865    123526        14
+    7894     90238        14
+    7969     85734        14
+    8765      1878        14
+    8879     40956        17
+    8881    100313        19
+    8881    100332        19
+    8881    112476        18
+    8881     40939        15
+    8881     51048        17
+    8881     51065        17
+    8881     79209        22
+    8881     79234        22
+    8885     14647        19
+    8887     14705        17
+    8911     14666        20
+    8911     14722        18
+    8913     79211        25
+    8913     79232        28
+    8914     79210        22
+    8914     79233        22
+    8918    100314        20
+    8918    100331        21
+    8919    112493        20
+    8920     51049        18
+    8920     51064        18
+    9719    168425        14
+    9747    181325        14
+    9929    150164        15
+aaaaaaaaaagaaaa
+aaaaaaaaaagaaaa
+aaaaaaaaaagaga
+aaaaaaaaaaggac
+aaaaaaaaaatgaaa
+aaaaaaaaagaaaa
+aaaaaaaaagaaaaaaa
+aaaaaaaaagaaaaaaaa
+aaaaaaaaagagcaaa
+aaaaaaaaatgaaa
+aaaaaaaagaaaaa
+aaaaaaaatacttt
+aaaaaaacagcatgaat
+aaaaaaagaaaaaa
+aaaaaaagaaaaaaa
+aaaaaaagaaaaaaa
+aaaaaaagaaaaaaa
+aaaaaaagaaaaaaa
+aaaaaaagaaaaaaa
+aaaaaaagaaaaaaa
+aaaaaaagaaaaaaa
+aaaaaaagaaaaaaa
+aaaaaaagaaaaaaa
+aaaaaaagagcaaa
+aaaaaactaaaaaa
+aaaaaagaaaaaaa
+aaaaaagaaaaaat
+aaaaaataaaaaaat
+aaaaacaacaacaa
+aaaaacatatttttttt
+aaaaagaaaaaaaa
+aaaaagaaaaaaaa
+aaaaataaagaaaaa
+aaaaatagaataaa
+aaaaatctttatcg
+aaaacaaaataaaa
+aaaagaaaaaaaga
+aaaagaaaaaaaga
+aaaagaaaaagaaa
+aaaagaaaaagaaa
+aaaataaaaaaatg
+aaacaaacaaaaaa
+aaacataaaaaagt
+aaacataaaaaagt
+aaacatatttttttt
+aaacattcttttcc
+aaagaagaatgaaa
+aaaggcataatgat
+aaagtaaagaaaaa
+aaataaatatatat
+aaataaatatatat
+aaatataataaataa
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattt
+aaatatatatattta
+aaatgcaaatcaaaa
+aacaaaaaaataaa
+aacttaaaaaaaaa
+aagaaaaaagaaaaaat
+aagaaagaggtttt
+aagaactgaagttg
+aagagaaaaaaata
+aagagtaagatatt
+aagctattttttttt
+aaggaactatgtac
+aagggggggggggg
+aagtttaaactgca
+aataaaaaacattt
+aataaagaaaaaaac
+aatagaataaagaaata
+aatatatatatatat
+aatatatatatatatat
+aatatatatatatatat
+aatatatatatatatata
+aatatatatatatatatat
+aatatatatatatatatat
+aatatatatatatatatatata
+aatatatatatatatatatata
+aatatttaatcata
+aattttgaatgaaat
+acaaaacaaaacaaa
+acaagtttataaaaa
+acactttatttcac
+acattttctaaaat
+acctaccaaaaaat
+actaaaaatataaa
+agaaaaatctttat
+agagaaaaaacaaaa
+agagaataaaatac
+agattggaaaatctt
+aggaaaaataaagaa
+aggtttcatattgc
+agtttattatatgaatt
+ataaaaagaaaata
+ataaataaatatatat
+ataaatatatatat
+ataaatatatatat
+ataaatatatatat
+ataaatatatatat
+ataacctggtattg
+atactacccaaaaa
+atataaaacatatat
+atataatacccttt
+atatatatacataaa
+atatatatatataa
+atatatatatataa
+atatatatatataaa
+atatatatatatatatatatat
+atatatatatatatatatatat
+atatatatatatatatattt
+atatatatatatatatatttg
+atatatatatatatattt
+atatatatatatatattt
+atatatatatatatttt
+atatatatatattttt
+atatatatatattttt
+atatatatatattttt
+atatatatatattttttt
+atatatatatatttttttt
+atatatatatttat
+atatatatatttat
+atatatatatttat
+atatatatatttatg
+atatatatatttttt
+atatatatatttttt
+atatatatatttttt
+atatatatattttttt
+atatatatattttttt
+atatatatattttttt
+atatatatattttttt
+atatatatattttttt
+atatatatattttttt
+atatatatattttttt
+atatatatatttttttt
+atatatatatttttttt
+atatatatatttttttt
+atatatatatttttttt
+atatatatatttttttt
+atatatatatttttttt
+atatatatatttttttt
+atatatattttttt
+atatatatttttttt
+atatatatttttttt
+atatatattttttttc
+atatatattttttttc
+atatttattgacatg
+atggcaaaaaaaag
+atgtatataatctta
+attaatcaattaat
+atttatcatttctat
+atttattctattttt
+atttctcgatgagg
+atttctcgatgagg
+attttaggattgtt
+attttattatatga
+attttgtattttta
+atttttttgtttttt
+attttttttctttt
+attttttttctttt
+atttttttttcctt
+caaaaacaaacaaa
+caaacataagaaaa
+caaatataataaata
+caataaataataaa
+caatctttttttct
+caatgaaataaaaga
+caatgatgtattta
+caattttattctact
+cagaaagtgtttctg
+cagggtcttgaaaac
+caggtttttctttc
+catatttttatatt
+catgtatatatata
+cattcatatatgta
+catttttttttcctt
+ccctgaagtgttcct
+cctgttttgtttct
+ccttttaattttatt
+cggaatctgcagtg
+cgtatatatatatatata
+cgtatatatatatatatata
+ctgcaaaaaaaatt
+ctgcatctctcagc
+cttcatttaacttt
+ctttccaattttaaa
+ctttttaataattg
+cttttttttttttt
+gaaaaaacaaacaa
+gaaaacaaaacaaaa
+gaaagaaagaaaag
+gaaaggaaatcaacc
+gaatttgggtgttt
+gaggatccagtttc
+gccagtctcagagc
+gccattattgtatt
+gctatattttgtcaa
+gctcgctttcttgc
+gcttaaagccctgt
+ggaggaagttcgaa
+ggatgatatgatgg
+ggtatcaattcttct
+ggtatcaattcttct
+gtcaaaaaaaaagag
+gtccaacttatgtt
+gtcctttttttttt
+gtctaaagaaaaaa
+gtgttttttttttttttttt
+gttaaaaaaaagct
+taaaaatacaaaat
+taaaatccaaaatct
+taaaatgaaatgaaa
+taaactaagacctaa
+taaatatatatattt
+taaattcctcgacac
+taaattttagtaaa
+taatgggagacttt
+taccgtaatttatcaa
+taggctataggaag
+tagtgttttttttttt
+tataaatcatttta
+tatatatatatatatac
+tatatatatatatatatac
+tatatatatatatatatatatattt
+tatatatatatatatatatatatttgtt
+tatatatatatatatatttg
+tatatatatatttta
+tatatatatatttttttt
+tatatatattttttt
+tatatatatttttttt
+tatatatatttttttt
+tatatatatttttttt
+tatatatattttttttct
+tatatatattttttttcttt
+tatatattttttttc
+tatatattttttttc
+tatatttctttctt
+tatatttttcctat
+tatccaataaatattt
+tatgtatattatttg
+tattaacagattta
+tattcatttgtgaa
+tattcgaaagacagt
+tattctatttttag
+tattgttttatttt
+tattgttttatttt
+tatttggagatgaaaaa
+tattttattatctat
+tatttttgttgtatat
+tattttttttctttt
+tcagtctactcggt
+tcagtttttttttt
+tcatagagaaatgaa
+tccaacaaaaaaataa
+tccatagcacctaat
+tctggaattagagga
+tctgtaagattata
+tcttattatacttt
+tcttctggaatagg
+tcttttatttgctg
+tcttttttttacat
+tgaaactggatcct
+tgaatatatatatatat
+tgactggggactta
+tgagaaaaaactct
+tgatgttgaatttt
+tgcaaaatctaaca
+tgccctttcccatt
+tgctcttgttgtcc
+tggaatcttagcat
+tgttttttgttttt
+tgttttttgtttttt
+ttaaaaaaaaaaaa
+ttaaaaaaaaaaaa
+ttataccaccagagtcc
+ttatatatatatat
+ttatatatatatat
+ttatgggaaaacaa
+ttattaaattgaaa
+ttattatctttatt
+ttatttatgcattt
+ttcaaaacacctct
+ttcataaaacaagt
+ttctttttgtttag
+ttctttttttcttt
+ttctttttttcttt
+ttgattctaaaata
+ttggaaggtttact
+ttgtaaaataagct
+ttgtttctttgtag
+ttgttttaatttca
+ttgttttattttattt
+ttgtttttcatatt
+ttgtttttcttttc
+tttaaaccaacaaa
+tttatataattttt
+tttatatatatatat
+tttatcttcatttt
+tttattctatttttt
+tttattcttttttt
+tttcagaatactat
+tttcagtttttttt
+tttcagttttttttt
+tttcatttcatttta
+tttctataaatatg
+tttcttcagtaatc
+tttcttttttgtttt
+tttcttttttttcc
+tttgattgtttaac
+tttgcttatttatg
+tttgtttgttttttc
+ttttatggttttaggt
+tttttaaaattgga
+tttttgttttgtttt
+tttttgttttttta
+tttttgtttttttt
+tttttgtttttttt
+ttttttcatatgttt
+ttttttccacagca
+tttttttgaaaaga
+ttttttttcctttt
+ttttttttcctttt
+ttttttttcctttt
+ttttttttcctttt
+ttttttttttcttg
+ttttttttttttaa
+ttttttttttttaa
+tttttttttttttc
+tttttttttttttttttc
